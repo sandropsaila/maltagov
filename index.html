@@ -101,7 +101,7 @@ table.people-table tr:last-child td{border-bottom:none;}
 const ROLE_LABELS = {chairman:'Chairman',chairperson:'Chairperson',executive_chairman:'Executive Chairman',ceo:'CEO',planning_board_chairman:'Planning Board Chairman',board_secretary:'Board Secretary',deputy_chairman:'Deputy Chairman',deputy_chairperson:'Deputy Chairperson'};
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
-function bioHref(entity,person){return 'bios/'+slug(entity)+'-'+slug(person)+'.html';}
+function bioHref(entity,person,bioEntity){return 'bios/'+slug(bioEntity||entity)+'-'+slug(person)+'.html';}
 function findChair(chairs,name){return chairs[name]||null;}
 
 function render(data){
@@ -143,7 +143,7 @@ function render(data){
         contactHtml = contacts.map(([label,val])=>{
           const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
           if(matched){
-            const href = bioHref(name,matched);
+            const href = bioHref(name,matched,chair.bio_entity);
             return `<a class="contact-block contact-clickable" href="${href}"><div class="contact-name">${esc(val)}</div><div class="contact-title">${esc(label)}</div></a>`;
           }
           return `<div class="contact-block"><div class="contact-name">${esc(val)}</div><div class="contact-title">${esc(label)}</div></div>`;
@@ -158,7 +158,7 @@ function render(data){
         const memberLinks = chair.board_members.map(member=>{
           const matched = Object.keys(bios).find(b=>member.includes(b)||b.includes(member));
           if(matched){
-            return `<a class="member-link" href="${bioHref(name,matched)}">${esc(member)}</a>`;
+            return `<a class="member-link" href="${bioHref(name,matched,chair.bio_entity)}">${esc(member)}</a>`;
           }
           return esc(member);
         }).join(', ');
@@ -166,11 +166,11 @@ function render(data){
       }
       contacts.forEach(([label,val])=>{
         const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
-        people.push({name:val, position:label, entity:name, href: matched?bioHref(name,matched):null, source: matched?bioSrc[matched]:null});
+        people.push({name:val, position:label, entity:name, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
       (chair.board_members||[]).forEach(member=>{
         const matched = Object.keys(bios).find(b=>member.includes(b)||b.includes(member));
-        people.push({name:member, position:'Board Member', entity:name, href: matched?bioHref(name,matched):null, source: matched?bioSrc[matched]:null});
+        people.push({name:member, position:'Board Member', entity:name, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
 
       return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${contactHtml}${membersHtml}</div>`;
