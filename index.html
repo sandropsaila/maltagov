@@ -98,7 +98,7 @@ table.people-table tr:last-child td{border-bottom:none;}
 <div id="loadingMsg">Loading Malta government structure register…</div>
 <div id="app" class="hidden"></div>
 <script>
-const ROLE_LABELS = {chairman:'Chairman',chairperson:'Chairperson',executive_chairman:'Executive Chairman',ceo:'CEO',planning_board_chairman:'Planning Board Chairman',board_secretary:'Board Secretary',deputy_chairman:'Deputy Chairman',deputy_chairperson:'Deputy Chairperson'};
+const ROLE_LABELS = {chairman:'Chairman',chairperson:'Chairperson',executive_chairman:'Executive Chairman',ceo:'CEO',coo:'Chief Operating Officer',planning_board_chairman:'Planning Board Chairman',board_secretary:'Board Secretary',deputy_chairman:'Deputy Chairman',deputy_chairperson:'Deputy Chairperson'};
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
 function bioHref(entity,person,bioEntity){return 'bios/'+slug(bioEntity||entity)+'-'+slug(person)+'.html';}
