@@ -2285,15 +2285,17 @@
       "ceo": "Kenneth Brincat",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "source": "https://whoswho.mt/en/who-s-who-in-malta-meet-kenneth-brincat-chief-executive-officer-malta-digital-innovation-authority-mdia ; https://tvmnews.mt/en/news/mdia-announces-new-ceo/",
-      "note": "Chairman position could not be confirmed as currently held; no current MDIA chairman name found in public sources as of this check.",
       "checked": "2026-08-13",
-      "bio_status": "PARTIALLY RESEARCHED",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Kenneth Brincat": "Chief Executive Officer of the Malta Digital Innovation Authority (MDIA), Malta's certification authority for innovative technology arrangements spanning Distributed Ledger Technology, smart contracts, AI and cybersecurity. Appointed CEO in October 2021, succeeding Stephen McCarthy. Leads MDIA's National AI Strategy realignment, shifting focus from a technology-first approach toward societal wellbeing and sustainability."
+        "Kenneth Brincat": "Chief Executive Officer of the Malta Digital Innovation Authority (MDIA), Malta's certification authority for innovative technology arrangements spanning Distributed Ledger Technology, smart contracts, AI and cybersecurity. Appointed CEO in October 2021, succeeding Stephen McCarthy. Leads MDIA's National AI Strategy realignment, shifting focus from a technology-first approach toward societal wellbeing and sustainability.",
+        "Wayne Grixti": "Chairman of the Malta Digital Innovation Authority (MDIA) and concurrently Chief Executive Officer of Tech.mt. Formerly Chief Technology Officer at Air Malta and at the MDIA; has chaired the Malta.AI Taskforce."
       },
       "bio_sources": {
-        "Kenneth Brincat": "https://whoswho.mt/en/who-s-who-in-malta-meet-kenneth-brincat-chief-executive-officer-malta-digital-innovation-authority-mdia"
-      }
+        "Kenneth Brincat": "https://whoswho.mt/en/who-s-who-in-malta-meet-kenneth-brincat-chief-executive-officer-malta-digital-innovation-authority-mdia",
+        "Wayne Grixti": "https://tech.mt/technology-industry-malta/the-board/"
+      },
+      "chairman": "Wayne Grixti"
     },
     "GamingMalta Foundation": {
       "ceo": "Ivan Filletti",
@@ -2308,6 +2310,76 @@
       "bio_sources": {
         "Ivan Filletti": "https://www.gamingmalta.org/about/"
       }
+    },
+    "Gozo Channel (Operations) Limited": {
+      "chairperson": "Marlene Cini",
+      "ceo": "Ronald Sultana",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://www.maltatoday.com.mt/news/national/142960/gozo_channel_appoints_new_ceo_and_first_female_chairperson ; https://www.independent.com.mt/articles/2026-07-03/local-news/New-leadership-appointed-at-Gozo-Channel-Operations-Ltd-roles-of-Chairperson-and-CEO-separated-6736291083",
+      "note": "Roles of Chairperson and CEO were formally separated for the first time in July 2026; both appointed under the Ministry for Gozo, which administers this company though it is listed under METP in the OAB register.",
+      "checked": "2026-08-13",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Marlene Cini": "First female Chairperson of Gozo Channel Operations Ltd, appointed July 2026 as part of a restructuring separating the Chairperson and CEO roles for the first time. A lawyer with extensive experience in public administration, legal affairs and corporate governance; previously served as Board Secretary of Gozo Channel Operations Ltd, Board Secretary of the Gozo Regional Development Authority, and Vice Head of Malta's delegation in an EU body. Succeeded outgoing Chairman Joe Cordina.",
+        "Ronald Sultana": "Chief Executive Officer of Gozo Channel Operations Ltd, appointed July 2026 in a restructuring that made the CEO role a full-time executive position for the first time, focused on fleet modernisation, Mġarr Harbour upgrades and digital ticketing systems. Previously served since 2019 as Director for Tourism and Economic Development within the Ministry for Gozo."
+      },
+      "bio_sources": {
+        "Marlene Cini": "https://www.independent.com.mt/articles/2026-07-03/local-news/New-leadership-appointed-at-Gozo-Channel-Operations-Ltd-roles-of-Chairperson-and-CEO-separated-6736291083",
+        "Ronald Sultana": "https://www.maltatoday.com.mt/news/national/142960/gozo_channel_appoints_new_ceo_and_first_female_chairperson"
+      }
+    },
+    "Indis Malta Limited": {
+      "executive_chairman": "Dr Jean Pierre Attard",
+      "ceo": "Karl Azzopardi",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://whoswho.mt/en/who-s-who-in-malta-meet-jean-pierre-attard-chairman-indis-malta-ltd ; https://indismalta.com/blogs/pr230863/ ; https://whoswho.mt/en/company-profiles-in-malta-indis-malta-ltd-the-largest-operator-of-industrial-parks-in-the-maltese-islands",
+      "checked": "2026-08-13",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Jean Pierre Attard": "Executive Chairperson of INDIS Malta Ltd (formerly Malta Industrial Parks Ltd), the largest operator of industrial parks in Malta and Gozo, responsible for administering government-owned industrial estates. Chairperson of INDIS for three years before being appointed Executive Chairperson from 1 July 2023, succeeding Keith Fenech. Also Chief Executive Officer of MIMCOL (Malta Investment Management Company) Ltd since September 2022. Has a background in politics alongside his professional career.",
+        "Karl Azzopardi": "Chief Executive Officer and Managing Director of INDIS Malta Ltd, working alongside Executive Chairperson Dr Jean Pierre Attard on the company's €470 million industrial infrastructure investment programme spanning factories, artisan villages, life sciences laboratories and aviation-cluster facilities."
+      },
+      "bio_sources": {
+        "Dr Jean Pierre Attard": "https://whoswho.mt/en/who-s-who-in-malta-meet-jean-pierre-attard-chairman-indis-malta-ltd",
+        "Karl Azzopardi": "https://whoswho.mt/en/company-profiles-in-malta-indis-malta-ltd-the-largest-operator-of-industrial-parks-in-the-maltese-islands"
+      }
+    },
+    "Tech.mt Foundation Board": {
+      "ceo": "Wayne Grixti",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://tech.mt/technology-industry-malta/the-board/ ; https://monacoresidentsmagazine.com/2025/03/11/monaco-entrepreneur-fuels-maltas-innovation-growth/",
+      "checked": "2026-08-13",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Wayne Grixti": "Chief Executive Officer of Tech.mt, the foundation promoting Malta's technology industry, and concurrently Chairman of the Malta Digital Innovation Authority (MDIA). Formerly Chief Technology Officer at Air Malta and at the MDIA; has chaired the Malta.AI Taskforce. Leads Malta's Virtual Economy and digital-twin initiatives in the Metaverse."
+      },
+      "bio_sources": {
+        "Wayne Grixti": "https://tech.mt/technology-industry-malta/the-board/"
+      }
+    },
+    "Malta Trade Fairs Corporation": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Corporations/Malta-Trade-Fairs-Corporation-.aspx",
+      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
+      "checked": "2026-08-13",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malta Crafts Foundation": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Foundations/Malta-Crafts-Foundation.aspx",
+      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
+      "checked": "2026-08-13",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Business First Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://www.businessfirst.com.mt/",
+      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
+      "checked": "2026-08-13",
+      "bio_status": "SEARCHED - NO INFO FOUND"
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
