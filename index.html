@@ -47,6 +47,7 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .entity-type{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);display:block;margin-top:2px;}
 .chair-tag{font-size:11px;white-space:nowrap;padding:3px 8px;border-radius:2px;font-family:'IBM Plex Mono',monospace;flex-shrink:0;}
 .chair-pending{background:var(--pending-bg);color:var(--muted);}
+.chair-noinfo{background:transparent;color:var(--muted);border:1px dashed var(--muted);}
 .contact-block{background:var(--known-bg);border-radius:2px;padding:8px 12px;display:flex;flex-direction:column;gap:2px;}
 .contact-name{font-size:13.5px;color:var(--known);font-weight:600;}
 .contact-clickable{cursor:pointer;}
@@ -66,6 +67,7 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .dot{width:8px;height:8px;border-radius:50%;display:inline-block;}
 .dot.known{background:var(--known);}
 .dot.pending{background:var(--gold);}
+.dot.noinfo{background:transparent;border:1px dashed var(--muted);}
 footer{text-align:center;padding:40px 24px 60px;color:var(--muted);font-size:12px;font-family:'IBM Plex Mono',monospace;border-top:1px solid var(--line);}
 footer a{color:var(--malta-red);}
 .hidden{display:none!important;}
@@ -146,6 +148,8 @@ function render(data){
           }
           return `<div class="contact-block"><div class="contact-name">${esc(val)}</div><div class="contact-title">${esc(label)}</div></div>`;
         }).join('');
+      } else if(chair.no_info_found){
+        contactHtml = `<div class="chair-tag chair-noinfo" style="align-self:flex-start;">no info found</div>`;
       } else {
         contactHtml = `<div class="chair-tag chair-pending" style="align-self:flex-start;">under verification</div>`;
       }
@@ -185,7 +189,7 @@ function render(data){
   const html = `
 <header><div class="eyebrow">Government of Malta — Working Register</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span><strong>${totalChairs}</strong> chairs confirmed</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div><div class="jump-link-wrap"><span class="jump-link" role="link" tabindex="0" onclick="showPeople()">↓ Jump to People Directory (${people.length} people)</span></div></header>
 <div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
-<div class="legend" style="margin-top:24px;"><span><i class="dot known"></i>Chair/CEO confirmed</span><span><i class="dot pending"></i>Not yet researched</span></div>
+<div class="legend" style="margin-top:24px;"><span><i class="dot known"></i>Chair/CEO confirmed</span><span><i class="dot noinfo"></i>Searched — no info found</span><span><i class="dot pending"></i>Not yet researched</span></div>
 <div class="people-toggle-wrap"><button id="peopleToggle" onclick="togglePeople()">☰ People Directory (${people.length} individuals identified)</button></div>
 <div id="peopleDirectory" class="people-directory hidden"><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Source</th></tr></thead><tbody>${peopleRows}</tbody></table><p class="people-note">Source links point to the specific article, profile, or official page each bio was researched from — mainly LinkedIn, maltaceos.mt, and official entity websites. Left blank where no bio has been researched yet.</p></div>
 <main id="list">${mHtml.join('')}</main>
