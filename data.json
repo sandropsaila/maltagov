@@ -2403,7 +2403,7 @@
       "bio_status": "FULLY RESEARCHED",
       "bios": {
         "Wayne Grixti": "Chairperson of the Malta Digital Innovation Authority (MDIA) and concurrently Chief Executive Officer of Tech.mt. Formerly Chief Technology Officer at Air Malta and at the MDIA; has chaired the Malta.AI Taskforce. In his Chairperson's Foreword to the MDIA's 2024 Annual Report, he highlighted the launch of DiHubMT (Malta's European Digital Innovation Hub) as a landmark 2024 achievement and set out the Authority's 2026-2028 strategy priorities of agility, partnership-building, and inclusion.",
-        "Sandro Micallef": "Vice Chairperson of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report.",
+        "Sandro Micallef": "Vice Chairperson of the Board of Governors of the Malta Digital Innovation Authority (MDIA), confirmed in the Authority's 2024 Annual Report. Board records show he has served on the MDIA Board continuously since at least the 2020 reporting year (per the Authority's 2020 Annual Report, published 2022), indicating a long-standing appointment through multiple board terms alongside fellow long-serving members Patrizia Busuttil, Nigel Vella and Omar Vella. No further distinct public biographical or professional details could be confirmed for this individual: several other people named Sandro Micallef have a public profile in Malta (in sports broadcasting, financial services and hospitality marketing), but none could be verified as the same person holding this board seat.",
         "Dr Ramona Attard": "Secretary to the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report.",
         "Daniel Ablett": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
         "Patrizia Busuttil": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
@@ -2417,7 +2417,10 @@
       },
       "bio_sources": {
         "Wayne Grixti": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
-        "Sandro Micallef": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Sandro Micallef": [
+          "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+          "https://fliphtml5.com/ifsfe/aody/Malta_Digital_Innovation_Agency_-_Annual_Report_2022/"
+        ],
         "Dr Ramona Attard": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
         "Daniel Ablett": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
         "Patrizia Busuttil": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
