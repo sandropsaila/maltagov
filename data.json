@@ -2103,8 +2103,8 @@
     },
     "Insolvency Fund Management Board": {
       "ministry": "Tourism (MFT)",
-      "source": "https://www.mta.com.mt/en/insolvency-fund ; https://fatta.org/package-travel-insolvency-fund/",
-      "checked": "2026-08-13",
+      "source": "https://www.mta.com.mt/en/insolvency-fund ; https://fatta.org/package-travel-insolvency-fund/ ; https://parlament.mt/media/134220/05523.pdf (MTA 2024 Annual Report - confirms fund exists, restricted cash disclosed, but no board member/chairman names given)",
+      "checked": "2026-08-14",
       "bio_status": "NO INFO FOUND for Chairman and MTA's 2 nominees. Per the Package Travel Insolvency Fund Regulations (LN 315/2016), the 5-member Board = 2 MTA nominees + 2 FATTA nominees + 1 Minister-appointed Chairman (in consultation with FATTA). FATTA's 2 nominees (Noel Farrugia, Martin Degiorgio) are confirmed via FATTA's own council page. The MTA's official Boards & Committees page (mta.com.mt/boards-committees) lists only the main MTA Board, Enforcement Board and Tourism Appeals Board -- it does not list the Insolvency Fund Managing Board's composition, and no chairman name or MTA nominee names surfaced in gov.mt notices or news coverage after repeated searches. Re-checked 2026-08-13, still unresolved -- tagged as searched/no info found rather than left pending.",
       "board_members": [
         "Noel Farrugia",
@@ -2123,8 +2123,8 @@
     "Paceville Town Centre Management Committee": {
       "chairperson": "Philip Fenech",
       "ministry": "Tourism (MFT)",
-      "source": "https://businessnow.mt/paceville-as-it-now-stands/ ; https://www.independent.com.mt/articles/2024-02-02/local-news/Paceville-Town-Centre-Management-Committee-launched-6736258311",
-      "checked": "2026-08-13",
+      "source": "https://businessnow.mt/paceville-as-it-now-stands/ ; https://www.independent.com.mt/articles/2024-02-02/local-news/Paceville-Town-Centre-Management-Committee-launched-6736258311 ; https://businessnow.mt/paceville-as-it-now-stands/ (April 2026 - confirms Philip Fenech still Chairman as of this date)",
+      "checked": "2026-08-14",
       "bio_status": "Chairman Philip Fenech confirmed (also Deputy President, Malta Chamber of SMEs). Searched specifically for other named individual members beyond the chairman: the Malta Independent's launch coverage and subsequent reporting name only the represented institutions -- Malta Hotels & Restaurants Association (MHRA), St Julian's local council, the Police, the Malta Tourism Authority, the Association of Catering Establishments and unspecified private-sector operators -- without naming the individual representatives each body sent to the committee. No committee member list, minutes, or roster with named individuals (beyond Fenech) surfaced in gov.mt, MHRA, or news searches. NOTE: not to be confused with Richard Scicluna, chairman of the separate Paceville local administrative council (Kumitat Amministrattiv Paceville).",
       "bios": {
         "Philip Fenech": "Chairman of the Paceville Town Centre Management (TCM) Committee, the body overseeing the district's ongoing regeneration under the Tourism Zones Regeneration Agency. Writing in a bylined April 2026 opinion piece, he described Paceville as having evolved into a 24-hour economy blending high-level finance, international iGaming, nightlife and five-star hospitality, pointing to developments such as Mercury Towers and the Portomaso Business Tower as evidence of the district's growth beyond its traditional nightlife identity. He has framed his oversight role around balancing continued development - including completed subterranean infrastructure works and ongoing road resurfacing - with residents' and traders' concerns about disruption during the transformation."
@@ -2145,9 +2145,9 @@
     "ITS New Campus Ltd Board": {
       "ministry": "Tourism (MFT)",
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Companies/ITS-New-Campus-Ltd.aspx (page exists, blocks automated access)",
-      "checked": "2026-08-13",
+      "checked": "2026-08-14",
       "no_info_found": true,
-      "bio_status": "NO INFO FOUND - Confirmed entity exists as an officially registered company with its own gov.mt board-of-directors page, but that page blocks automated access (robots disallowed) and no board member or chairman names surfaced across repeated searches, gov.mt, ITS's own site, or news coverage. Likely a low-profile project-delivery subsidiary tied to the ITS Smart City/Kalkara campus build, distinct from the ITS Board of Governors (chaired by Edward Zammit). Re-checked 2026-08-13, still unresolved - tagged as searched/no info found rather than left pending."
+      "bio_status": "NO INFO FOUND - Confirmed entity exists as an officially registered company with its own gov.mt board-of-directors page, but that page blocks automated access (robots disallowed) and no board member or chairman names surfaced across repeated searches, gov.mt, ITS's own site, or news coverage. Likely a low-profile project-delivery subsidiary tied to the ITS Smart City/Kalkara campus build, distinct from the ITS Board of Governors (chaired by Edward Zammit). Re-checked 2026-08-13, still unresolved - tagged as searched/no info found rather than left pending. Re-checked 2026-08-14 with fresh searches per deep-research workflow - still no names found; gov.mt board-of-directors page confirmed to exist but remains inaccessible to automated fetch (robots disallowed)."
     },
     "Karen Grech Rehabilitation Hospital": {
       "ceo": "Dr Stephen Zammit",
