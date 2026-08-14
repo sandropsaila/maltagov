@@ -2619,6 +2619,95 @@
       "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Council for Older Persons": {
+      "chairperson": "Alex Attard",
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "source": "https://newsbook.com.mt/en/alex-attard-appointed-commissioner-for-older-persons/ ; https://activeageing.gov.mt/public-bodies/office-of-the-commissioner-for-the-older-persons/",
+      "note": "The Council is chaired ex officio by the Commissioner for Older Persons. Retired consultant surgeon Alex Attard was appointed Commissioner (and thus Council Chairperson) succeeding Prof. Godfrey La Ferla; the Council's six other members were not confirmed as current in public sources as of this check (older records from 2021 name a different, now-outdated, membership).",
+      "checked": "2026-08-14",
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Alex Attard": "Commissioner for Older Persons and ex officio Chairperson of the Council for Older Persons. A consultant surgeon who studied medicine at the University of Malta and furthered his studies at the University of Leeds, beginning surgical practice in 1993 and retiring from clinical practice shortly before his appointment; the majority of his patients over the years were elderly individuals. Appointed by Health and Active Ageing Minister Jo Etienne Abela, succeeding Prof. Godfrey La Ferla, Dean of the University of Malta's Faculty of Medicine and Surgery."
+      },
+      "bio_sources": {
+        "Alex Attard": "https://newsbook.com.mt/en/alex-attard-appointed-commissioner-for-older-persons/"
+      }
+    },
+    "National Commission on Active Ageing": {
+      "chairperson": "Dr Marvin Formosa",
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "source": "https://menarah.org/active-and-healthy-ageing-in-malta-gerontological-and-geriatric-inquiries/ ; https://generationsat.work/",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Marvin Formosa": "Associate Professor and Head of the Department of Gerontology and Dementia Studies, Faculty for Social Wellbeing, University of Malta. Chairperson of the National Commission for Active Ageing (Malta), Director of the International Institute on Ageing (United Nations - Malta), and was Rector's Delegate for the Universities of the Third and Fourth Age (Malta) from 2014 to 2024. Elected Fellow of the Gerontological Society of America in 2021; Country Team Leader (Malta) of the Survey of Health, Ageing and Retirement in Europe (SHARE); Editor-in-Chief of the International Journal on Ageing in Developing Countries. Author of numerous works including 'Active and Healthy Ageing in Malta: Gerontological and Geriatric Inquiries' (2018)."
+      },
+      "bio_sources": {
+        "Dr Marvin Formosa": "https://menarah.org/active-and-healthy-ageing-in-malta-gerontological-and-geriatric-inquiries/"
+      }
+    },
+    "Health Care Professions Regulatory Councils": {
+      "chairperson": "Dr Simon Micallef Stafrace",
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "source": "https://medicalcouncil.gov.mt/en/the-council/structure/ ; https://medicalcouncil.gov.mt/wp-content/uploads/2025/02/Annual-Report-2024.pdf",
+      "note": "This umbrella entry covers several statutory Councils under the Health Care Professions Act (Medical Council, Pharmacy Council, Council for Nurses and Midwives, Council for the Professions Complementary to Medicine). Only the Medical Council's President was confirmed with a named, currently-serving individual; the other Councils' chairs were not confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Dr Simon Micallef Stafrace": "President of the Medical Council Malta, appointed by the Prime Minister for the term 22 August 2023 to 21 August 2026. Holds an LL.D. and a Master of Laws (LL.M.). Chairs the Council's Sub-Committee for the Analyses of Complaints (SCAC). The Medical Council Malta regulates medical practitioners and dental surgeons under the Health Care Professions Act (Chapter 464 of the Laws of Malta), maintaining the statutory Medical Register."
+      },
+      "bio_sources": {
+        "Dr Simon Micallef Stafrace": "https://medicalcouncil.gov.mt/en/the-council/structure/"
+      }
+    },
+    "Ethical Committee of St Vincent de Paule": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://health.gov.mt/",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Foundation for Senior Citizen Services Board": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://activeageing.gov.mt/",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Home Help Appeals Board": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://activeageing.gov.mt/",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Management Committee of St Vincent De Paule": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://health.gov.mt/",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Welfare Committee": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://activeageing.gov.mt/",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malta Health Ltd": {
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "no_info_found": true,
+      "source": "https://www.datocapital.mt/companies/Malta-Health-Ltd.html",
+      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
