@@ -4514,10 +4514,29 @@
       "website_note": "No official webpage found for this specific board."
     },
     "Financial Services Tribunal": {
+      "chairman": "Dr Ian J. Stafrace",
+      "board_members": [
+        "Joseph Azzopardi",
+        "Dr Nicholas Valenzia"
+      ],
+      "substitute_member": "Robert Ducker",
+      "website": "https://mfst.gov.mt/chairman-commitee/",
       "ministry": "Finance (MFF)",
+      "source": "https://mfst.gov.mt/chairman-commitee/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Ian J. Stafrace": "Chairman of the Malta Financial Services Tribunal (MFST). A Maltese lawyer admitted to the Bar in 1998, with a career spanning corporate matters, mergers, divisions and company restructuring. Served as Chief Executive Officer of the Malta Environment and Planning Authority (MEPA), the predecessor to the Planning Authority and Environment and Resources Authority. Since May 2013 has run his own firm, Salibastafrace Legal, advising public and private entities on property, civil and commercial matters.",
+        "Joseph Azzopardi": "Member of the Malta Financial Services Tribunal (MFST), appointed 2015. Fellow of the Chartered Association of Certified Accountants (FCCA), holds a practising warrant in auditing, and is a graduate MBA from Warwick Business School. Educated at Stella Maris College as a scholarship student. Worked at a Big Five audit firm in Malta and overseas, lectured at the University of Malta's Department of Management, and served as an advisory partner in a mid-tier audit firm. Was a Director of the Malta Stock Exchange from 2013 to 2015, chairing its audit committee, and co-authored 'A Director's Guidebook to the Companies Act 1995' in 1996.",
+        "Dr Nicholas Valenzia": "Member of the Malta Financial Services Tribunal (MFST). A Maltese lawyer admitted to the Bar in 2006, specialising in transport law and related banking, corporate and fiscal matters. Partner at MamoTCV Advocates and Treasurer of the Malta Maritime Law Association.",
+        "Robert Ducker": "Substitute Member of the Malta Financial Services Tribunal (MFST). Holds an Associateship from The Chartered Institute of Bankers and a BSc (Hons) in Financial Services from the University of Manchester Institute of Science and Technology (1998). Spent 35 years at Bank of Valletta in various executive roles including Branch Manager and Head Office units covering Savings & Investments, Wealth Management, Procurement & Administration, and Bancassurance. Served as Chairman of the Housing Authority for four years."
+      },
+      "bio_sources": {
+        "Dr Ian J. Stafrace": "https://mfst.gov.mt/chairman-commitee/",
+        "Joseph Azzopardi": "https://mfst.gov.mt/chairman-commitee/",
+        "Dr Nicholas Valenzia": "https://mfst.gov.mt/chairman-commitee/",
+        "Robert Ducker": "https://mfst.gov.mt/chairman-commitee/"
+      }
     },
     "Fiscal Advisory Council": {
       "chairperson": "Dr Moira Catania",
@@ -4572,10 +4591,37 @@
       "website_note": "No official webpage found for this specific committee."
     },
     "Public Contracts Review Board": {
+      "chairperson": "Kenneth Swain",
+      "deputy_chairperson": "Dr Vincent Micallef",
+      "board_members": [
+        "Kenneth Swain",
+        "Lawrence Ancilleri",
+        "Keith Victor Grech",
+        "Richard Matrenza",
+        "Dr Ana Thomas"
+      ],
+      "website": "https://pcrb.gov.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://pcrb.gov.mt/ ; https://pcrb.gov.mt/wp-content/uploads/2025/09/Case-No-2143-1.pdf",
+      "note": "The PCRB operates with a pool of Prime Minister-appointed members who rotate as Chairman or member across individual 3-person case panels, rather than a single fixed board. Kenneth Swain is confirmed as the Board's overall Chairperson and Dr Vincent Micallef as Vice-Chairperson on the Board's own official page; the additional names below were confirmed as active panel members via multiple published case decisions from 2024-2025.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Kenneth Swain": "Chairperson of the Public Contracts Review Board (PCRB), as confirmed on the Board's own official page. Holds qualifications including B.Accty (Hons), B.Com (Accty & Mgt), Dip. Tax, and is a Fellow of the Institute of Accountants (FIA), Fellow of the Malta Institute of Taxation (FMIT), and Certified Public Accountant (CPA). Also regularly presides as Chairman over individual PCRB case hearings.",
+        "Dr Vincent Micallef": "Vice-Chairperson of the Public Contracts Review Board (PCRB), as confirmed on the Board's own official page. Holds a B.A. and LL.D from the University of Malta. Also regularly presides as Chairman over individual PCRB case hearings on a rotating panel basis.",
+        "Lawrence Ancilleri": "Member of the Public Contracts Review Board (PCRB), confirmed via multiple published 2024-2025 case decisions; also periodically presides as Acting Chairman on individual case panels.",
+        "Keith Victor Grech": "Member of the Public Contracts Review Board (PCRB), confirmed via multiple published 2025 case decisions.",
+        "Richard Matrenza": "Member of the Public Contracts Review Board (PCRB), confirmed via a published November 2024 case decision.",
+        "Dr Ana Thomas": "Member of the Public Contracts Review Board (PCRB), confirmed via a published August 2025 case decision."
+      },
+      "bio_sources": {
+        "Kenneth Swain": "https://pcrb.gov.mt/",
+        "Dr Vincent Micallef": "https://pcrb.gov.mt/",
+        "Lawrence Ancilleri": "https://pcrb.gov.mt/",
+        "Keith Victor Grech": "https://pcrb.gov.mt/",
+        "Richard Matrenza": "https://pcrb.gov.mt/",
+        "Dr Ana Thomas": "https://pcrb.gov.mt/"
+      }
     },
     "Residual Balances Fund": {
       "ministry": "Finance (MFF)",
