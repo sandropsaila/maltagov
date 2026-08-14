@@ -4681,22 +4681,59 @@
       "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check."
     },
     "Information and Data Protection Commissioner": {
+      "director": "Dr Reno Borg",
+      "website": "https://idpc.org.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://idpc.org.mt/idpc-publications/new-information-and-data-protection-commissioner-takes-oath-of-office/ ; https://www.mlex.com/mlex/data-privacy-security/articles/2470641/borg-takes-office-as-malta-s-new-data-protection-commissioner",
+      "note": "Sworn in 24 April 2026 for a 5-year term, succeeding Ian Deguara (whose term ended 23 April 2026). Notably, Dr Reno Borg previously served as Malta's first Financial Services Arbiter - a connection relevant to the 'Arbiter for Financial Services' entity under MFF, which remains unresolved; it is possible but not confirmed that Borg's successor there is now known.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://idpc.org.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Reno Borg": "Information and Data Protection Commissioner (IDPC) of Malta, sworn in 24 April 2026 for a five-year term, succeeding Ian Deguara. A lawyer by background, formerly worked at the Office of the Attorney General and served as Malta's first Financial Services Arbiter, as well as chairman of several state institutions. Minister for Justice and Reform of the Construction Sector Jonathan Attard praised his 'strong legal background and extensive experience' at the swearing-in. Responsible for enforcing the Data Protection Act, GDPR, the Freedom of Information Act, and the Re-Use of Public Sector Information Act."
+      },
+      "bio_sources": {
+        "Dr Reno Borg": "https://idpc.org.mt/idpc-publications/new-information-and-data-protection-commissioner-takes-oath-of-office/"
+      }
     },
     "Xjenza Malta": {
+      "ceo": "Silvio Scerri",
+      "website": "https://xjenzamalta.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://xjenzamalta.mt/management-team/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://xjenzamalta.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Silvio Scerri": "Chief Executive Officer of Xjenza Malta, the government agency acting as Malta's national R&D and Space funding agency, and the policy development and implementation body for Research, Innovation and Space, confirmed via the agency's own Management Team page."
+      },
+      "bio_sources": {
+        "Silvio Scerri": "https://xjenzamalta.mt/management-team/"
+      }
     },
     "Malta Arbitration Centre": {
+      "chairman": "Dr Paul Cachia",
+      "deputy_chairperson": "Dr Anna Mallia",
+      "board_members": [
+        "Dr Chris Cilia"
+      ],
+      "board_secretary": "Dr Fiona Galea Farrugia",
+      "website": "https://arbitration.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://arbitration.mt/paul-cachia/ ; https://arbitration.mt/anna-mallia/ ; https://arbitration.mt/chris-cilia/ ; https://www.lexmundi.com/guides/lex-mundi-global-arbitration-institutions-guide/jurisdictions/europe/malta/",
+      "note": "Board of Governors legally consists of 3-5 members; only 3 (Chairman, Deputy Chairperson, one Member) were confirmed via individual bio pages on the Centre's own site as of this check - the full complement may include 1-2 further members not individually profiled.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://arbitration.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Dr Paul Cachia": "Chairman of the Board of Governors of the Malta Arbitration Centre, appointed 2019 after previously serving as a Board member. An advocate specialising in cross-border litigation, civil, commercial, constitutional and human rights litigation in the Courts of Malta. Holds a first-class B.A. in Legal & Humanistic Studies, Diploma of Notary Public, LL.D. (2003), and a Magister Juris and M.Phil from the University of Oxford as a Chevening Scholar. Worked as a lawyer with the European Commission in Brussels (2008-2010); chaired the Civil Justice Working Parties during Malta's EU Council Presidency and continues to represent Malta on the Council's Civil Law Working Party. Former visiting lecturer at the University of Malta on the Law of Tort and Private International Law.",
+        "Dr Anna Mallia": "Deputy Chairperson of the Board of Governors of the Malta Arbitration Centre, appointed 2019 after previously serving as a Board member. An advocate specialising in civil law, family law, public procurement, industrial law, and data protection and freedom of information, practising in the Courts of Malta. Graduated Notary Public (1984) and Doctor of Laws (1986) from the University of Malta; was part of the Maltese delegation in the Malta-Libya case at the International Court of Justice in The Hague. A Chevening Scholar, Commonwealth Scholar and Hubert Humphrey Alumnus.",
+        "Dr Chris Cilia": "Member of the Board of Governors of the Malta Arbitration Centre since 2019. Has served for a number of years as Deputy Chairman of the Malta Gaming Authority and currently serves as Deputy Chairman of Indis Malta Ltd, as well as director on several public liability private companies.",
+        "Dr Fiona Galea Farrugia": "Registrar of the Malta Arbitration Centre, who also serves as Secretary to the Board of Governors and holds legal representation of the Centre, including the power to administer oaths of office for arbitrators."
+      },
+      "bio_sources": {
+        "Dr Paul Cachia": "https://arbitration.mt/paul-cachia/",
+        "Dr Anna Mallia": "https://arbitration.mt/paul-cachia/",
+        "Dr Chris Cilia": "https://arbitration.mt/paul-cachia/",
+        "Dr Fiona Galea Farrugia": "https://arbitration.mt/paul-cachia/"
+      }
     },
     "Asset Recovery Bureau": {
       "ministry": "Justice, Research and Innovation (MJRI)",
@@ -4717,16 +4754,34 @@
       "website_note": "No official webpage found for this specific agency in this check."
     },
     "Office of the Attorney General": {
+      "director": "Victoria Buttigieg",
+      "website": "https://attorneygeneral.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://en.wikipedia.org/wiki/Victoria_Buttigieg ; https://www.wikidata.org/wiki/Q131749104",
+      "note": "In post since September 2020; Malta's first female Attorney General, appointed via independent selection committee following constitutional reforms separating the AG's prosecutorial role from the State Advocate's advisory role. Confirmed still current via a Wikidata reference retrieved 20 April 2026.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Victoria Buttigieg": "Attorney General of Malta since September 2020, and the first woman to hold the office. Graduated Doctor of Laws from the University of Malta in 2001 and later obtained a Master of Arts in Financial Services. Joined the Office of the Attorney General in 2007, becoming Deputy Attorney General in 2012, heading the departments of Civil Law, Administrative Law and Constitutional Law. Appointed Malta's first State Advocate in December 2019, before being appointed Attorney General the following year, succeeding Peter Grech. Was one of three candidates considered for the AG post by an independent selection committee following the constitutional reform splitting prosecutorial and advisory legal functions."
+      },
+      "bio_sources": {
+        "Victoria Buttigieg": "https://en.wikipedia.org/wiki/Victoria_Buttigieg"
+      }
     },
     "Office of the State Advocate": {
+      "director": "Chris Soler",
+      "website": "https://stateadvocate.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://www.maltatoday.com.mt/news/court_and_police/128091/state_advocate_insists_he_cannot_seek_damages_or_prosecute_over_vitals_collusion_findings ; https://www.maltatoday.com.mt/news/court_and_police/126952/five_new_magistrates_take_the_oath_of_office",
+      "note": "Confirmed current as of January 2024 (attendance at a magistrates' swearing-in) and March 2024 (court testimony in the Vitals hospitals civil case). Succeeded Victoria Buttigieg, Malta's first State Advocate, when she became Attorney General in 2020.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Chris Soler": "State Advocate of Malta, the chief legal advisor to the Government on constitutional, civil and administrative law matters, succeeding Victoria Buttigieg when she was appointed Attorney General in 2020. Also serves as Malta's Agent before the International Court of Justice. Publicly testified in March 2024 in the Nationalist Party's civil case seeking to recover damages related to the Vitals/Steward hospitals concession, stating that his office could only act on matters where the law gave it a specific right to, or when instructed by government."
+      },
+      "bio_sources": {
+        "Chris Soler": "https://www.maltatoday.com.mt/news/court_and_police/128091/state_advocate_insists_he_cannot_seek_damages_or_prosecute_over_vitals_collusion_findings"
+      }
     },
     "Administrative Review Tribunal": {
       "ministry": "Justice, Research and Innovation (MJRI)",
