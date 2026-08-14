@@ -2339,17 +2339,47 @@
       }
     },
     "Malta Communications Authority (MCA)": {
+      "chairperson": "Inġ. Jonathan Scerri",
+      "deputy_chairperson": "Kristy Debono",
       "ceo": "Jesmond Bugeja",
+      "board_members": [
+        "Victor Carachi",
+        "Paul Debono",
+        "Kevin Abela",
+        "Graziella Farrugia",
+        "Mario Fava",
+        "Dr Alexandra Mizzi",
+        "Brian Scicluna"
+      ],
+      "board_secretary": "Thea Borg",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "source": "https://www.mca.org.mt/content/press-releases-and-news ; https://mt.linkedin.com/company/malta-communications-authority",
-      "note": "Chairman position could not be confirmed as currently held — the last publicly confirmed chairman (Edward Woods, from 2013) has since moved on to chair the Malta Further and Higher Education Authority (MFHEA); no current MCA chairman name found in public sources as of this check.",
-      "checked": "2026-08-13",
-      "bio_status": "PARTIALLY RESEARCHED",
+      "source": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+      "note": "Board of Directors was fully reconstituted on 7 November 2024, replacing the previous board chaired by Mark Musù (whose term ran until that date). Composition sourced directly from the MCA's 2024 Annual Report (published 2025), which lists both the outgoing and incoming boards.",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Jesmond Bugeja": "Chief Executive Officer of the Malta Communications Authority (MCA), the statutory regulator (est. 2001) for electronic communications, e-commerce and postal services in Malta, and Digital Services Coordinator under the EU Digital Services Act. Appointed to the ITU (International Telecommunication Union) Advisory Body on Submarine Cable Resilience."
+        "Inġ. Jonathan Scerri": "Chairperson of the Board of Directors of the Malta Communications Authority (MCA), appointed 7 November 2024. An engineer (Inġ.) by qualification. In his Chairperson's Message in the MCA's 2024 Annual Report, he described taking on the role as 'a privilege' and highlighted the Board's focus on strategic direction, good governance, and supporting the Authority through an expanding regulatory mandate covering the Digital Services Act and the NIS2 cybersecurity directive.",
+        "Kristy Debono": "Deputy Chairperson of the Board of Directors of the Malta Communications Authority (MCA), appointed 7 November 2024.",
+        "Victor Carachi": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Paul Debono": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Kevin Abela": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Graziella Farrugia": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Mario Fava": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Dr Alexandra Mizzi": "Board Member of the Malta Communications Authority (MCA), appointed 7 November 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Brian Scicluna": "Board Member of the Malta Communications Authority (MCA). Served on both the outgoing board (until 7 November 2024) and the incoming board (from 7 November 2024), providing continuity through the Authority's November 2024 board transition.",
+        "Thea Borg": "Board Secretary of the Malta Communications Authority (MCA), appointed alongside the new Board of Directors on 7 November 2024, succeeding Therese Gauci."
       },
       "bio_sources": {
-        "Jesmond Bugeja": "https://www.mca.org.mt/content/press-releases-and-news"
+        "Inġ. Jonathan Scerri": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Kristy Debono": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Victor Carachi": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Paul Debono": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Kevin Abela": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Graziella Farrugia": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Mario Fava": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Dr Alexandra Mizzi": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Brian Scicluna": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
+        "Thea Borg": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf"
       }
     },
     "Malta Digital Innovation Authority": {
