@@ -4344,16 +4344,40 @@
       }
     },
     "KM Malta Airlines": {
+      "executive_chairman": "David Curmi",
+      "website": "https://www.kmmaltairlines.com/",
       "ministry": "Finance (MFF)",
+      "source": "https://kmmaltairlines.com/en/press/company-news/km-malta-airlines-launches-new-summer-2026-service-between-malta-and-palermo ; https://theshiftnews.com/2025/07/29/revealed-km-malta-chairman-paid-e260000-a-year/",
+      "note": "Confirmed still in post as of March 2026 via the airline's own press release. Politically appointed by Finance Minister Clyde Caruana; his remuneration and contract terms were the subject of a Freedom of Information dispute won by The Shift News in July 2025.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.kmmaltairlines.com/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "David Curmi": "Executive Chairman of KM Malta Airlines, the successor to Air Malta which he also chaired from 2021 until its closure in March 2024. A former President of the Malta Chamber of Commerce, Enterprise and Industry and an Associate of the Chartered Insurance Institute of the United Kingdom (Chartered Insurer). Appointed by Finance Minister Clyde Caruana; his contract, signed 1 December 2023, was revealed via a Freedom of Information ruling to pay him €260,000 a year, roughly five times the Finance Minister's own package. Also sits on the board of Centrecom Ltd, a company partly owned by KM Malta Airlines."
+      },
+      "bio_sources": {
+        "David Curmi": [
+          "https://kmmaltairlines.com/en/press/company-news/km-malta-airlines-launches-new-summer-2026-service-between-malta-and-palermo",
+          "https://theshiftnews.com/2025/07/29/revealed-km-malta-chairman-paid-e260000-a-year/"
+        ]
+      }
     },
     "Malta Statistics Authority": {
+      "chairman": "Dr Carl Camilleri",
+      "director_general_nso": "Etienne Caruana",
+      "website": "https://msa.gov.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://msa.gov.mt/about-the-msa/ ; https://nso.gov.mt/contact-us/",
+      "note": "The Authority's executive arm, the National Statistics Office (NSO), is headed by a separate Director General who by law also sits on the MSA Board.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://nso.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Carl Camilleri": "Chairman of the Malta Statistics Authority (MSA), the third person to hold the post. An economist by profession and Head of the Department of Economics at the University of Malta. Convenes the MSA Board at least twice every calendar quarter, as required under the Malta Statistics Authority Act.",
+        "Etienne Caruana": "Director General of the National Statistics Office (NSO), the executive arm of the Malta Statistics Authority, appointed for a period of three years with possible renewals. By law, also sits on the MSA Board."
+      },
+      "bio_sources": {
+        "Dr Carl Camilleri": "https://msa.gov.mt/about-the-msa/",
+        "Etienne Caruana": "https://nso.gov.mt/contact-us/"
+      }
     },
     "Arbiter for Financial Services": {
       "ministry": "Finance (MFF)",
@@ -4496,10 +4520,26 @@
       "website_note": "No official webpage found for this specific tribunal."
     },
     "Fiscal Advisory Council": {
+      "chairperson": "Dr Moira Catania",
+      "board_members": [
+        "Dr Stephanie Fabri",
+        "Dr Stephanie Vella"
+      ],
+      "website": "https://mfac.org.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://mfac.org.mt/about-mfac/council-members/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Moira Catania": "Chairperson of the Malta Fiscal Advisory Council (MFAC), joined 10 January 2023. Graduated BA (Hons) in Economics with first-class honours (1994) and MA in European Studies with distinction (1998) from the University of Malta, and obtained her PhD in Economics from the University of Bradford, UK (2019), with a thesis on budget institutions in the Euro Area. Worked at the Economic Policy Department within the Finance Ministry from 1994 to 2010, becoming Director (Economic Strategy) in 2002. Resident academic at the University of Malta's Institute for European Studies since October 2010.",
+        "Dr Stephanie Fabri": "Council Member of the Malta Fiscal Advisory Council (MFAC), joined 10 January 2023. Holds a PhD from the University of Warwick, applying artificial intelligence fuzzy-logic methods to strategic management in British companies, an MSc in Public Sector Economics from the University of York, and a first degree in economics from the University of Malta. Resident academic at the University of Malta specialising in strategic management and public policy; also a non-executive director at a private company.",
+        "Dr Stephanie Vella": "Council Member of the Malta Fiscal Advisory Council (MFAC), joined 10 January 2023. Holds a Bachelor of Commerce (Honours) in Economics and a Master of Arts in Economics from the University of Malta (2002). Executive director in an economic consultancy firm, with experience across fiscal policy, social assistance and EU funds evaluation projects. Lectured Public Sector Economics at the University of Malta until 2018."
+      },
+      "bio_sources": {
+        "Dr Moira Catania": "https://mfac.org.mt/about-mfac/council-members/",
+        "Dr Stephanie Fabri": "https://mfac.org.mt/about-mfac/council-members/",
+        "Dr Stephanie Vella": "https://mfac.org.mt/about-mfac/council-members/"
+      }
     },
     "General Contracts Committee": {
       "ministry": "Finance (MFF)",
