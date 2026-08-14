@@ -1687,9 +1687,9 @@
     "Malta Financial Services Authority (MFSA)": {
       "chairman": "Jesmond Gatt",
       "ceo": "Kenneth Farrugia",
-      "ministry": "Finance",
+      "ministry": "Finance (MFF)",
       "source": "https://en.wikipedia.org/wiki/Malta_Financial_Services_Authority ; https://financemalta.org/financemalta-news/mfsa-gets-new-ceo-fiau-appoints-acting-director",
-      "checked": "2026-08-09",
+      "checked": "2026-08-14",
       "bio_status": "not yet researched",
       "bios": {
         "Jesmond Gatt": "Joined the Central Bank of Malta in 1984; graduated in Mathematics and Computing, University of Malta, 1995. Over 37 years at the Central Bank, holding roles including Chief Officer for retail banking services, currency management and payment systems regulation; part of the team overseeing Malta's euro changeover in 2008. Board member of the FIAU from 2016, Chairman from 2020-2023. CEO of Malta Government Investments before his MFSA appointment. Appointed MFSA Chairman in 2023; received the IFNY Free Enterprise Award in New York, 2025.",
@@ -4266,6 +4266,204 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council."
+    },
+    "Central Bank of Malta": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.centralbankmalta.org/"
+    },
+    "Financial Intelligence Analysis Unit (FIAU)": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://fiaumalta.org/"
+    },
+    "Malta Stock Exchange": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.borzamalta.com.mt/"
+    },
+    "KM Malta Airlines": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.kmmaltairlines.com/"
+    },
+    "Malta Statistics Authority": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://nso.gov.mt/"
+    },
+    "Arbiter for Financial Services": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No dedicated standalone site independently confirmed in this check (referenced as financialarbiter.org.mt by third parties, not independently verified live)."
+    },
+    "Malita Investment Company": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "Malta Development Bank": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific bank in this check."
+    },
+    "Malta Development Bank - Supervisory Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Malta Air Travel Ltd (Malta Med Air)": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company, distinct from Air Malta/KM Malta Airlines' own sites."
+    },
+    "Malta Stock Exchange Institute Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board, distinct from the Malta Stock Exchange's own site."
+    },
+    "Six West Malta Ltd": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "The Malta Foundation for the Wellbeing of Society": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific foundation in this check."
+    },
+    "Accountancy Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Airmalta": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "Airmalta ceased operations on 30 March 2024 and was succeeded by KM Malta Airlines; its historic site (airmalta.com) is no longer an active official government entity page, so no current website was added for this now-defunct entity."
+    },
+    "Airmalta Aviation Services": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "Board of Management and Administration": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Board of Special Commissioners (Duty on Documents and Transfers)": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Commercial Sanctions Tribunal": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific tribunal."
+    },
+    "Controlled Companies Appeals Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Deposit Guarantee Scheme - Management Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Exemption in favour of Persons with Special Needs": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Financial Services Tribunal": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific tribunal."
+    },
+    "Fiscal Advisory Council": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council in this check."
+    },
+    "General Contracts Committee": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Government Securities Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Grant Review Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Libyan Arab Maltese Holdings Company": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "National Coordinating Committee on Combatting Money Laundering and Funding of Terrorism": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Public Contracts Review Board": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board in this check."
+    },
+    "Residual Balances Fund": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific fund."
+    },
+    "Retail Price Index Advisory Committee (MSA)": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Review Board for Exemptions/Reductions/Grants (Motor Vehicles, Disability Scheme)": {
+      "ministry": "Finance (MFF)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
