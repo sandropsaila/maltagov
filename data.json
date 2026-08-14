@@ -4268,22 +4268,80 @@
       "website_note": "No official webpage found for this specific council."
     },
     "Central Bank of Malta": {
+      "chairman": "Alexander Demarco",
+      "deputy_chairman": "Oliver Bonello",
+      "board_members": [
+        "Rita Schembri",
+        "Professor Peter J. Baldacchino",
+        "Dr Romina Borg",
+        "Professor Frank Bezzina",
+        "Professor Lauren Ellul"
+      ],
+      "website": "https://www.centralbankmalta.org/",
       "ministry": "Finance (MFF)",
+      "source": "https://www.centralbankmalta.org/governance-board-of-directors",
+      "note": "The Board consists of the Governor (who is also Chairman), two Deputy Governors, and four other Directors, per the Central Bank of Malta Act (Cap 204). Demarco's appointment (effective 1 Jan 2026) is very recent and well documented in press coverage; the two Deputy Governors and four Directors are sourced directly from the Bank's own governance page.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.centralbankmalta.org/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Alexander Demarco": "Governor and Chairman of the Central Bank of Malta, appointed for a five-year term effective 1 January 2026, succeeding Edward Scicluna. Served as Deputy Governor from 1 January 2014, initially responsible for Financial Stability and, from August 2017, for Monetary Policy; also served as Acting Governor between 1 August 2024 and 31 July 2025, during which he chaired the Joint Financial Stability Board. Joined the Central Bank of Malta in 1984, spending most of his career in the Economic Research Department. Graduated B.A. (Hons) in Economics from the University of Malta and holds a Master of Science in Economics with distinction from the University of Warwick, UK.",
+        "Oliver Bonello": "Deputy Governor of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page.",
+        "Rita Schembri": "Deputy Governor of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page.",
+        "Professor Peter J. Baldacchino": "Director on the Board of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page.",
+        "Dr Romina Borg": "Director on the Board of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page.",
+        "Professor Frank Bezzina": "Director on the Board of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page.",
+        "Professor Lauren Ellul": "Director on the Board of the Central Bank of Malta, as confirmed on the Bank's official Board of Directors page."
+      },
+      "bio_sources": {
+        "Alexander Demarco": [
+          "https://www.centralbankmalta.org/governance-board-of-directors",
+          "https://www.independent.com.mt/articles/2025-12-31/local-news/Alexander-Demarco-named-new-Central-Bank-of-Malta-governor-6736286009"
+        ],
+        "Oliver Bonello": "https://www.centralbankmalta.org/governance-board-of-directors",
+        "Rita Schembri": "https://www.centralbankmalta.org/governance-board-of-directors",
+        "Professor Peter J. Baldacchino": "https://www.centralbankmalta.org/governance-board-of-directors",
+        "Dr Romina Borg": "https://www.centralbankmalta.org/governance-board-of-directors",
+        "Professor Frank Bezzina": "https://www.centralbankmalta.org/governance-board-of-directors",
+        "Professor Lauren Ellul": "https://www.centralbankmalta.org/governance-board-of-directors"
+      }
     },
     "Financial Intelligence Analysis Unit (FIAU)": {
+      "director": "Alfred Zammit",
+      "website": "https://fiaumalta.org/",
       "ministry": "Finance (MFF)",
+      "source": "https://www.prnewswire.com/news-releases/maltas-fiau-reports-strengthened-amlcft-preparedness-international-engagement-and-operational-delivery-in-2025-302808139.html ; https://fiaumalta.org/about-us/",
+      "note": "The FIAU is headed by a Director rather than a chairman/CEO structure; confirmed extremely current via a 24 June 2026 press release announcing the Unit's 2025 Annual Report, which also notes Zammit's appointment as Vice-Chair of MONEYVAL for 2026-2028.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://fiaumalta.org/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Alfred Zammit": "Director of the Financial Intelligence Analysis Unit (FIAU), Malta's central authority for anti-money laundering and countering the financing of terrorism (AML/CFT), an autonomous agency with separate judicial personality operating within the finance ministry's remit. Appointed Vice-Chair of MONEYVAL (the Council of Europe's anti-money laundering body) for the 2026-2028 term. Under his direction, the FIAU received 10,721 suspicious transaction reports and issued 71 enforcement measures in 2025, and launched a new Settlement Process for enforcement in April 2026."
+      },
+      "bio_sources": {
+        "Alfred Zammit": "https://www.prnewswire.com/news-releases/maltas-fiau-reports-strengthened-amlcft-preparedness-international-engagement-and-operational-delivery-in-2025-302808139.html"
+      }
     },
     "Malta Stock Exchange": {
+      "executive_chairman": "Joseph Portelli",
+      "ceo": "Simon Zammit",
+      "board_members": [
+        "Steven Tedesco"
+      ],
+      "website": "https://www.borzamalta.com.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://www.borzamalta.com.mt/corporate_profile ; https://grcweekmalta.com/past-conference-2025/",
+      "note": "Chairman and CEO sourced from the Exchange's own Corporate Profile page; one additional director (Steven Tedesco) identified via a 2025 GRC Week Malta conference speaker listing - full board composition beyond these three was not confirmed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.borzamalta.com.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Joseph Portelli": "Executive Chairman of the Malta Stock Exchange, the country's fully government-owned stock exchange established in 1992.",
+        "Simon Zammit": "Chief Executive Officer of the Malta Stock Exchange.",
+        "Steven Tedesco": "Director of the Malta Stock Exchange, as identified via a 2025 industry conference speaker listing (GRC and ESG Conference). Not independently confirmed via the Exchange's own governance page."
+      },
+      "bio_sources": {
+        "Joseph Portelli": "https://www.borzamalta.com.mt/corporate_profile",
+        "Simon Zammit": "https://www.borzamalta.com.mt/corporate_profile",
+        "Steven Tedesco": "https://grcweekmalta.com/past-conference-2025/"
+      }
     },
     "KM Malta Airlines": {
       "ministry": "Finance (MFF)",
@@ -4310,10 +4368,42 @@
       "website_note": "No official webpage found for this specific company."
     },
     "Malta Development Bank": {
+      "chairman": "Leo Brincat",
+      "ceo": "Alison Micallef",
+      "board_members": [
+        "Victor Carachi",
+        "Norbert Grixti",
+        "Prof Rose Mary Azzopardi",
+        "Anthony Valvo",
+        "Steve Ellul",
+        "Dr Michele Cardinali"
+      ],
+      "website": "https://mdb.org.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://mdb.org.mt/malta-development-bank-appoints-new-chief-executive-officer/ ; https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+      "note": "CEO confirmed via MDB's own June 2026 press release (very current). Chairman and board sourced from a December 2023 MDB press release; not re-verified whether this exact board composition has changed since, though Chairman Leo Brincat's tenure was not contradicted by any more recent source found.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific bank in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Alison Micallef": "Chief Executive Officer of the Malta Development Bank (MDB), appointed effective June 2026, succeeding Paul V. Azzopardi. Joined MDB as Deputy CEO in February 2025 and took over as CEO on 4 July 2025 in an interim capacity before being formally confirmed. Brings over three decades of experience across domestic and international financial institutions; previously worked for local banks at managerial level before studying and working overseas, marking her first public-sector role. Under her leadership the MDB became the smallest bank in Europe to pass the European Commission's pillar assessment in early 2026, enabling direct access to InvestEU guarantees for Maltese businesses.",
+        "Leo Brincat": "Chairman of the Malta Development Bank, appointed by the Minister for Finance and Employment, succeeding outgoing Chairman Prof Josef Bonnici. A former banker and former government minister who held the Finance and Commerce portfolio as well as the Sustainable Development, Climate Change and Environment portfolio; also served as Malta's Member at the European Court of Auditors and as Chairman of the Public Accounts Committee. Fellow of the Institute of Financial Services and Associate of the Chartered Institute of Bankers; Officer of the National Order of Merit (Malta).",
+        "Victor Carachi": "Director on the Board of the Malta Development Bank, representing the trade unions sector.",
+        "Norbert Grixti": "Director on the Board of the Malta Development Bank, representing the private corporate sector.",
+        "Prof Rose Mary Azzopardi": "Director on the Board of the Malta Development Bank.",
+        "Anthony Valvo": "Director on the Board of the Malta Development Bank.",
+        "Steve Ellul": "Director on the Board of the Malta Development Bank.",
+        "Dr Michele Cardinali": "Director on the Board of the Malta Development Bank. Also serves as a Board Member of Malta Enterprise."
+      },
+      "bio_sources": {
+        "Alison Micallef": "https://mdb.org.mt/malta-development-bank-appoints-new-chief-executive-officer/",
+        "Leo Brincat": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Victor Carachi": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Norbert Grixti": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Prof Rose Mary Azzopardi": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Anthony Valvo": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Steve Ellul": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/",
+        "Dr Michele Cardinali": "https://mdb.org.mt/new-chairman-and-directors-appointed-at-the-malta-development-bank/"
+      }
     },
     "Malta Development Bank - Supervisory Board": {
       "ministry": "Finance (MFF)",
