@@ -46,6 +46,9 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .entity-name{flex:1;min-width:0;}
 .entity-type{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);display:block;margin-top:2px;}
 .chair-tag{font-size:11px;white-space:nowrap;padding:3px 8px;border-radius:2px;font-family:'IBM Plex Mono',monospace;flex-shrink:0;}
+.website-link{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold,#a1893f);text-decoration:none;border-bottom:1px solid currentColor;margin:2px 0 6px;}
+.website-link:hover{opacity:0.75;}
+.website-none{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted,#6b6a5f);font-style:italic;margin:2px 0 6px;cursor:help;}
 .chair-pending{background:var(--pending-bg);color:var(--muted);}
 .chair-noinfo{background:transparent;color:var(--muted);border:1px dashed var(--muted);}
 .contact-block{background:var(--known-bg);border-radius:2px;padding:8px 12px;display:flex;flex-direction:column;gap:2px;}
@@ -133,6 +136,7 @@ function render(data){
       }
       const bios = chair.bios||{};
       const bioSrc = chair.bio_sources||{};
+      const websiteHtml = chair.website ? `<a class="website-link" href="${esc(chair.website)}" target="_blank" rel="noopener">Official website ↗</a>` : (chair.website_note ? `<span class="website-none" title="${esc(chair.website_note)}">No official webpage found</span>` : '');
       let contacts=[];
       Object.keys(ROLE_LABELS).forEach(k=>{
         const v = chair[k];
@@ -173,7 +177,7 @@ function render(data){
         people.push({name:member, position:'Board Member', entity:name, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
 
-      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${contactHtml}${membersHtml}</div>`;
+      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
     mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div><span class="pct-badge ${pctClass}">${pct}% complete</span></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
