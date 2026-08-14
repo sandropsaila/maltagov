@@ -3054,6 +3054,204 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution."
+    },
+    "Heritage Malta": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://heritagemalta.mt/"
+    },
+    "National Archives": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://nationalarchives.gov.mt/"
+    },
+    "Arts Council of Malta": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://artscouncilmalta.gov.mt/"
+    },
+    "Public Broadcasting Services": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.pbs.com.mt/"
+    },
+    "Malta Film Commission": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://screenmalta.com/"
+    },
+    "National Book Council": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://ktieb.org.mt/"
+    },
+    "Agency for the Malta Philharmonic Orchestra": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency."
+    },
+    "Film Finance Malta Ltd Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "De Valette Chamber Orchestra": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific orchestra."
+    },
+    "Fondazzjoni Patrimonju Malti – Supervisory Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board (distinct from the NGO Fondazzjoni Patrimonju Malti's own site, which was not confirmed as this government-linked entity's page)."
+    },
+    "Maltese National Commission for UNESCO Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Festivals Malta Agency": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency."
+    },
+    "Film Review Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Fondazzjoni Kreattività Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found; the related creative space Spazju Kreattiv has its own site but this board specifically was not confirmed."
+    },
+    "Intangible Cultural Heritage Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Malta International Contemporary Art Space": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific space (MICAS)."
+    },
+    "Malta Libraries": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific entity in this check."
+    },
+    "Media Literacy Development Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Pjazza Teatru Rjal Board": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "National Agency for the Performing Arts": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency."
+    },
+    "Superintendence of Cultural Heritage": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific superintendence."
+    },
+    "Valletta Cultural Agency": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency."
+    },
+    "Cultural Heritage Advisory Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "European Film Awards Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Manoel Theatre Management Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee (distinct from the Manoel Theatre's own box-office site)."
+    },
+    "Mdina Rehabilitation Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National Festivities Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National World Heritage Technical Committee": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National Council of the Maltese Language": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council in this check."
+    },
+    "Malta Libraries Council": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council."
+    },
+    "Centre for Creativity Foundation (St James Cavalier)": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific foundation in this check (Spazju Kreattiv site not confirmed as this specific entity)."
+    },
+    "National Orchestra Ltd": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "Editorial Board - PBS Ltd": {
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board (distinct from pbs.com.mt itself)."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
