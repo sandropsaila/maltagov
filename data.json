@@ -1771,7 +1771,7 @@
       "ceo": "Kurt Farrugia",
       "ministry": "Sustainable Mobility (MSM)",
       "source": "https://www.transport.gov.mt/transport-malta/structure-672",
-      "checked": "2026-08-09",
+      "checked": "2026-08-14",
       "bio_status": "not yet researched",
       "note": "Corrects earlier Wikipedia-sourced Joseph Bugeja claim (stale, held role 2019-2022 only)",
       "website": "https://www.transport.gov.mt/"
@@ -1900,9 +1900,9 @@
     "Broadcasting Authority": {
       "chairman": "Frank V. Farrugia",
       "ceo": "Dr Joanna Spiteri",
-      "ministry": "OPM (Constitutional Body)",
+      "ministry": "Office of the Prime Minister (OPM)",
       "source": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman ; https://lovinmalta.com/news/broadcasting-authority-chair-sat-on-board-that-approved-corradino-project/ ; https://ba.org.mt/0816-new-ceo",
-      "checked": "2026-08-09",
+      "checked": "2026-08-14",
       "bio_status": "not yet researched",
       "note": "Chairman appointment date is 2019, most recent confirming mention is March 2024 - not independently reverified for 2026, flagged as moderate not high confidence",
       "bios": {
@@ -4602,6 +4602,270 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific unit."
+    },
+    "Yachting Malta Ltd": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://yachtingmalta.org/"
+    },
+    "Malta International Airport plc (one Government representative)": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.maltairport.com/"
+    },
+    "Bureau of Air Accident Investigation": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific bureau in this check."
+    },
+    "Malta Air Traffic Services Ltd": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company in this check."
+    },
+    "Airport Charges Regulatory Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Airport Scheduling Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Airport Users Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Aviation Advisory Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Consultative Committee on Sustainable Mobility": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Controlled Vehicular Access Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Controlled Vehicular Access Contestation Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Malta Road Safety Council": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council in this check."
+    },
+    "Maritime Safety and Pollution Prevention Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Maritime Security Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Mooring Services Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Pilotage Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Port Workers Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Port Workers Medical Board": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Port Workers Pension and Contingency Fund Committee": {
+      "ministry": "Sustainable Mobility (MSM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Malta Information Technology Agency": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://mita.gov.mt/"
+    },
+    "servizz.gov Agency": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.servizz.gov.mt/"
+    },
+    "Public Service Commission": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://psc.gov.mt/"
+    },
+    "Coordinating Committee on Human Resources Planning": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Malta Vision 2050 Steering Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Managing Committee of the Red Cross Society": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee, distinct from the Malta Red Cross Society's own site."
+    },
+    "Re-employment and Re-Instatement Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Employment Commission": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific constitutional body in this check."
+    },
+    "Electoral Commission": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific constitutional body in this check."
+    },
+    "Educators Board for the Institute for the Public Services": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site."
+    },
+    "Institute for the Public Services Board": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site."
+    },
+    "Internal Audit and Investigations Board": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Revolving Door Policy Governing Board": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "National Cyber Security Steering Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National Security Accreditation Authority Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National Sovereignty and Jurisdiction Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Nominations Committee Ġieħ ir-Repubblika": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Senior Appointments Advisory Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Social Causes Fund Committee": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Street Naming Committee - Malta": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Data Governance Council": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council."
+    },
+    "Youth Advisory Forum": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific forum."
+    },
+    "Resource Support & Services Ltd": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "Conciliation Meetings Board": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Grievances Unit Board": {
+      "ministry": "Office of the Prime Minister (OPM)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
