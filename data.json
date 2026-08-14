@@ -2383,20 +2383,52 @@
       }
     },
     "Malta Digital Innovation Authority": {
+      "chairman": "Wayne Grixti",
+      "deputy_chairman": "Sandro Micallef",
       "ceo": "Kenneth Brincat",
+      "board_members": [
+        "Daniel Ablett",
+        "Patrizia Busuttil",
+        "Mark Camilleri",
+        "Nicole Falzon",
+        "Anthony Galea",
+        "Nigel Vella",
+        "Omar Vella"
+      ],
+      "board_secretary": "Dr Ramona Attard",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "source": "https://whoswho.mt/en/who-s-who-in-malta-meet-kenneth-brincat-chief-executive-officer-malta-digital-innovation-authority-mdia ; https://tvmnews.mt/en/news/mdia-announces-new-ceo/",
-      "checked": "2026-08-13",
+      "source": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+      "note": "Full Board of Governors and Top Management Team confirmed via the MDIA's 2024 Annual Report PDF (published 2025), which was not previously fetched - only the Chairman and CEO had been sourced from secondary press coverage. The Annual Report shows Wayne Grixti signed the 2024 financial statements as Chairperson, confirming currency as of March 2025.",
+      "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Kenneth Brincat": "Chief Executive Officer of the Malta Digital Innovation Authority (MDIA), Malta's certification authority for innovative technology arrangements spanning Distributed Ledger Technology, smart contracts, AI and cybersecurity. Appointed CEO in October 2021, succeeding Stephen McCarthy. Leads MDIA's National AI Strategy realignment, shifting focus from a technology-first approach toward societal wellbeing and sustainability.",
-        "Wayne Grixti": "Chairman of the Malta Digital Innovation Authority (MDIA) and concurrently Chief Executive Officer of Tech.mt. Formerly Chief Technology Officer at Air Malta and at the MDIA; has chaired the Malta.AI Taskforce."
+        "Wayne Grixti": "Chairperson of the Malta Digital Innovation Authority (MDIA) and concurrently Chief Executive Officer of Tech.mt. Formerly Chief Technology Officer at Air Malta and at the MDIA; has chaired the Malta.AI Taskforce. In his Chairperson's Foreword to the MDIA's 2024 Annual Report, he highlighted the launch of DiHubMT (Malta's European Digital Innovation Hub) as a landmark 2024 achievement and set out the Authority's 2026-2028 strategy priorities of agility, partnership-building, and inclusion.",
+        "Sandro Micallef": "Vice Chairperson of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report.",
+        "Dr Ramona Attard": "Secretary to the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report.",
+        "Daniel Ablett": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
+        "Patrizia Busuttil": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
+        "Mark Camilleri": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment; the name is common enough that other public profiles could not be confirmed as the same person.",
+        "Nicole Falzon": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
+        "Anthony Galea": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
+        "Nigel Vella": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. A Nigel Vella succeeded Pierre Fenech as CEO of the Mediterranean Conference Centre (MCC) from 1 April 2025, per earlier research in this project; it could not be independently confirmed whether this is the same individual, so the connection is noted rather than assumed.",
+        "Omar Vella": "Member of the Board of Governors of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report. No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Jean-Marie Mifsud": "Chief Innovative Technology Officer of the Malta Digital Innovation Authority (MDIA), in post from 27 February 2024, as confirmed in the Authority's 2024 Annual Report.",
+        "Gavril Flores": "Chief Strategy, Policy & Governance Officer of the Malta Digital Innovation Authority (MDIA), as confirmed in the Authority's 2024 Annual Report."
       },
       "bio_sources": {
-        "Kenneth Brincat": "https://whoswho.mt/en/who-s-who-in-malta-meet-kenneth-brincat-chief-executive-officer-malta-digital-innovation-authority-mdia",
-        "Wayne Grixti": "https://tech.mt/technology-industry-malta/the-board/"
-      },
-      "chairman": "Wayne Grixti"
+        "Wayne Grixti": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Sandro Micallef": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Dr Ramona Attard": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Daniel Ablett": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Patrizia Busuttil": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Mark Camilleri": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Nicole Falzon": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Anthony Galea": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Nigel Vella": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Omar Vella": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Dr Jean-Marie Mifsud": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
+        "Gavril Flores": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf"
+      }
     },
     "GamingMalta Foundation": {
       "ceo": "Ivan Filletti",
