@@ -4376,10 +4376,10 @@
       "website_note": "No official webpage found for this specific board."
     },
     "Commercial Sanctions Tribunal": {
-      "ministry": "Finance (MFF)",
+      "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal (also listed under MFF)."
     },
     "Controlled Companies Appeals Board": {
       "ministry": "Finance (MFF)",
@@ -4464,6 +4464,144 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board."
+    },
+    "Information and Data Protection Commissioner": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://idpc.org.mt/"
+    },
+    "Xjenza Malta": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://xjenzamalta.mt/"
+    },
+    "Malta Arbitration Centre": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://arbitration.mt/"
+    },
+    "Asset Recovery Bureau": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific bureau."
+    },
+    "Courts Services Agency": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency in this check."
+    },
+    "Legal Aid Agency": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency in this check."
+    },
+    "Office of the Attorney General": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific office in this check."
+    },
+    "Office of the State Advocate": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific office in this check."
+    },
+    "Administrative Review Tribunal": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific tribunal."
+    },
+    "Aviation and Aerospace Board": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Commissioners for Justice": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific commission."
+    },
+    "Digital Technologies Board": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Drug Offenders Rehabilitation Board": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Examination Board - Notary Warrant": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Foundation for Cancer Research and Innovation Hub Malta (CHIHM)": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific foundation; only referenced via gov.mt's Officially Appointed Bodies directory."
+    },
+    "Foundation for Information Technology Accessibility": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific foundation."
+    },
+    "Permanent Commission against Corruption": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific commission."
+    },
+    "Law Commission": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific commission."
+    },
+    "Data Protection and Information Coordination Unit": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific unit, distinct from the Information and Data Protection Commissioner's own site (idpc.org.mt)."
+    },
+    "Malta Mediation Centre": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific centre in this check."
+    },
+    "Office of the Notary to Government": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific office."
+    },
+    "Property Malta": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific foundation, distinct from Property Malta Foundation under METP."
+    },
+    "Real Estate Licensing Unit": {
+      "ministry": "Justice, Research and Innovation (MJRI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific unit."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
