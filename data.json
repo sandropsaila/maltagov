@@ -2473,11 +2473,17 @@
     },
     "Kordin Innovation Hub": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "source": "https://startinmalta.com/kbic-tenants-meet-malta-enterprises-management-at-the-main-office-in-pieta/ ; https://maltabusinessweekly.com/kordin-business-incubation-centre-celebrates-20-years-of-assisting-startups/14509/",
+      "note": "Operates as the Kordin Business Incubation Centre (KBIC), managed directly by Malta Enterprise rather than by a separate board. Day-to-day management sits with Malta Enterprise's Business Development & Growth unit, headed by Cain Grech Sargent (Chief Officer, Business Development & Growth), under Malta Enterprise CEO George Gregory. No separate named chairperson or director specific to the Hub itself was found.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Cain Grech Sargent": "Chief Officer, Business Development & Growth at Malta Enterprise, responsible for managing the Kordin Business Incubation Centre (KBIC) — home to around 13-20 start-up and scale-up companies at any time across manufacturing, life sciences, digital games, 3D printing and creative industries — as well as Malta Enterprise's broader support services for start-ups, from early stage through to expansion and exit."
+      },
+      "bio_sources": {
+        "Cain Grech Sargent": "https://startinmalta.com/kbic-tenants-meet-malta-enterprises-management-at-the-main-office-in-pieta/"
+      },
+      "director": "Cain Grech Sargent"
     },
     "Licensing Appeals Board (Trading)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2568,12 +2574,19 @@
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
     "Malta Government Venture Capital Ltd": {
+      "ceo": "Karl Azzopardi",
+      "vice_chairman": "Andre Psaila",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "source": "https://mgis.com.mt/about/ ; https://mgis.com.mt/news/maltas-venture-capital-landscape-gets-e10m-injection/",
+      "note": "MGVC is managed under Malta Government Investments (MGI, formerly MIMCOL), whose current officers are listed here. A March 2024 press item names a different CEO (Jesmond Gatt) for the parent company at that time; the official MGI 'About' page (most recently checked) lists Karl Azzopardi as CEO, so that more current listing was used. Karl Azzopardi is also listed as CEO of Indis Malta Ltd — this may reflect a cross-appointment across sister government-investment entities, or two different individuals sharing the name; not independently confirmed.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Andre Psaila": "Vice Chairman of Malta Government Investments (MGI), the state investment holding company (formerly MIMCOL) that oversees Malta Government Venture Capital Ltd, which provides equity and quasi-equity co-investment to innovative, high-growth start-ups such as UK deep-tech firm Quinas Technology, approved for investment in May 2026."
+      },
+      "bio_sources": {
+        "Andre Psaila": "https://mgis.com.mt/about/"
+      }
     },
     "Malta Investments & Economic Advisory Ltd (MIEA)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
