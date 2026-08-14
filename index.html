@@ -116,7 +116,12 @@ function render(data){
   const scored = ministries.map(m=>{
     const n = m.entities.length;
     let found=0;
-    m.entities.forEach(([name])=>{ if(chairs[name]) found++; });
+    m.entities.forEach(([name])=>{
+      const c = chairs[name];
+      if(!c) return;
+      const hasChairInfo = Object.keys(ROLE_LABELS).some(k=>c[k]) || c.no_info_found;
+      if(hasChairInfo) found++;
+    });
     return {m, n, found, pct: n? Math.round(found/n*100):0};
   }).sort((a,b)=>b.pct-a.pct);
 
