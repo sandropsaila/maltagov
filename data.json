@@ -1917,9 +1917,9 @@
     },
     "Environment and Resources Authority (ERA)": {
       "chairman": "Perit Vincent Cassar",
-      "ministry": "Energy, Environment and Grand Harbour Regeneration (MEER)",
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "source": "https://www.independent.com.mt/articles/2026-07-08/business-news/HSBC-Malta-Foundation-Wins-2026-ERA-Corporate-Award (July 2026 - current) ; https://newsbook.com.mt/en/vince-cassar-appointed-era-chairperson/ (Feb 2023 appointment, succeeded Prof Victor Axiak)",
-      "checked": "2026-08-09",
+      "checked": "2026-08-14",
       "bio_status": "not yet researched",
       "note": "Previously chairman of Planning Authority and Director General of Public Works",
       "bios": {
@@ -4170,6 +4170,102 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission."
+    },
+    "Enemalta plc": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.enemalta.com.mt/"
+    },
+    "ARMS Ltd": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://arms.com.mt/"
+    },
+    "Water Services Corporation": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.wsc.com.mt/"
+    },
+    "Regulator for Energy and Water Services": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.rews.org.mt/"
+    },
+    "WasteServ (Malta) Ltd.": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://www.wasteservmalta.com/"
+    },
+    "Office of the Commissioner for Animal Welfare (CAW)": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific office."
+    },
+    "Climate Action Authority": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific authority in this check."
+    },
+    "Majjistral, Nature and History Park Management Board": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board, distinct from majjistral.org (an NGO/friends-of-the-park site not confirmed as this government board's own page)."
+    },
+    "Inwadar National Park Management Board": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Project Green Agency": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency in this check."
+    },
+    "The Energy and Water Agency": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency in this check."
+    },
+    "Enemed Co Ltd": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company in this check; distinct from Enemalta plc's own site."
+    },
+    "Grand Harbour Regeneration Corporation": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific corporation."
+    },
+    "Animal Welfare Council": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council, distinct from the Office of the Commissioner for Animal Welfare."
+    },
+    "Circular Economy Malta": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific agency."
+    },
+    "National Climate Action Council": {
+      "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
