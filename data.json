@@ -2713,7 +2713,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://health.gov.mt/",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2721,7 +2721,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2729,23 +2729,29 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
     "Management Committee of St Vincent De Paule": {
+      "ceo": "Jorgen Souness",
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
-      "no_info_found": true,
-      "source": "https://health.gov.mt/",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "source": "https://med-tech.world/news/st-vincent-de-paul-ceo-jorgen-souness-300-bed-facility-malta-care-shift/ ; https://www.maltatoday.com.mt/news/national/125302/ohsa_social_care_standards_authority_and_svdp_get_new_chiefs",
+      "note": "No separate 'Management Committee' chairperson could be confirmed distinct from the CEO role; the residence's governance is publicly represented through its CEO. Jorgen Souness was appointed Acting CEO in October 2023, succeeding Dr Josianne Cutajar (who moved to lead OHSA), and continues in the CEO role as of an April 2026 industry interview.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Jorgen Souness": "Chief Executive Officer of St Vincent de Paul Residence, Malta's largest long-term care facility for the elderly, appointed Acting CEO in October 2023, succeeding Dr Josianne Cutajar who moved to head the Occupational Health and Safety Authority (OHSA). A nurse by profession who rose to the grade of Charge Nurse, previously served as Director of Quality Assurance within the Health Ministry's Secondary Care Services, where he coordinated Malta's national COVID-19 vaccination programme surveillance. Also held administrative roles at Mater Dei Hospital and in planning the Paola Hub. As of April 2026, oversaw the tendering of a new 300-bed intermediate care facility at St Vincent de Paul, designed as a 30-year build-operate-maintain project to bridge acute hospital treatment and long-term residential care."
+      },
+      "bio_sources": {
+        "Jorgen Souness": "https://med-tech.world/news/st-vincent-de-paul-ceo-jorgen-souness-300-bed-facility-malta-care-shift/"
+      }
     },
     "Welfare Committee": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2753,7 +2759,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://www.datocapital.mt/companies/Malta-Health-Ltd.html",
-      "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
