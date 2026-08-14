@@ -2958,6 +2958,102 @@
         "Darleen Zerafa": "https://tvmnews.mt/en/news/2400-persons-referred-to-dar-kenn-ghal-sahhtek-in-10-years/"
       },
       "website_note": "No dedicated official webpage found; referenced via health.gov.mt/public-bodies/dar-kenn-ghall-sahhtek/ (a ministry directory listing, not the entity's own site)."
+    },
+    "Youth Work Profession Board": {
+      "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific board."
+    },
+    "Youth Agency": {
+      "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://youth.gov.mt/"
+    },
+    "Gozo Agricultural, Cultural and Industrial Society": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific society."
+    },
+    "Gozo Channel (Holding) Limited": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No dedicated webpage found distinct from the operating company gozochannel.com (Gozo Channel (Operations) Limited); this Holding entity does not appear to have its own separate official page."
+    },
+    "Gozo Heliport": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Gozo's public bodies directory (gozo.gov.mt)."
+    },
+    "Gozo Committee for National and Regional Celebrations": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "Projects Gozo Ltd": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific company."
+    },
+    "Gozo Regional Development Authority": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://grda.mt/"
+    },
+    "Gozo Cultural Council": {
+      "ministry": "Gozo (MFG)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific council."
+    },
+    "Commonwealth Trade Finance Facility Ltd - Board of Directors": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Foreign and European Affairs' public bodies directory (foreign.gov.mt); the wider Commonwealth Trade Finance Facility programme is referenced on thecommonwealth.org but that is not this Maltese entity's own site."
+    },
+    "Council for Maltese Living Abroad": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://malteselivingabroad.gov.mt/"
+    },
+    "Economic Security Strategy Committee": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific committee."
+    },
+    "National Authority for the Implementation of Chemical Weapons Convention": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "No official webpage found for this specific authority."
+    },
+    "Sanctions Monitoring Board": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://smb.gov.mt/"
+    },
+    "Trade Malta Ltd": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website": "https://trademalta.org/"
+    },
+    "World Trade Organisation (Government representation and participation)": {
+      "ministry": "Foreign and European Affairs (MFEA)",
+      "checked": "2026-08-14",
+      "bio_status": "website only - chair/board not yet researched",
+      "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
