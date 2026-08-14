@@ -1698,7 +1698,8 @@
       "bio_sources": {
         "Jesmond Gatt": "https://en.wikipedia.org/wiki/Malta_Financial_Services_Authority",
         "Kenneth Farrugia": "https://en.wikipedia.org/wiki/Malta_Financial_Services_Authority"
-      }
+      },
+      "website": "https://www.mfsa.mt/"
     },
     "Planning Authority (PA)": {
       "executive_chairman": "Johann Buttigieg",
@@ -1715,7 +1716,8 @@
       "bio_sources": {
         "Johann Buttigieg": "https://tvmnews.mt/en/news/e3-million-invested-in-the-digital-transformation-of-the-planning-authority/",
         "Emanuel Camilleri": "https://tvmnews.mt/en/news/e3-million-invested-in-the-digital-transformation-of-the-planning-authority/"
-      }
+      },
+      "website": "https://www.pa.org.mt/"
     },
     "Malta Enterprise": {
       "chairman": "William Wait",
@@ -1761,7 +1763,8 @@
         "Brian Muscat": "https://maltaenterprise.com/organisational-structure",
         "Terry Zammit": "https://maltaenterprise.com/organisational-structure",
         "Nathalie Farrugia": "https://maltaenterprise.com/organisational-structure"
-      }
+      },
+      "website": "https://maltaenterprise.com/"
     },
     "Transport Malta": {
       "chairman": "Michael Callus",
@@ -1770,7 +1773,8 @@
       "source": "https://www.transport.gov.mt/transport-malta/structure-672",
       "checked": "2026-08-09",
       "bio_status": "not yet researched",
-      "note": "Corrects earlier Wikipedia-sourced Joseph Bugeja claim (stale, held role 2019-2022 only)"
+      "note": "Corrects earlier Wikipedia-sourced Joseph Bugeja claim (stale, held role 2019-2022 only)",
+      "website": "https://www.transport.gov.mt/"
     },
     "Malta Tourism Authority (MTA)": {
       "chairman": "Dr Charles Mangion",
@@ -1839,7 +1843,8 @@
         "Dr Stephanie Abela": "https://mta.com.mt/boards-committees/",
         "Joseph Muscat": "https://mta.com.mt/boards-committees/",
         "George Micallef": "https://mta.com.mt/boards-committees/"
-      }
+      },
+      "website": "https://mta.com.mt/"
     },
     "Malta Gaming Authority (MGA)": {
       "chairperson": "Ryan C. Pace",
@@ -1889,7 +1894,8 @@
         "Mark Musù": "https://www.gamingmalta.org/wp-content/uploads/2025/06/MGA-Annual-Report-2024.pdf",
         "Ruth Trapani Galea Feriol": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf",
         "Adrian Caruana": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf"
-      }
+      },
+      "website": "https://www.mga.org.mt/"
     },
     "Broadcasting Authority": {
       "chairman": "Frank V. Farrugia",
@@ -1906,7 +1912,8 @@
       "bio_sources": {
         "Frank V. Farrugia": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman",
         "Dr Joanna Spiteri": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman"
-      }
+      },
+      "website": "https://ba.org.mt/"
     },
     "Environment and Resources Authority (ERA)": {
       "chairman": "Perit Vincent Cassar",
@@ -1920,7 +1927,8 @@
       },
       "bio_sources": {
         "Perit Vincent Cassar": "https://www.independent.com.mt/articles/2026-07-08/business-news/HSBC-Malta-Foundation-Wins-2026-ERA-Corporate-Award"
-      }
+      },
+      "website": "https://era.org.mt/"
     },
     "Malta Tourism Authority Enforcement Board": {
       "chairman": "Chev Tony Coleiro",
@@ -1944,7 +1952,8 @@
         "Dr Tiffany Ann Attard": "https://mta.com.mt/boards-committees/",
         "Johann Mula": "https://mta.com.mt/boards-committees/",
         "Chev Tony Coleiro": "https://mta.com.mt/boards-committees/"
-      }
+      },
+      "website": "https://mta.com.mt/boards-committees/"
     },
     "Tourism Appeals Board": {
       "chairman": "Dr Ivan Sammut",
@@ -1968,7 +1977,8 @@
         "Dr Charlene Grima": "https://mta.com.mt/boards-committees/",
         "Clive Aquilina": "https://mta.com.mt/boards-committees/",
         "Audrey Felice": "https://mta.com.mt/boards-committees/"
-      }
+      },
+      "website": "https://mta.com.mt/boards-committees/"
     },
     "Older Persons Standards Authority": {
       "chairperson": "Ms Lisa Cassar Shaw",
@@ -2005,7 +2015,8 @@
         "Dr Svetlana Sammut": "https://activeageing.gov.mt/public-bodies/older-persons-standards-authority/",
         "Dr Nadine Stivala": "https://activeageing.gov.mt/public-bodies/older-persons-standards-authority/",
         "Philomena Meli": "https://activeageing.gov.mt/public-bodies/older-persons-standards-authority/"
-      }
+      },
+      "website": "https://activeageing.gov.mt/public-bodies/older-persons-standards-authority/"
     },
     "Institute of Tourism Studies": {
       "chairperson": "Mr Edward Zammit",
@@ -2050,7 +2061,8 @@
         "Ronald Vassallo": "https://its.edu.mt/organisation",
         "Ms Michelle Muscat Portelli": "https://its.edu.mt/organisation",
         "Dr Charlene Grima": "https://its.edu.mt/academic-governance"
-      }
+      },
+      "website": "https://its.edu.mt/"
     },
     "Mediterranean Conference Centre": {
       "ceo": "Nigel Vella",
@@ -2099,7 +2111,8 @@
         "Lara Azzopardi",
         "Nadia Portelli"
       ],
-      "note": " No Chairman currently listed on the official page — only a Deputy Chairman is named; may indicate a vacant chairmanship as of the site's last update."
+      "note": " No Chairman currently listed on the official page — only a Deputy Chairman is named; may indicate a vacant chairmanship as of the site's last update.",
+      "website": "https://mcc.com.mt/"
     },
     "Insolvency Fund Management Board": {
       "ministry": "Tourism (MFT)",
@@ -2118,7 +2131,8 @@
         "Noel Farrugia": "https://fatta.org/council/",
         "Martin Degiorgio": "https://fatta.org/council/"
       },
-      "no_info_found": true
+      "no_info_found": true,
+      "website": "https://mta.com.mt/insolvency-fund/"
     },
     "Paceville Town Centre Management Committee": {
       "chairperson": "Philip Fenech",
@@ -2140,14 +2154,16 @@
         "Malta Tourism Authority (MTA)",
         "Association of Catering Establishments",
         "Private sector operators (unnamed)"
-      ]
+      ],
+      "website_note": "No official webpage found for this specific committee."
     },
     "ITS New Campus Ltd Board": {
       "ministry": "Tourism (MFT)",
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Companies/ITS-New-Campus-Ltd.aspx (page exists, blocks automated access)",
       "checked": "2026-08-14",
       "no_info_found": true,
-      "bio_status": "NO INFO FOUND - Confirmed entity exists as an officially registered company with its own gov.mt board-of-directors page, but that page blocks automated access (robots disallowed) and no board member or chairman names surfaced across repeated searches, gov.mt, ITS's own site, or news coverage. Likely a low-profile project-delivery subsidiary tied to the ITS Smart City/Kalkara campus build, distinct from the ITS Board of Governors (chaired by Edward Zammit). Re-checked 2026-08-13, still unresolved - tagged as searched/no info found rather than left pending. Re-checked 2026-08-14 with fresh searches per deep-research workflow - still no names found; gov.mt board-of-directors page confirmed to exist but remains inaccessible to automated fetch (robots disallowed)."
+      "bio_status": "NO INFO FOUND - Confirmed entity exists as an officially registered company with its own gov.mt board-of-directors page, but that page blocks automated access (robots disallowed) and no board member or chairman names surfaced across repeated searches, gov.mt, ITS's own site, or news coverage. Likely a low-profile project-delivery subsidiary tied to the ITS Smart City/Kalkara campus build, distinct from the ITS Board of Governors (chaired by Edward Zammit). Re-checked 2026-08-13, still unresolved - tagged as searched/no info found rather than left pending. Re-checked 2026-08-14 with fresh searches per deep-research workflow - still no names found; gov.mt board-of-directors page confirmed to exist but remains inaccessible to automated fetch (robots disallowed).",
+      "website_note": "A gov.mt board-of-directors page exists (per prior research) but blocks automated verification (robots disallowed), so its validity could not be confirmed; no other official webpage found."
     },
     "Karen Grech Rehabilitation Hospital": {
       "ceo": "Dr Stephen Zammit",
@@ -2160,7 +2176,8 @@
       },
       "bio_sources": {
         "Dr Stephen Zammit": "https://karingrechhospital.gov.mt/en/the-hospital/the-ceo/"
-      }
+      },
+      "website": "https://karingrechhospital.gov.mt/"
     },
     "Malta Tourism Authority Main Board": {
       "chairman": "Dr Charles Mangion",
@@ -2231,7 +2248,8 @@
         "George Micallef": "https://mta.com.mt/boards-committees/"
       },
       "note": "This entity is the same governing body as 'Malta Tourism Authority (MTA)' in the admin register (the MTA's main board) -- data mirrored from that fully-researched entry rather than re-researched separately.",
-      "bio_entity": "Malta Tourism Authority (MTA)"
+      "bio_entity": "Malta Tourism Authority (MTA)",
+      "website": "https://mta.com.mt/"
     },
     "Mediterranean Conference Centre Management Committee": {
       "ceo": "Nigel Vella",
@@ -2281,7 +2299,8 @@
         "Nadia Portelli"
       ],
       "note": "No Chairman currently listed on the official page — only a Deputy Chairman is named; may indicate a vacant chairmanship as of the site's last update. This entity is the same governing body as 'Mediterranean Conference Centre' in the admin register -- MCC's own Freedom of Information page confirms its functions are vested by the Minister in a 'Board of Management' composed of a chairman, members and a secretary. Data mirrored from the fully-researched MCC entry rather than re-researched separately. Source: https://mcc.com.mt/freedom-of-information/",
-      "bio_entity": "Mediterranean Conference Centre"
+      "bio_entity": "Mediterranean Conference Centre",
+      "website": "https://mcc.com.mt/"
     },
     "Malta Business Registry": {
       "ceo": "Dr Geraldine Spiteri Lucas",
@@ -2297,7 +2316,8 @@
       "bio_sources": {
         "Dr Geraldine Spiteri Lucas": "https://en.wikipedia.org/wiki/Malta_Business_Registry",
         "Annalise Zammit": "https://ebramalta2026.mt/agenda/"
-      }
+      },
+      "website": "https://www.mbr.mt/"
     },
     "Malta Freeport Corporation": {
       "chairperson": "Perit Robert Sarsero",
@@ -2336,7 +2356,8 @@
         "Margaret Camilleri": "https://maltafreeport.gov.mt/board-of-directors/",
         "Mark Aquilina": "https://maltafreeport.gov.mt/board-of-directors/",
         "David Magro": "https://maltafreeport.gov.mt/uncategorized/squaring-off-project-visit-by-the-prime-minister-and-cabinet-ministers/News"
-      }
+      },
+      "website": "https://maltafreeport.gov.mt/"
     },
     "Malta Communications Authority (MCA)": {
       "chairperson": "Inġ. Jonathan Scerri",
@@ -2380,7 +2401,8 @@
         "Dr Alexandra Mizzi": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
         "Brian Scicluna": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf",
         "Thea Borg": "https://www.mca.org.mt/sites/default/files/pageattachments/MCA%20Annual%202024%20digital.pdf"
-      }
+      },
+      "website": "https://www.mca.org.mt/"
     },
     "Malta Digital Innovation Authority": {
       "chairman": "Wayne Grixti",
@@ -2431,7 +2453,8 @@
         "Omar Vella": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
         "Dr Jean-Marie Mifsud": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf",
         "Gavril Flores": "https://mdia.gov.mt/app/uploads/2025/06/DIGITAL-MDIA-2024-INSIDE-v2.pdf"
-      }
+      },
+      "website": "https://mdia.gov.mt/"
     },
     "GamingMalta Foundation": {
       "ceo": "Ivan Filletti",
@@ -2445,7 +2468,8 @@
       },
       "bio_sources": {
         "Ivan Filletti": "https://www.gamingmalta.org/about/"
-      }
+      },
+      "website": "https://www.gamingmalta.org/"
     },
     "Gozo Channel (Operations) Limited": {
       "chairperson": "Marlene Cini",
@@ -2462,7 +2486,8 @@
       "bio_sources": {
         "Marlene Cini": "https://www.independent.com.mt/articles/2026-07-03/local-news/New-leadership-appointed-at-Gozo-Channel-Operations-Ltd-roles-of-Chairperson-and-CEO-separated-6736291083",
         "Ronald Sultana": "https://www.maltatoday.com.mt/news/national/142960/gozo_channel_appoints_new_ceo_and_first_female_chairperson"
-      }
+      },
+      "website": "https://www.gozochannel.com/"
     },
     "Indis Malta Limited": {
       "executive_chairman": "Dr Jean Pierre Attard",
@@ -2478,7 +2503,8 @@
       "bio_sources": {
         "Dr Jean Pierre Attard": "https://whoswho.mt/en/who-s-who-in-malta-meet-jean-pierre-attard-chairman-indis-malta-ltd",
         "Karl Azzopardi": "https://whoswho.mt/en/company-profiles-in-malta-indis-malta-ltd-the-largest-operator-of-industrial-parks-in-the-maltese-islands"
-      }
+      },
+      "website": "https://indismalta.com/"
     },
     "Tech.mt Foundation Board": {
       "ceo": "Wayne Grixti",
@@ -2491,7 +2517,8 @@
       },
       "bio_sources": {
         "Wayne Grixti": "https://tech.mt/technology-industry-malta/the-board/"
-      }
+      },
+      "website": "https://tech.mt/"
     },
     "Malta Trade Fairs Corporation": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2499,7 +2526,8 @@
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Corporations/Malta-Trade-Fairs-Corporation-.aspx",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "The historic Malta Trade Fair venue is now operated as the privately-owned Malta Fairs & Conventions Centre (mfcc.com.mt, part of the Corinthia Group since 2016) - this is NOT confirmed to be the same legal entity as the government statutory corporation 'Malta Trade Fairs Corporation' referenced in the Officially Appointed Bodies register, so no webpage was added to avoid misattribution."
     },
     "Malta Crafts Foundation": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2507,7 +2535,8 @@
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Foundations/Malta-Crafts-Foundation.aspx",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website": "https://maltacrafts.org/"
     },
     "Business First Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2515,7 +2544,8 @@
       "source": "https://www.businessfirst.com.mt/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website": "https://www.businessfirst.com.mt/"
     },
     "Smart City (Malta) Ltd": {
       "chairman": "Khalid Al Malik",
@@ -2532,7 +2562,8 @@
       "bio_sources": {
         "Khalid Al Malik": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-reiterates-commitment-smartcity-malta-appointment-ceo",
         "Deepak Padmanabhan": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-reiterates-commitment-smartcity-malta-appointment-ceo"
-      }
+      },
+      "website": "https://www.smartcitymalta.com.mt/"
     },
     "Central Business District Foundation": {
       "chairman": "William Wait",
@@ -2546,7 +2577,8 @@
       },
       "bio_sources": {
         "William Wait": "https://cbdmalta.org/about/"
-      }
+      },
+      "website": "https://cbdmalta.org/"
     },
     "Copyright Board": {
       "chairman": "Dr Ivan Sammut",
@@ -2559,7 +2591,8 @@
       },
       "bio_sources": {
         "Dr Ivan Sammut": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/"
-      }
+      },
+      "website": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/"
     },
     "Co-Operatives Board": {
       "chairperson": "Joseph Abela",
@@ -2589,7 +2622,8 @@
         "Carmelo Bugeja": "https://coopsboard.org/",
         "Jurgen Agius": "https://coopsboard.org/",
         "Dr Dirk Urpani": "https://coopsboard.org/"
-      }
+      },
+      "website": "https://coopsboard.org/"
     },
     "Family Business Office": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2597,7 +2631,8 @@
       "source": "https://familybusiness.org.mt/about/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website": "https://familybusiness.org.mt/"
     },
     "Life Science Park": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2605,7 +2640,8 @@
       "source": "https://www.maltalifesciencespark.com/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website": "https://www.maltalifesciencespark.com/"
     },
     "Kordin Innovation Hub": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2619,7 +2655,8 @@
       "bio_sources": {
         "Cain Grech Sargent": "https://startinmalta.com/kbic-tenants-meet-malta-enterprises-management-at-the-main-office-in-pieta/"
       },
-      "director": "Cain Grech Sargent"
+      "director": "Cain Grech Sargent",
+      "website_note": "Operates as the Kordin Business Incubation Centre (KBIC), managed by Malta Enterprise; no dedicated standalone webpage exists beyond https://maltaenterprise.com/kordin-business-incubation-center, which is a Malta Enterprise sub-page rather than the entity's own site."
     },
     "Licensing Appeals Board (Trading)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2627,7 +2664,8 @@
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "National FDI Screening Supervisory Board": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2635,7 +2673,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "Property Management Services Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2643,7 +2682,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Stamp Design Advisory Board": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2651,7 +2691,8 @@
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "State Aid Monitoring Board": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2659,7 +2700,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "Casma Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2667,7 +2709,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Gozo Fibre Optic Cable Co Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2675,7 +2718,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "IP Holding": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2683,7 +2727,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Kordin Grain Terminal Co Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2691,7 +2736,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Malpro Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2699,7 +2745,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Malta Government Technology Investment Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2707,7 +2754,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Malta Government Venture Capital Ltd": {
       "ceo": "Karl Azzopardi",
@@ -2722,7 +2770,8 @@
       },
       "bio_sources": {
         "Andre Psaila": "https://mgis.com.mt/about/"
-      }
+      },
+      "website": "https://mgis.com.mt/"
     },
     "Malta Investments & Economic Advisory Ltd (MIEA)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2730,7 +2779,8 @@
       "source": "https://economy.gov.mt/public-bodies/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company; possibly related to MGI (mgis.com.mt) based on a shared LinkedIn reference, but this could not be confirmed."
     },
     "Arbiter & Patents Tribunal": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2738,7 +2788,8 @@
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific tribunal."
     },
     "Auctioneer Board of Examiners": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2746,7 +2797,8 @@
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "Bank of Valletta (Government representatives)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2754,7 +2806,8 @@
       "source": "https://www.bov.com/",
       "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "This entry refers to Government-nominated representatives on the Bank of Valletta board, not to BOV itself; https://www.bov.com/ is BOV's own website, not a page specific to the Government's board representation, so no dedicated official page was added."
     },
     "Council for Older Persons": {
       "chairperson": "Alex Attard",
@@ -2791,7 +2844,8 @@
           "https://medicalcouncil.gov.mt/en/the-council/structure/"
         ],
         "Norman Grech": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf"
-      }
+      },
+      "website": "https://activeageing.gov.mt/public-bodies/office-of-the-commissioner-for-the-older-persons/"
     },
     "National Commission on Active Ageing": {
       "chairperson": "Dr Marvin Formosa",
@@ -2804,7 +2858,8 @@
       },
       "bio_sources": {
         "Dr Marvin Formosa": "https://menarah.org/active-and-healthy-ageing-in-malta-gerontological-and-geriatric-inquiries/"
-      }
+      },
+      "website_note": "No dedicated official webpage found beyond references within activeageing.gov.mt's general content."
     },
     "Health Care Professions Regulatory Councils": {
       "chairperson": "Dr Simon Micallef Stafrace",
@@ -2824,7 +2879,8 @@
         "Dr Joseph Chetcuti": "https://pharmacycouncil.gov.mt/en/the-department/structure/",
         "Dr Simon Cachia": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Documents/2026/01/Government%20Gazette%20-%2013th%20January.pdf",
         "Dr Oliver de Gaetano": "https://cpcm.gov.mt/en/the-department/president/"
-      }
+      },
+      "website": "https://medicalcouncil.gov.mt/ (Medical Council); https://pharmacycouncil.gov.mt/ (Pharmacy Council); https://nursesandmidwivescouncil.gov.mt/ (Nurses & Midwives); https://cpcm.gov.mt/ (CPCM) - umbrella entry covers 4 separate council websites"
     },
     "Ethical Committee of St Vincent de Paule": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
@@ -2832,7 +2888,8 @@
       "source": "https://health.gov.mt/",
       "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific committee."
     },
     "Foundation for Senior Citizen Services Board": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
@@ -2840,7 +2897,8 @@
       "source": "https://activeageing.gov.mt/",
       "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific foundation."
     },
     "Home Help Appeals Board": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
@@ -2848,7 +2906,8 @@
       "source": "https://activeageing.gov.mt/",
       "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific board."
     },
     "Management Committee of St Vincent De Paule": {
       "ceo": "Jorgen Souness",
@@ -2862,7 +2921,8 @@
       },
       "bio_sources": {
         "Jorgen Souness": "https://med-tech.world/news/st-vincent-de-paul-ceo-jorgen-souness-300-bed-facility-malta-care-shift/"
-      }
+      },
+      "website": "https://svp.gov.mt/"
     },
     "Welfare Committee": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
@@ -2870,7 +2930,8 @@
       "source": "https://activeageing.gov.mt/",
       "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific committee."
     },
     "Malta Health Ltd": {
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
@@ -2878,7 +2939,8 @@
       "source": "https://www.datocapital.mt/companies/Malta-Health-Ltd.html",
       "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "website_note": "No official webpage found for this specific company."
     },
     "Dar il-Kenn Ghall-Sahhtek": {
       "chairman": "Prof. Anton Grech",
@@ -2894,7 +2956,8 @@
       "bio_sources": {
         "Prof. Anton Grech": "https://vymaps.com/MT/Kenn-Ghal-Sahhtek-1436973229872917/",
         "Darleen Zerafa": "https://tvmnews.mt/en/news/2400-persons-referred-to-dar-kenn-ghal-sahhtek-in-10-years/"
-      }
+      },
+      "website_note": "No dedicated official webpage found; referenced via health.gov.mt/public-bodies/dar-kenn-ghall-sahhtek/ (a ministry directory listing, not the entity's own site)."
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
