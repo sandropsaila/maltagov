@@ -2692,15 +2692,21 @@
     "Health Care Professions Regulatory Councils": {
       "chairperson": "Dr Simon Micallef Stafrace",
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
-      "source": "https://medicalcouncil.gov.mt/en/the-council/structure/ ; https://medicalcouncil.gov.mt/wp-content/uploads/2025/02/Annual-Report-2024.pdf",
-      "note": "This umbrella entry covers several statutory Councils under the Health Care Professions Act (Medical Council, Pharmacy Council, Council for Nurses and Midwives, Council for the Professions Complementary to Medicine). Only the Medical Council's President was confirmed with a named, currently-serving individual; the other Councils' chairs were not confirmed as of this check.",
+      "source": "https://medicalcouncil.gov.mt/en/the-council/structure/ ; https://medicalcouncil.gov.mt/wp-content/uploads/2025/02/Annual-Report-2024.pdf ; https://pharmacycouncil.gov.mt/en/the-department/structure/ ; https://www.gov.mt/en/Government/DOI/Government%20Gazette/Documents/2026/01/Government%20Gazette%20-%2013th%20January.pdf ; https://cpcm.gov.mt/en/the-department/president/",
+      "note": "Umbrella entry covering four statutory Councils under the Health Care Professions Act. All four Councils' presidents are now confirmed via official structure pages and the Government Gazette: Medical Council (Dr Simon Micallef Stafrace), Pharmacy Council (Dr Joseph Chetcuti), Council for Nurses and Midwives (Dr Simon Cachia), Council for the Professions Complementary to Medicine (Dr Oliver de Gaetano).",
       "checked": "2026-08-14",
-      "bio_status": "PARTIALLY RESEARCHED",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Dr Simon Micallef Stafrace": "President of the Medical Council Malta, appointed by the Prime Minister for the term 22 August 2023 to 21 August 2026. Holds an LL.D. and a Master of Laws (LL.M.). Chairs the Council's Sub-Committee for the Analyses of Complaints (SCAC). The Medical Council Malta regulates medical practitioners and dental surgeons under the Health Care Professions Act (Chapter 464 of the Laws of Malta), maintaining the statutory Medical Register."
+        "Dr Simon Micallef Stafrace": "President of the Medical Council Malta, appointed by the Prime Minister for the term 22 August 2023 to 21 August 2026. Holds an LL.D. and a Master of Laws (LL.M.). Chairs the Council's Sub-Committee for the Analyses of Complaints (SCAC). The Medical Council Malta regulates medical practitioners and dental surgeons under the Health Care Professions Act (Chapter 464 of the Laws of Malta), maintaining the statutory Medical Register.",
+        "Dr Joseph Chetcuti": "President of the Pharmacy Council, appointed by the Prime Minister for the term running until 22 August 2026. The Council regulates the pharmaceutical professions (pharmacists, pharmacy technicians and Qualified Persons) under Article 16 of the Health Care Professions Act (Cap 464).",
+        "Dr Simon Cachia": "President of the Council for Nurses and Midwives (CNM), appointed by the Minister for Health and Active Ageing for a three-year term from 13 January 2026 per the Government Gazette, having also served the preceding one-year term from January 2025. The Council regulates the nursing and midwifery professions in Malta under the Health Care Professions Act 2003. Also serves as a contact person for the Council for the Teaching Profession.",
+        "Dr Oliver de Gaetano": "President of the Council for the Professions Complementary to Medicine (CPCM) since July 2022, the statutory body regulating 20 health care professions in Malta including physiotherapy, dietetics, occupational therapy, radiography and podiatry among others. A lawyer, obtained his warrant to practise as an Advocate in the Maltese islands and has a background in European Law, having represented Malta's interests in EU working parties on legislative directives and their transposition into Maltese law."
       },
       "bio_sources": {
-        "Dr Simon Micallef Stafrace": "https://medicalcouncil.gov.mt/en/the-council/structure/"
+        "Dr Simon Micallef Stafrace": "https://medicalcouncil.gov.mt/en/the-council/structure/",
+        "Dr Joseph Chetcuti": "https://pharmacycouncil.gov.mt/en/the-department/structure/",
+        "Dr Simon Cachia": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Documents/2026/01/Government%20Gazette%20-%2013th%20January.pdf",
+        "Dr Oliver de Gaetano": "https://cpcm.gov.mt/en/the-department/president/"
       }
     },
     "Ethical Committee of St Vincent de Paule": {
@@ -2750,6 +2756,22 @@
       "note": "Searched across official gov.mt / ministry pages, news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook) and company registries; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Dar il-Kenn Ghall-Sahhtek": {
+      "chairman": "Prof. Anton Grech",
+      "director": "Darleen Zerafa",
+      "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
+      "source": "https://vymaps.com/MT/Kenn-Ghal-Sahhtek-1436973229872917/ ; https://tvmnews.mt/en/news/2400-persons-referred-to-dar-kenn-ghal-sahhtek-in-10-years/",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Prof. Anton Grech": "Chairman of Fondazzjoni Kenn Ghall-Sahhtek, the foundation set up jointly between the Malta Community Chest Fund (MCCF) and the Ministry of Health to run 'Dar Kenn ghal Sahhtek', Malta's national residential and semi-residential treatment facility for eating disorders and obesity in Mtarfa. Chairman of Psychiatry; co-authored the peer-reviewed study 'Dar Kenn Ghal Sahhtek - an eating disorder and obesity service in Malta' (Psychiatria Danubina, 2015) alongside the centre's Director.",
+        "Darleen Zerafa": "Director of Dar Kenn ghal Sahhtek since its opening in February 2014, overseeing the multidisciplinary team of psychologists, psychiatrists, occupational therapists, physiotherapists, nurses and nutritionists. As of the centre's 10-year milestone, over 2,400 people had been referred for treatment ranging from anorexia and bulimia to obesity, with patient ages ranging from 11 to 77. Co-authored the peer-reviewed study on the centre's treatment model published in Psychiatria Danubina (2015)."
+      },
+      "bio_sources": {
+        "Prof. Anton Grech": "https://vymaps.com/MT/Kenn-Ghal-Sahhtek-1436973229872917/",
+        "Darleen Zerafa": "https://tvmnews.mt/en/news/2400-persons-referred-to-dar-kenn-ghal-sahhtek-in-10-years/"
+      }
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
