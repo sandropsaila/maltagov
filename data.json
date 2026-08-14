@@ -2758,16 +2758,39 @@
     },
     "Council for Older Persons": {
       "chairperson": "Alex Attard",
+      "board_members": [
+        "Peter Paul Bonnici",
+        "Dr Anthony De Giovanni",
+        "Joyce Debono",
+        "Ludgard Scicluna",
+        "Dr Joseph Zarb Adami",
+        "Norman Grech"
+      ],
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
-      "source": "https://newsbook.com.mt/en/alex-attard-appointed-commissioner-for-older-persons/ ; https://activeageing.gov.mt/public-bodies/office-of-the-commissioner-for-the-older-persons/",
-      "note": "The Council is chaired ex officio by the Commissioner for Older Persons. Retired consultant surgeon Alex Attard was appointed Commissioner (and thus Council Chairperson) succeeding Prof. Godfrey La Ferla; the Council's six other members were not confirmed as current in public sources as of this check (older records from 2021 name a different, now-outdated, membership).",
+      "source": "https://newsbook.com.mt/en/alex-attard-appointed-commissioner-for-older-persons/ ; https://activeageing.gov.mt/public-bodies/office-of-the-commissioner-for-the-older-persons/ ; https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+      "note": "The Council is chaired ex officio by the Commissioner for Older Persons, currently Alex Attard (succeeding Prof. Godfrey La Ferla). The six-member roster listed here is the most recent one obtainable (appointed 1 June 2022, one-year term, under then-Commissioner La Ferla) via the Office's 2022 Annual Report. The 2023 Annual Report - which would show whether this exact membership carried over or was refreshed under Attard - exists at activeageing.gov.mt but blocks automated fetching; the roster is therefore flagged as last-confirmed-2022 rather than presented as current.",
       "checked": "2026-08-14",
       "bio_status": "PARTIALLY RESEARCHED",
       "bios": {
-        "Alex Attard": "Commissioner for Older Persons and ex officio Chairperson of the Council for Older Persons. A consultant surgeon who studied medicine at the University of Malta and furthered his studies at the University of Leeds, beginning surgical practice in 1993 and retiring from clinical practice shortly before his appointment; the majority of his patients over the years were elderly individuals. Appointed by Health and Active Ageing Minister Jo Etienne Abela, succeeding Prof. Godfrey La Ferla, Dean of the University of Malta's Faculty of Medicine and Surgery."
+        "Alex Attard": "Commissioner for Older Persons and ex officio Chairperson of the Council for Older Persons. A consultant surgeon who studied medicine at the University of Malta and furthered his studies at the University of Leeds, beginning surgical practice in 1993 and retiring from clinical practice shortly before his appointment; the majority of his patients over the years were elderly individuals. Appointed by Health and Active Ageing Minister Jo Etienne Abela, succeeding Prof. Godfrey La Ferla, Dean of the University of Malta's Faculty of Medicine and Surgery.",
+        "Peter Paul Bonnici": "Member of the Council for Older Persons, appointed by the National Council for the Elderly (KNA) for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Not reconfirmed as still serving under the current Commissioner, Alex Attard; the 2023 Annual Report (which might show a more current roster) is not directly accessible to automated fetch.",
+        "Dr Anthony De Giovanni": "Member of the Council for Older Persons, appointed by the National Council for the Elderly (KNA) for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Not reconfirmed as still serving under the current Commissioner, Alex Attard.",
+        "Joyce Debono": "Member of the Council for Older Persons, appointed by the National Commission for Active Ageing for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Not reconfirmed as still serving under the current Commissioner, Alex Attard.",
+        "Ludgard Scicluna": "Member of the Council for Older Persons, appointed by the Minister for Active Ageing for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Not reconfirmed as still serving under the current Commissioner, Alex Attard.",
+        "Dr Joseph Zarb Adami": "Member of the Council for Older Persons, appointed by the Minister for Health for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Also serves as a Prime Minister-appointed Member of the Medical Council Malta from 18 February 2025. Not reconfirmed as still serving on the Council under the current Commissioner, Alex Attard.",
+        "Norman Grech": "Member of the Council for Older Persons, appointed by the Minister for Education, Sport, Youth, Research and Innovation for the Council's term beginning 1 June 2022, as recorded in the Office of the Commissioner for Older Persons' 2022 Annual Report. Not reconfirmed as still serving under the current Commissioner, Alex Attard."
       },
       "bio_sources": {
-        "Alex Attard": "https://newsbook.com.mt/en/alex-attard-appointed-commissioner-for-older-persons/"
+        "Alex Attard": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+        "Peter Paul Bonnici": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+        "Dr Anthony De Giovanni": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+        "Joyce Debono": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+        "Ludgard Scicluna": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+        "Dr Joseph Zarb Adami": [
+          "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf",
+          "https://medicalcouncil.gov.mt/en/the-council/structure/"
+        ],
+        "Norman Grech": "https://activeageing.gov.mt/wp-content/uploads/2025/02/Annual-Report_2022_actual.pdf"
       }
     },
     "National Commission on Active Ageing": {
