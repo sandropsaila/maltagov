@@ -2380,6 +2380,232 @@
       "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
       "checked": "2026-08-13",
       "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Smart City (Malta) Ltd": {
+      "chairman": "Khalid Al Malik",
+      "ceo": "Deepak Padmanabhan",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-reiterates-commitment-smartcity-malta-appointment-ceo ; https://www.smartcitymalta.com.mt/about",
+      "note": "SmartCity Malta is a joint venture between the Government of Malta (9% equity) and Dubai Holding/TECOM; Chairman and CEO are Dubai Holding appointees, not government appointees, though the Government holds a board seat as minority shareholder.",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Khalid Al Malik": "Chairman of SmartCity Malta and Chief Real Estate Officer of Dubai Holding, the global investment holding company that developed SmartCity Malta as a 360,000 square-metre business and technology park adjacent to Valletta's Grand Harbour, in a joint venture in which the Government of Malta holds a 9% equity stake.",
+        "Deepak Padmanabhan": "Chief Executive Officer of SmartCity Malta, appointed by Dubai Holding to lead the business and technology park's continued development. Previously a respected figure across Malta's business community prior to his appointment, bringing experience in mergers and acquisitions, strategy, business development and long-term value creation."
+      },
+      "bio_sources": {
+        "Khalid Al Malik": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-reiterates-commitment-smartcity-malta-appointment-ceo",
+        "Deepak Padmanabhan": "https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-reiterates-commitment-smartcity-malta-appointment-ceo"
+      }
+    },
+    "Central Business District Foundation": {
+      "chairman": "William Wait",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://cbdmalta.org/about/ ; https://www.independent.com.mt/articles/2017-11-24/local-news/A-vision-for-Mriehel-to-become-a-Central-Trade-District-6736181873",
+      "note": "CEO name not confirmed as currently in post — a new CEO was appointed effective 1 December 2023 via open call, but the name could not be verified in public sources as of this check. William Wait has also faced governance/conflict-of-interest scrutiny in his concurrent role as Malta Enterprise chairman (The Shift News, July 2026).",
+      "checked": "2026-08-14",
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "William Wait": "Chairman of the Board of Administrators of the Central Business District Foundation (formerly the Mrieħel Enterprise Zone Foundation), a public-private partnership between the Government of Malta and private sector operators established in 2016 to regenerate the Mrieħel business district. Concurrently Chairman of Malta Enterprise."
+      },
+      "bio_sources": {
+        "William Wait": "https://cbdmalta.org/about/"
+      }
+    },
+    "Copyright Board": {
+      "chairman": "Dr Ivan Sammut",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Ivan Sammut": "Chairman of the Copyright Board, the statutory body established under Article 45 of the Copyright Act responsible for authorising and regulating Collecting Societies in Malta and approving their royalty tariffs. Also serves as Chairperson of the Tourism Appeals Board under the Ministry for Tourism."
+      },
+      "bio_sources": {
+        "Dr Ivan Sammut": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/"
+      }
+    },
+    "Co-Operatives Board": {
+      "chairperson": "Joseph Abela",
+      "board_members": [
+        "Dr Alexia Farrugia Zrinzo",
+        "Angelo Azzopardi",
+        "Carmelo Bugeja",
+        "Jurgen Agius"
+      ],
+      "board_secretary": "Dr Dirk Urpani",
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "source": "https://coopsboard.org/ ; https://cooperatives-malta.coop/the-cooperatives-board/",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Joseph Abela": "Chairperson of the Co-operatives Board (Bord tal-Koperattivi), the statutory body responsible for registering, monitoring and supervising co-operative societies in Malta under the Co-operative Societies Act.",
+        "Dr Alexia Farrugia Zrinzo": "Member of the Co-operatives Board, as listed on the Board's official page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Angelo Azzopardi": "Member of the Co-operatives Board, as listed on the Board's official page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Carmelo Bugeja": "Member of the Co-operatives Board, as listed on the Board's official page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Jurgen Agius": "Member of the Co-operatives Board, as listed on the Board's official page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Dr Dirk Urpani": "Board Secretary of the Co-operatives Board, as listed on the Board's official page."
+      },
+      "bio_sources": {
+        "Joseph Abela": "https://coopsboard.org/",
+        "Dr Alexia Farrugia Zrinzo": "https://coopsboard.org/",
+        "Angelo Azzopardi": "https://coopsboard.org/",
+        "Carmelo Bugeja": "https://coopsboard.org/",
+        "Jurgen Agius": "https://coopsboard.org/",
+        "Dr Dirk Urpani": "https://coopsboard.org/"
+      }
+    },
+    "Family Business Office": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://familybusiness.org.mt/about/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Life Science Park": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://www.maltalifesciencespark.com/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Kordin Innovation Hub": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Licensing Appeals Board (Trading)": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://commerce.gov.mt/en/boards-and-committees/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "National FDI Screening Supervisory Board": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Property Management Services Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Stamp Design Advisory Board": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://commerce.gov.mt/en/boards-and-committees/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "State Aid Monitoring Board": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Casma Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Gozo Fibre Optic Cable Co Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "IP Holding": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Kordin Grain Terminal Co Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malpro Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malta Government Technology Investment Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malta Government Venture Capital Ltd": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Malta Investments & Economic Advisory Ltd (MIEA)": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://economy.gov.mt/public-bodies/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Arbiter & Patents Tribunal": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://commerce.gov.mt/en/boards-and-committees/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Auctioneer Board of Examiners": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://commerce.gov.mt/en/boards-and-committees/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
+    },
+    "Bank of Valletta (Government representatives)": {
+      "ministry": "Economy, Technology and Strategic Projects (METP)",
+      "no_info_found": true,
+      "source": "https://www.bov.com/",
+      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "checked": "2026-08-14",
+      "bio_status": "SEARCHED - NO INFO FOUND"
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
