@@ -1813,12 +1813,54 @@
       }
     },
     "Malta Gaming Authority (MGA)": {
-      "chairman": "UNCONFIRMED - sources from 2021-2023 say Ryan Pace, but this is not verified current",
-      "ceo": "UNCONFIRMED - conflicting: older sources say Carl Brincat (2021), but MGA own Executive Committee page references a CEO named Charles [surname unclear] who joined 2024",
+      "chairperson": "Ryan C. Pace",
+      "ceo": "Charles Mizzi",
+      "board_members": [
+        "Renald Blundell",
+        "Arthur Ellul",
+        "Roberto Francalanza",
+        "Mark Musù",
+        "Ruth Trapani Galea Feriol"
+      ],
+      "board_secretary": "Adrian Caruana",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "source": "https://www.mga.org.mt/about-us/our-structure/team-members/department/executive-committee/ (needs direct follow-up fetch)",
-      "checked": "2026-08-09",
-      "bio_status": "NEEDS FOLLOW-UP - flagged as uncertain rather than guessed"
+      "source": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf ; https://www.mga.org.mt/who-we-are/our-structure/",
+      "note": "Resolves prior UNCONFIRMED flags: Ryan C. Pace is confirmed as Chairperson and Charles Mizzi as CEO (since 26 January 2024) via the MGA's own 2025 Annual Report, cross-checked against a March 2026 Shift News piece. Full Board of Governors composition sourced directly from the Authority's 2023-2025 Annual Reports.",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ryan C. Pace": "Chairperson of the Malta Gaming Authority's Board of Governors, confirmed as still in post in the Authority's 2025 Annual Report and referenced in a March 2026 Shift News investigative piece. A lawyer who graduated with an LL.B from the University of Malta in 2014, a Diploma of Notary Public in 2015 and a Doctor of Laws degree in 2017, obtaining his warrant to practise in 2018. Practised litigation in the courts of Malta and Gozo while working at Abela Advocates, the private legal firm of Prime Minister Robert Abela. Appointed Deputy Chairman of the MGA in June 2020 and promoted to Chairperson in April 2021, succeeding Heathcliff Farrugia; his appointment at a young age and lack of prior gaming-industry experience drew criticism at the time from opposition Public Appointments Committee members and industry commentators.",
+        "Charles Mizzi": "Chief Executive Officer of the Malta Gaming Authority (non-voting Board member), in post since 26 January 2024, succeeding Carl Brincat. Joined the MGA after a five-year tenure as CEO of the Residency Malta Agency, where he led the government agency managing the Malta Permanent Residence Programme. Holds an MBA from Henley Business School. Earlier career included roles in marketing, communications and events management, including Head of Image & Communications Unit at BNF Bank and an earlier stint at Bank of Valletta from 1997.",
+        "Renald Blundell": "Board Member of the Malta Gaming Authority, in office since August 2023. Chev. Prof. Renald Blundell is an Associate Professor at the University of Malta with a BSc in Chemistry and Biology (1994), an MPhil in Molecular Genetics (1998) and a PhD in Molecular and Cellular Pathology from the University of Edinburgh (2002). A Chartered Biologist and Fellow of the Royal Society for the Promotion of Health, he has served as a Council Member of the Consumers' Association Malta since 2002 and was elected its President in 2014. In 2013 he was elected Grand Prior of the Grand Priory of Gozo within the Hospitaller Order of St Lazarus of Jerusalem.",
+        "Arthur Ellul": "Board Member of the Malta Gaming Authority, in office since August 2023, as confirmed in the Authority's 2023, 2024 and 2025 Annual Reports. No further distinct public biographical details were found for this individual beyond the board appointment; the surname is common in Malta and other public profiles located in searches could not be confirmed as the same person.",
+        "Roberto Francalanza": "Board Member of the Malta Gaming Authority. A LinkedIn profile under this name lists a role as Chief Operations Officer at ONE Productions Ltd, the media production company linked to the Labour Party's ONE television network; this professional background could not be independently confirmed as the same individual holding the MGA board seat.",
+        "Mark Musù": "Board Member of the Malta Gaming Authority, in office since April 2024, succeeding André Psaila. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Ruth Trapani Galea Feriol": "Board Member of the Malta Gaming Authority, confirmed in the Authority's 2023, 2024 and 2025 Annual Reports. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Adrian Caruana": "Board Secretary of the Malta Gaming Authority, confirmed in the Authority's 2023, 2024 and 2025 Annual Reports."
+      },
+      "bio_sources": {
+        "Ryan C. Pace": [
+          "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf",
+          "https://theshiftnews.com/2026/03/27/hacking-the-malta-gaming-authority/",
+          "https://sbcnews.co.uk/europe/2021/04/22/ryan-pace-steps-up-as-chairman-of-the-mga/"
+        ],
+        "Charles Mizzi": [
+          "https://www.mga.org.mt/charles-mizzi-appointed-mga-ceo/",
+          "https://www.mga.org.mt/about-us/our-structure/team-members/carl-brincat-2/"
+        ],
+        "Renald Blundell": [
+          "https://www.mga.org.mt/app/uploads/MGA-2023-Annual-Report.pdf",
+          "https://www.um.edu.mt/profile/renaldblundell"
+        ],
+        "Arthur Ellul": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf",
+        "Roberto Francalanza": [
+          "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf",
+          "https://www.linkedin.com/in/roberto-francalanza-41166423/"
+        ],
+        "Mark Musù": "https://www.gamingmalta.org/wp-content/uploads/2025/06/MGA-Annual-Report-2024.pdf",
+        "Ruth Trapani Galea Feriol": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf",
+        "Adrian Caruana": "https://www.mga.org.mt/app/uploads/MGA_Annual_Report_2025.pdf"
+      }
     },
     "Broadcasting Authority": {
       "chairman": "Frank V. Farrugia",
