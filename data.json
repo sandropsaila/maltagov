@@ -1720,18 +1720,47 @@
     "Malta Enterprise": {
       "chairman": "William Wait",
       "ceo": "George Gregory",
+      "board_members": [
+        "Andre Psaila",
+        "Roberta Albanese Dalli",
+        "Beppe Muscat",
+        "Jessica Camilleri",
+        "Michael Grech",
+        "Dr Michele Cardinali",
+        "Brian Muscat",
+        "Terry Zammit"
+      ],
+      "board_secretary": "Nathalie Farrugia",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "source": "https://maltaenterprise.com/organisational-structure ; https://www.maltatoday.com.mt/news/national/130710/george_gregory_to_head_malta_enterprise",
+      "source": "https://maltaenterprise.com/organisational-structure ; https://www.maltatoday.com.mt/news/national/130710/george_gregory_to_head_malta_enterprise ; https://maltaenterprise.com/organisational-structure (full board confirmed)",
       "note": "Chairman William Wait has faced governance/conflict-of-interest scrutiny (The Shift News, July 2026) - noting for accuracy, not endorsing claims",
-      "checked": "2026-08-13",
-      "bio_status": "not yet researched",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
         "William Wait": "Chairperson of Malta Enterprise's Board of Directors for several years under Economy Minister Silvio Schembri. In 2026, took on an executive director role at Smartcare Holdings while continuing to chair Malta Enterprise, drawing governance and conflict-of-interest scrutiny (The Shift News, July 2026) linked to the Jean Paul Sofia public inquiry findings.",
-        "George Gregory": "Chartered accountant (ACCA, qualified 1990-1994) with over 30 years in the profession, including earlier roles at Ernst & Young Malta and MSD & Co (Arthur Andersen's Maltese representative firm). Managing Partner of RSM Malta from early 2021, leading the firm through the COVID-19 pandemic and post-pandemic transformation. Appointed CEO of Malta Enterprise on 12 August 2024 (effective 9 September 2024), succeeding Kurt Farrugia, who moved to lead Transport Malta; retired from RSM Malta the same day his appointment was announced. Responsible for steering Malta Enterprise's investment-promotion strategy; in an April 2026 interview described Malta as increasingly positioned to pursue higher-quality, higher-innovation foreign investment under the government's Vision 2050 strategy."
+        "George Gregory": "Chartered accountant (ACCA, qualified 1990-1994) with over 30 years in the profession, including earlier roles at Ernst & Young Malta and MSD & Co (Arthur Andersen's Maltese representative firm). Managing Partner of RSM Malta from early 2021, leading the firm through the COVID-19 pandemic and post-pandemic transformation. Appointed CEO of Malta Enterprise on 12 August 2024 (effective 9 September 2024), succeeding Kurt Farrugia, who moved to lead Transport Malta; retired from RSM Malta the same day his appointment was announced. Responsible for steering Malta Enterprise's investment-promotion strategy; in an April 2026 interview described Malta as increasingly positioned to pursue higher-quality, higher-innovation foreign investment under the government's Vision 2050 strategy.",
+        "Andre Psaila": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Roberta Albanese Dalli": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Beppe Muscat": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Jessica Camilleri": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Michael Grech": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Dr Michele Cardinali": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Brian Muscat": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Terry Zammit": "Board Member of Malta Enterprise, the country's economic development agency, as listed on the corporation's official Organisational Structure page. No further distinct public biographical details were found for this individual beyond the board appointment.",
+        "Nathalie Farrugia": "Board Secretary of Malta Enterprise, as listed on the corporation's official Organisational Structure page."
       },
       "bio_sources": {
         "William Wait": "https://maltaenterprise.com/organisational-structure",
-        "George Gregory": "https://newsbook.com.mt/en/george-gregory-appointed-as-new-ceo-of-malta-enterprise/"
+        "George Gregory": "https://newsbook.com.mt/en/george-gregory-appointed-as-new-ceo-of-malta-enterprise/",
+        "Andre Psaila": "https://maltaenterprise.com/organisational-structure",
+        "Roberta Albanese Dalli": "https://maltaenterprise.com/organisational-structure",
+        "Beppe Muscat": "https://maltaenterprise.com/organisational-structure",
+        "Jessica Camilleri": "https://maltaenterprise.com/organisational-structure",
+        "Michael Grech": "https://maltaenterprise.com/organisational-structure",
+        "Dr Michele Cardinali": "https://maltaenterprise.com/organisational-structure",
+        "Brian Muscat": "https://maltaenterprise.com/organisational-structure",
+        "Terry Zammit": "https://maltaenterprise.com/organisational-structure",
+        "Nathalie Farrugia": "https://maltaenterprise.com/organisational-structure"
       }
     },
     "Transport Malta": {
@@ -2403,24 +2432,24 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Corporations/Malta-Trade-Fairs-Corporation-.aspx",
-      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
-      "checked": "2026-08-13",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
+      "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
     "Malta Crafts Foundation": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Foundations/Malta-Crafts-Foundation.aspx",
-      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
-      "checked": "2026-08-13",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
+      "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
     "Business First Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://www.businessfirst.com.mt/",
-      "note": "Searched across official gov.mt Officially Appointed Bodies page, entity website, LinkedIn and local press; no named chairperson, director, or CEO could be confirmed as currently in post as of this check.",
-      "checked": "2026-08-13",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
+      "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
     "Smart City (Malta) Ltd": {
@@ -2501,7 +2530,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://familybusiness.org.mt/about/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2509,7 +2538,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://www.maltalifesciencespark.com/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2531,7 +2560,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2539,7 +2568,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2547,7 +2576,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2555,7 +2584,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2563,7 +2592,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2571,7 +2600,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2579,7 +2608,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2587,7 +2616,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2595,7 +2624,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2603,7 +2632,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2611,7 +2640,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2634,7 +2663,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2642,7 +2671,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2650,7 +2679,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
@@ -2658,7 +2687,7 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://www.bov.com/",
-      "note": "Searched across the Ministry for the Economy's public bodies directory, official gov.mt pages, LinkedIn and local press; no named chairperson, director, or CEO currently in post could be confirmed as of this check.",
+      "note": "Re-searched using the deeper workflow: economy.gov.mt public-bodies directory fetched directly, gov.mt Officially Appointed Bodies pages checked, and news portals searched by any candidate name. This entity is listed in the ministry's public bodies register but no individual chairperson, director, board member, or CEO name is published anywhere publicly accessible as of this check - consistent with these being small statutory boards/dormant holding companies with no public-facing governance page.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND"
     },
