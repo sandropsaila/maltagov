@@ -1702,22 +1702,19 @@
       "website": "https://www.mfsa.mt/"
     },
     "Planning Authority (PA)": {
-      "executive_chairman": "Johann Buttigieg",
-      "planning_board_chairman": "Emanuel Camilleri",
+      "executive_chairman": "Mr Johann Buttigieg",
+      "website": "https://www.pa.org.mt/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
-      "source": "https://tvmnews.mt/en/news/e3-million-invested-in-the-digital-transformation-of-the-planning-authority/ (Aug 6 2026 - most current)",
-      "note": "Wikipedia lists outdated name (Martin Saliba) - superseded, resolved via recent news",
+      "source": "https://www.govserv.org/MT/Floriana/128646400494521/Planning-Authority ; https://theshiftnews.com/2025/01/09/sacked-planning-authority-chief-parked-in-robert-abelas-secretariat/",
+      "note": "Confirmed extremely current via a govserv.org listing referencing an August 2026 Expression of Interest deadline. Notable governance history: Buttigieg was reinstated as Executive Chairman in January 2025 after the abrupt removal of predecessor Oliver Magro, who was subsequently given a policy adviser role in the Office of the Prime Minister despite having a year remaining on his PA contract - a move The Shift News reported without an official explanation from OPM.",
       "checked": "2026-08-14",
-      "bio_status": "not yet researched",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Johann Buttigieg": "Former CEO of the Malta Tourism Authority (2019-2022), leading MTA through the COVID-19 pandemic recovery period before being succeeded by Carlo Micallef. Subsequently appointed Executive Chairman of the Planning Authority, a role he continues to hold as of August 2026.",
-        "Emanuel Camilleri": "Chairperson of the Planning Board within the Planning Authority, working alongside Executive Chairman Johann Buttigieg on the Authority's planning decisions and policy formulation as of August 2026."
+        "Mr Johann Buttigieg": "Executive Chairman of the Planning Authority, Malta's land use and planning regulator (established 2016 from the demerger of MEPA). Previously CEO of the Planning Authority from 2013, presiding over its 2016 demerger and becoming Executive Chairman. Briefly left the role before being reinstated in January 2025 following the abrupt removal of his successor, Oliver Magro. Publicly stated in a March 2025 radio interview that Malta is in \"better shape\" than a decade ago despite ongoing criticism of the island's rapid urbanisation, rejecting accusations of \"uglification.\""
       },
       "bio_sources": {
-        "Johann Buttigieg": "https://tvmnews.mt/en/news/e3-million-invested-in-the-digital-transformation-of-the-planning-authority/",
-        "Emanuel Camilleri": "https://tvmnews.mt/en/news/e3-million-invested-in-the-digital-transformation-of-the-planning-authority/"
-      },
-      "website": "https://www.pa.org.mt/"
+        "Mr Johann Buttigieg": "https://www.govserv.org/MT/Floriana/128646400494521/Planning-Authority"
+      }
     },
     "Malta Enterprise": {
       "chairman": "William Wait",
@@ -3801,154 +3798,239 @@
       "no_info_found": true
     },
     "Identity Malta Agency": {
+      "chairperson": "Ms Marlene Mizzi",
+      "ceo": "Col. Edric Zahra",
+      "website": "https://identitymalta.com/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
+      "source": "https://identita.gov.mt/colonel-edric-zahra-appointed-new-ceo-of-identita/",
+      "note": "The agency rebranded from 'Identity Malta' to 'Identità'. CEO Zahra appointed 14 July 2025, succeeding Steve Agius (who moved to lead the Active Ageing and Community Care agency). Chairperson Marlene Mizzi is the same Marlene Mizzi (former MEP for Malta 2014-2019) already recorded as an Accountancy Board member - a genuine cross-appointment.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://identitymalta.com/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Marlene Mizzi": "Chairperson of Identità (formerly Identity Malta Agency), Malta's identity and immigration agency. Former Member of the European Parliament for Malta (2014-2019) with the S&D Group; also serves as a member of the Accountancy Board.",
+        "Col. Edric Zahra": "Chief Executive Officer of Identità, appointed 14 July 2025, succeeding Steve Agius, after retiring from the Armed Forces of Malta following 25 years of service, most recently as Deputy Commander. Born 15 March 1978, educated at St Aloysius College and the University of Malta (Diploma in Sports and Leisure, BA in Geography and Anthropology, Bachelor of Laws, Master's in Maltese Studies, Master's in Advocacy), plus an Advanced Diploma in Maritime Law from the International Maritime Law Institute and a Diploma in Strategy and War from the US Naval College."
+      },
+      "bio_sources": {
+        "Ms Marlene Mizzi": "https://identita.gov.mt/colonel-edric-zahra-appointed-new-ceo-of-identita/",
+        "Col. Edric Zahra": "https://identita.gov.mt/colonel-edric-zahra-appointed-new-ceo-of-identita/"
+      }
     },
     "Infrastructure Malta (IM)": {
+      "ceo": "Mr Steve Ellul",
+      "website": "https://www.infrastructuremalta.com/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
+      "source": "https://www.maltatoday.com.mt/news/national/130246/steve_ellul_appointed_ceo_of_infrastructure_malta",
+      "note": "Appointed CEO July 2024, succeeding Ivan Falzon (who resigned and later became CEO of the Gozo Regional Development Authority, per prior research in this project). Ellul's appointment drew scrutiny: a March 2025 Shift News report noted he awarded a consultancy contract to Veronique Dalli, sister of his political mentor Energy Minister Miriam Dalli, without a public call for tenders.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.infrastructuremalta.com/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Steve Ellul": "Chief Executive Officer of Infrastructure Malta since July 2024, succeeding Ivan Falzon. A financial analyst and lecturer at the University of Malta with a long career at Bank of Valletta managing local and international investments in the US, UK and Middle East. Previously worked as an ESG (Environmental, Social and Governance) consultant, and was the founding CEO of Project Green, where he oversaw the regeneration of 40,000 square metres of open space including projects in Birżebbuġa, Żabbar, Mosta, Marsaskala, Qrendi, Gudja, Safi and Kalkara, before resigning to unsuccessfully contest the June 2024 European Parliament elections on the Labour Party ticket."
+      },
+      "bio_sources": {
+        "Mr Steve Ellul": "https://www.maltatoday.com.mt/news/national/130246/steve_ellul_appointed_ceo_of_infrastructure_malta"
+      }
     },
     "JobsPlus": {
+      "ceo": "Ms Celia Falzon",
+      "website": "https://jobsplus.gov.mt/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
+      "source": "https://www.independent.com.mt/articles/2024-08-23/local-news/Jobsplus-changes-Chief-Executive-once-again-after-5-months-6736263669",
+      "note": "Falzon appointed August 2024, following a rapid turnover: Alexia Vella (from 2020) -> Leonid McKay (March 2024, only ~5 months) -> Celia Falzon (August 2024). Not reconfirmed as still current beyond August 2024, so flagged for future re-check given the agency's recent history of frequent leadership changes.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://jobsplus.gov.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Ms Celia Falzon": "Chief Executive Officer of JobsPlus, Malta's public employment service agency, appointed August 2024, succeeding Leonid McKay (who left after roughly five months to become Labour Party CEO)."
+      },
+      "bio_sources": {
+        "Ms Celia Falzon": "https://www.independent.com.mt/articles/2024-08-23/local-news/Jobsplus-changes-Chief-Executive-once-again-after-5-months-6736263669"
+      }
     },
     "Building and Construction Authority": {
+      "website": "https://bca.gov.mt/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
+      "source": "https://www.maltatoday.com.mt/news/national/117121/government_pushes_through_ceo_change_at_building_and_construction_authority ; https://www.maltatoday.com.mt/news/national/129048/roderick_bonnici_is_made_acting_bca_ceo_",
+      "note": "Genuine source conflict, deliberately not resolved by guessing: the Authority's leadership changed multiple times in a short period. May 2024: Perit Roderick Bonnici appointed Acting CEO under Board Chairman Simon Saliba, after the prior board resigned en masse following a construction-site death. January 2025: a MaltaToday report describes a proposed CEO change to Transport Malta deputy chief Jesmond Muscat, and names a DIFFERENT board chairman, Maria Schembri Grima (also an architect for a private developer, J Portelli Projects - a flagged conflict of interest in that same report). Neither the January 2025 CEO change nor the current chairman could be independently confirmed as finalised/still current as of this check, so no name was recorded as the definitive current chair/CEO to avoid presenting disputed or superseded information as fact.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://bca.gov.mt/"
+      "bio_status": "PARTIALLY RESEARCHED - CONFLICTING SOURCES ON CURRENT LEADERSHIP",
+      "no_info_found": true
     },
     "Occupational Health and Safety Authority": {
+      "chairman": "Perit David Xuereb",
+      "ceo": "Dr Josianne Cutajar",
+      "website": "https://ohsa.mt/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
+      "source": "https://maltaceos.mt/david-xuereb-appointed-chairman-of-the-occupational-health-and-safety-authority/ ; https://newsbook.com.mt/en/new-ceo-appointed-for-occupational-health-and-safety-authority/",
+      "note": "Chairman David Xuereb is the same person already recorded as Chairman of the Malta Council for Economic and Social Development (MCESD) - a genuine cross-appointment. CEO Josianne Cutajar (a medical doctor, appointed October 2023) succeeded Mark Gauci, OHSA's CEO since its founding 22 years earlier; her prior role as CEO of St Vincent de Paul Residence was passed to Jorgen Souness (already separately researched under ODPM).",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://ohsa.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Perit David Xuereb": "Chairman of the Occupational Health and Safety Authority (OHSA), also Chairman of the Malta Council for Economic and Social Development (MCESD) and a Director at Malta Enterprise and the Building and Construction Authority. Former President of the Malta Chamber of Commerce, Enterprise and Industry. Active in sustainable design and the green economy, lecturing on sustainability, environment and climate change at various universities.",
+        "Dr Josianne Cutajar": "Chief Executive Officer of the Occupational Health and Safety Authority (OHSA), appointed October 2023, succeeding Mark Gauci (CEO since the Authority's founding 22 years earlier). A medical doctor by profession, previously served as CEO of the St Vincent de Paul Residence, a role passed on her departure to Jorgen Souness. Took up the post at a time of increased scrutiny on OHSA's resourcing and effectiveness, following the death of 20-year-old Jean-Paul Sofia in a construction site collapse."
+      },
+      "bio_sources": {
+        "Perit David Xuereb": "https://maltaceos.mt/david-xuereb-appointed-chairman-of-the-occupational-health-and-safety-authority/",
+        "Dr Josianne Cutajar": "https://newsbook.com.mt/en/new-ceo-appointed-for-occupational-health-and-safety-authority/"
+      }
     },
     "Agricultural Advisory Committee (Planning Authority)": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee, distinct from the Planning Authority's own site."
+      "website_note": "No official webpage found for this specific committee, distinct from the Planning Authority's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Planning Board (Planning Authority)": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board, distinct from the Planning Authority's own site."
+      "website_note": "No official webpage found for this specific board, distinct from the Planning Authority's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Planning Commission ODZ & Urban Conservation": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Planning Commission Regularisation Permissions": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Planning Commission Within Development Zone": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Agricultural Advisory Committee": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Construction Industry Licensing Committee": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Design Advisory Committee (Planning Authority)": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Fireworks Factory Complexes Technical Committee": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Control of Major Accident Hazards Regulation Competent Authority": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority."
+      "website_note": "No official webpage found for this specific authority.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Users' Committee (Planning Authority)": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Building and Construction Consultative Council": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Property Malta Foundation": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation."
+      "website_note": "No official webpage found for this specific foundation.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Building and Construction Tribunal": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Environment and Planning Review Tribunal": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Employment Authority": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority in this check."
+      "website_note": "No official webpage found for this specific authority in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Property Market Agency": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Health and Safety Tribunal": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Masons Licensing Committee": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Development Planning Fund (Planning Authority)": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific fund."
+      "website_note": "No official webpage found for this specific fund.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta College of Arts, Science and Technology (MCAST)": {
       "ministry": "Education and Sport (MES)",
