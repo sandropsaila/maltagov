@@ -2572,13 +2572,57 @@
       "website_note": "The historic Malta Trade Fair venue is now operated as the privately-owned Malta Fairs & Conventions Centre (mfcc.com.mt, part of the Corinthia Group since 2016) - this is NOT confirmed to be the same legal entity as the government statutory corporation 'Malta Trade Fairs Corporation' referenced in the Officially Appointed Bodies register, so no webpage was added to avoid misattribution."
     },
     "Malta Crafts Foundation": {
+      "chairperson": "Ms Denise Cutajar",
+      "deputy_chairperson": "Ms Julienne Brincat",
+      "board_secretary": "Ms Claire Decelis",
+      "board_members": [
+        "Mr Frederick Attard",
+        "Mr Mario Borg Stillato",
+        "Mr Antoine Debono",
+        "Ms Annalisa Galea",
+        "Perit Daniel Portelli",
+        "Mr Reuben Schembri"
+      ],
+      "ceo": "Elton Micallef",
+      "coo": "Shawn Zammit",
+      "website": "https://maltacrafts.org/about-us/",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Foundations/Malta-Crafts-Foundation.aspx",
-      "note": "Individually re-searched via economy.gov.mt's public bodies directory (abbreviated MCF); no named chairperson found despite the Foundation being demonstrably active (2025 awards programme).",
+      "source": "https://maltacrafts.org/about-us/",
+      "note": "Found via Nimble deep-extract of the Foundation's own About Us page. This entity had been marked 'no info found' across three prior sessions in this project despite standard web_search never surfacing this page's content - full board and team roster were listed clearly on the org's own site the entire time.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website": "https://maltacrafts.org/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Denise Cutajar": "Chairperson of the Board of Administrators of the Malta Crafts Foundation, established 2021 as a public organisation dedicated to preserving and promoting Maltese artisanal products and skills.",
+        "Ms Julienne Brincat": "Deputy Chairperson of the Board of Administrators of the Malta Crafts Foundation.",
+        "Ms Claire Decelis": "Secretary of the Board of Administrators of the Malta Crafts Foundation.",
+        "Mr Frederick Attard": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Mario Borg Stillato": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Antoine Debono": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Annalisa Galea": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Perit Daniel Portelli": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Reuben Schembri": "Board Member on the Board of Administrators of the Malta Crafts Foundation. No further distinct public biographical details were found beyond the board appointment.",
+        "Elton Micallef": "Chief Executive Officer of the Malta Crafts Foundation. After 11 years as an educator, became part of the team that implemented ESPLORA, Malta's first interactive Science and Technology Centre, leading its education team. Joined INDIS Malta (responsible for managing industrial estates), focusing on business development and leading the ERDF-funded regeneration of the Ta' Qali Artisan Village. Appointed to manage the Malta Crafts Foundation upon that project's completion. In January 2025 signed a formal collaboration agreement with Arts Council Malta covering the Premju Ġieħ l-Artiġjanat award and DesignMT. Elected to the Scientific Committee of the European Route of Ceramics for the 2025-2030 term.",
+        "Shawn Zammit": "Operations Manager of the Malta Crafts Foundation. Over 10 years of managerial experience across private and public sectors, particularly in energy and waste management; previously General Manager of the Responsible Gaming Foundation in Malta and an ESF training project leader.",
+        "Karl Parnis": "Strategic Events Planning and Coordination at the Malta Crafts Foundation. Former secondary school teacher and Assistant Head of School; worked within the Ministry of Education's Delap section developing MQF Level 3 programmes in Gilding, Clay Sculpture Modelling, Jewellery, Upholstery and Tile Laying. Holds a Master in Maltese Studies.",
+        "Marita Portelli": "Strategic Events Planning and Coordination at the Malta Crafts Foundation. Background across event management, marketing, communications, youth work and enterprise policy, with strong EU funding mechanism experience (ERDF, ESF, Youth in Action, COSME, WORTH, CEF-Telecoms, Digital Europe Programme), including as National Contact Point for Malta on several programmes.",
+        "Chris Galea": "Communications Coordinator at the Malta Crafts Foundation. Began his career in journalism with over five years at leading news organisations before moving into communications, working over ten years across public relations, marketing, social media, graphic and web design."
+      },
+      "bio_sources": {
+        "Ms Denise Cutajar": "https://maltacrafts.org/about-us/",
+        "Ms Julienne Brincat": "https://maltacrafts.org/about-us/",
+        "Ms Claire Decelis": "https://maltacrafts.org/about-us/",
+        "Mr Frederick Attard": "https://maltacrafts.org/about-us/",
+        "Mr Mario Borg Stillato": "https://maltacrafts.org/about-us/",
+        "Mr Antoine Debono": "https://maltacrafts.org/about-us/",
+        "Ms Annalisa Galea": "https://maltacrafts.org/about-us/",
+        "Perit Daniel Portelli": "https://maltacrafts.org/about-us/",
+        "Mr Reuben Schembri": "https://maltacrafts.org/about-us/",
+        "Elton Micallef": "https://maltacrafts.org/about-us/",
+        "Shawn Zammit": "https://maltacrafts.org/about-us/",
+        "Karl Parnis": "https://maltacrafts.org/about-us/",
+        "Marita Portelli": "https://maltacrafts.org/about-us/",
+        "Chris Galea": "https://maltacrafts.org/about-us/"
+      }
     },
     "Business First Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
