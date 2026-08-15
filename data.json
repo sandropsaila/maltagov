@@ -3583,7 +3583,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Guardianship Board": {
@@ -3591,7 +3591,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Office of the Commissioner for Voluntary Organisations": {
@@ -3599,23 +3599,61 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific office in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via maltacvs.org and cvo.gov.mt; only the first (2007) Commissioner, Prof. Kenneth Wain, is named - no current Commissioner name found.",
       "no_info_found": true
     },
     "Malta Council for the Voluntary Sector": {
+      "chairperson": "Ms. Gertrude Buttigieg",
+      "deputy_chairperson": "Mr. Jorge Spiteri",
+      "ceo": "Mr. Mauro Pace Parascandalo",
+      "board_members": [
+        "Ms. Laura Cunningham",
+        "Ms Doreen Borg",
+        "Mr. Paul Sultana",
+        "Mr. Leslie Bonnici",
+        "Mr Frank Muscat",
+        "Mr. Paul Mifsud",
+        "Mr. Edward Gruppetta",
+        "Mr. Mark Micallef"
+      ],
+      "website": "https://maltacvs.org/council/",
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
+      "source": "https://maltacvs.org/council/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms. Gertrude Buttigieg": "Chairperson of the Malta Council for the Voluntary Sector (MCVS), representing the Health & Special Needs Sector. The Council is made up of representatives from Voluntary Organisations and one Government representative, appointed every three years, with the Chairperson chosen by the members themselves.",
+        "Mr. Jorge Spiteri": "Deputy Chairperson of the Malta Council for the Voluntary Sector (MCVS), representing the Environment & Animal Welfare Sector.",
+        "Ms. Laura Cunningham": "Member of the Malta Council for the Voluntary Sector (MCVS), representing Administrators of Voluntary Organisations.",
+        "Ms Doreen Borg": "Member of the Malta Council for the Voluntary Sector (MCVS), representing Founders and Donors to Voluntary Organisations.",
+        "Mr. Paul Sultana": "Member of the Malta Council for the Voluntary Sector (MCVS), representing the Social and Humanitarian Sector.",
+        "Mr. Leslie Bonnici": "Member of the Malta Council for the Voluntary Sector (MCVS), representing the Education, Youth & Sport Sector.",
+        "Mr Frank Muscat": "Member of the Malta Council for the Voluntary Sector (MCVS), representing the Gozo Sector.",
+        "Mr. Paul Mifsud": "Member of the Malta Council for the Voluntary Sector (MCVS), representing the Arts & Culture Sector.",
+        "Mr. Edward Gruppetta": "Member of the Malta Council for the Voluntary Sector (MCVS), representing Foreign and International Organisations.",
+        "Mr. Mark Micallef": "Government Representative on the Malta Council for the Voluntary Sector (MCVS).",
+        "Mr. Mauro Pace Parascandalo": "Chief Executive Officer of the Malta Council for the Voluntary Sector (MCVS)."
+      },
+      "bio_sources": {
+        "Ms. Gertrude Buttigieg": "https://maltacvs.org/council/",
+        "Mr. Jorge Spiteri": "https://maltacvs.org/council/",
+        "Ms. Laura Cunningham": "https://maltacvs.org/council/",
+        "Ms Doreen Borg": "https://maltacvs.org/council/",
+        "Mr. Paul Sultana": "https://maltacvs.org/council/",
+        "Mr. Leslie Bonnici": "https://maltacvs.org/council/",
+        "Mr Frank Muscat": "https://maltacvs.org/council/",
+        "Mr. Paul Mifsud": "https://maltacvs.org/council/",
+        "Mr. Edward Gruppetta": "https://maltacvs.org/council/",
+        "Mr. Mark Micallef": "https://maltacvs.org/council/",
+        "Mr. Mauro Pace Parascandalo": "https://maltacvs.org/council/"
+      }
     },
     "Maltese Sign Language Council": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Autism Advisory Council": {
@@ -3623,7 +3661,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Interpreter Registration and Warranting Board": {
@@ -3631,7 +3669,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Personal Budget Assistance Scheme Appeals Board": {
@@ -3639,7 +3677,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Personal Budget Assistance Scheme Board": {
@@ -3647,7 +3685,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Commission for the Promotion of Equality": {
