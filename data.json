@@ -5286,19 +5286,26 @@
       }
     },
     "Arbiter for Financial Services": {
+      "director": "Mr Alfred Mifsud",
+      "website": "https://www.financialarbiter.org.mt/",
       "ministry": "Finance (MFF)",
+      "source": "https://www.independent.com.mt/articles/2023-05-14/blogs-opinions/Financial-Services-Arbiter-The-wrong-man-for-the-job-6736251849",
+      "note": "Appointed the second Arbiter for Financial Services in April 2023, succeeding Dr Reno Borg (Malta's first Arbiter, who has since become Information and Data Protection Commissioner, per prior research in this project). The appointment was publicly criticised in a May 2023 Malta Independent opinion piece, which reported Mifsud had himself been found in breach of financial services legislation 66 times by Borg during his own tenure, and questioned the impartiality of appointing him to the role. Previously Governor of the MFSA Board and Deputy Governor of the Central Bank of Malta. Not independently reconfirmed as still current since the April 2023 appointment; a four-year term, if standard, would run to approximately 2027.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No dedicated standalone site independently confirmed in this check (referenced as financialarbiter.org.mt by third parties, not independently verified live).",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Alfred Mifsud": "Arbiter for Financial Services, appointed April 2023, succeeding Dr Reno Borg. Previously held senior financial sector positions including Governor of the MFSA Board and Deputy Governor of the Central Bank of Malta. His appointment was controversial: a May 2023 Malta Independent opinion piece reported he had been found in breach of financial services legislation 66 times by his predecessor as Arbiter, with those rulings upheld by the Court of Appeal, raising questions about his impartiality in the role."
+      },
+      "bio_sources": {
+        "Mr Alfred Mifsud": "https://www.independent.com.mt/articles/2023-05-14/blogs-opinions/Financial-Services-Arbiter-The-wrong-man-for-the-job-6736251849"
+      }
     },
     "Malita Investment Company": {
       "ministry": "Finance (MFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named directors found.",
       "no_info_found": true
     },
     "Malta Development Bank": {
@@ -5344,7 +5351,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; distinct from MDB's main Board of Directors (already researched: Chairman Leo Brincat, CEO Alison Micallef) - no named Supervisory Board members found separately.",
       "no_info_found": true
     },
     "Malta Air Travel Ltd (Malta Med Air)": {
@@ -5352,7 +5359,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company, distinct from Air Malta/KM Malta Airlines' own sites.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named directors found, distinct from KM Malta Airlines' own leadership.",
       "no_info_found": true
     },
     "Malta Stock Exchange Institute Board": {
@@ -5360,7 +5367,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board, distinct from the Malta Stock Exchange's own site.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; distinct from the Exchange's own Board (Chairman Portelli, CEO Zammit) - no named Institute Board members found.",
       "no_info_found": true
     },
     "Six West Malta Ltd": {
@@ -5368,7 +5375,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named directors found.",
       "no_info_found": true
     },
     "The Malta Foundation for the Wellbeing of Society": {
@@ -5426,14 +5433,14 @@
     },
     "Airmalta": {
       "ministry": "Finance (MFF)",
-      "note": "Airmalta ceased operations on 30 March 2024 and was succeeded by KM Malta Airlines (see separate entry, Executive Chairman David Curmi). No current leadership applies to this now-defunct entity.",
+      "note": "Confirmed defunct (ceased operations 30 March 2024, succeeded by KM Malta Airlines) - no current leadership applies.",
       "checked": "2026-08-14",
       "bio_status": "DEFUNCT - SUCCEEDED BY KM MALTA AIRLINES",
       "no_info_found": true
     },
     "Airmalta Aviation Services": {
       "ministry": "Finance (MFF)",
-      "note": "Related to the now-defunct Airmalta; no current named leadership found.",
+      "note": "Individually searched; related to now-defunct Airmalta, no named leadership found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "no_info_found": true
@@ -5443,7 +5450,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Board of Special Commissioners (Duty on Documents and Transfers)": {
@@ -5451,7 +5458,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named commissioners found.",
       "no_info_found": true
     },
     "Commercial Sanctions Tribunal": {
@@ -5459,7 +5466,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal (also listed under MFF).",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Controlled Companies Appeals Board": {
@@ -5467,14 +5474,14 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Deposit Guarantee Scheme - Management Board": {
       "ministry": "Finance (MFF)",
       "website": "https://compensationschemes.org.mt/",
       "source": "https://www.maltabankers.org/depositor-compensation-scheme/ ; https://compensationschemes.org.mt/",
-      "note": "Structural finding rather than a missing name: the Scheme (operating as the Depositor Compensation Scheme) is managed by a Management Committee appointed by the MFSA, made up of persons representing the MFSA, the Central Bank of Malta, the Ministry for Finance, licensed investment firms, the banks, and consumers - an institutional, cross-representative body rather than one with a single named chairman published anywhere.",
+      "note": "Individually re-searched; confirmed as an institutional cross-representative committee (MFSA, Central Bank, Ministry for Finance, banks, investment firms, consumers) rather than one with a single named chairman.",
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED - INSTITUTIONAL COMMITTEE, NO NAMED INDIVIDUAL",
       "no_info_found": true
@@ -5484,7 +5491,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named board/committee members found.",
       "no_info_found": true
     },
     "Financial Services Tribunal": {
@@ -5539,7 +5546,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Government Securities Board": {
@@ -5547,7 +5554,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Grant Review Board": {
@@ -5555,7 +5562,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Libyan Arab Maltese Holdings Company": {
@@ -5563,7 +5570,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named directors found for this joint Malta-Libya holding company.",
       "no_info_found": true
     },
     "National Coordinating Committee on Combatting Money Laundering and Funding of Terrorism": {
@@ -5571,7 +5578,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; ministry representatives serve on a rotating basis per department (one identified via prior research: a Home Affairs Permanent Secretary representative since 2018), but no single named chairperson found.",
       "no_info_found": true
     },
     "Public Contracts Review Board": {
@@ -5612,7 +5619,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific fund.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named board/committee members found.",
       "no_info_found": true
     },
     "Retail Price Index Advisory Committee (MSA)": {
@@ -5620,7 +5627,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named committee members found.",
       "no_info_found": true
     },
     "Review Board for Exemptions/Reductions/Grants (Motor Vehicles, Disability Scheme)": {
@@ -5628,7 +5635,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check. Re-attempted under combined website+board workflow (2026-08-14 second pass); no named chairperson/director/CEO found.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "Information and Data Protection Commissioner": {
