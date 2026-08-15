@@ -3118,27 +3118,42 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Foreign and European Affairs' public bodies directory (foreign.gov.mt); the wider Commonwealth Trade Finance Facility programme is referenced on thecommonwealth.org but that is not this Maltese entity's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "no_info_found": true
     },
     "Council for Maltese Living Abroad": {
+      "chairperson": "Hon. Ian Borg",
+      "board_secretary": "Mr Christopher Muscat",
+      "website": "https://malteselivingabroad.gov.mt/",
       "ministry": "Foreign and European Affairs (MFEA)",
+      "source": "https://malteselivingabroad.gov.mt/posts-whats-on/the-17th-annual-meeting-of-the-council-for-the-maltese-living-abroad/ ; https://malteselivingabroad.gov.mt/council-for-maltese-living-abroad/cmla-members/",
+      "note": "Chairperson role is ex officio, held by the Deputy Prime Minister and Minister for Foreign Affairs. Following a 2025 amendment to the Council for Maltese Living Abroad Act (Chapter 515), membership expanded from 15 to 21, adding representation from every continent for the first time.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://malteselivingabroad.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Hon. Ian Borg": "Chairperson of the Council for Maltese Living Abroad (ex officio, held concurrently with his roles as Deputy Prime Minister and Minister for Foreign Affairs and Tourism). Presided over the Council's 17th Annual Meeting in October 2025, announcing a new Working Holiday scheme for youths of Maltese descent launching January 2026.",
+        "Mr Christopher Muscat": "Secretary to the Council for Maltese Living Abroad, appointed November 2025. A Bank Manager at one of Malta's leading financial institutions, having transitioned into finance after graduating in Mechanical Engineering."
+      },
+      "bio_sources": {
+        "Hon. Ian Borg": "https://malteselivingabroad.gov.mt/posts-whats-on/the-17th-annual-meeting-of-the-council-for-the-maltese-living-abroad/",
+        "Mr Christopher Muscat": "https://malteselivingabroad.gov.mt/council-for-maltese-living-abroad/cmla-members/"
+      }
     },
     "Economic Security Strategy Committee": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "no_info_found": true
     },
     "National Authority for the Implementation of Chemical Weapons Convention": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "no_info_found": true
     },
     "Sanctions Monitoring Board": {
       "ministry": "Foreign and European Affairs (MFEA)",
@@ -3146,7 +3161,8 @@
       "source": "https://smb.gov.mt/about/members-of-the-sanctions-monitoring-board/ ; https://www.mamotcv.com/insights/sanctions-2-international-sanctions-from-a-maltese-perspective/",
       "note": "Structural finding rather than a missing name: under Article 7 of the National Interest (Enabling Powers) Act (Cap 365), the Board is chaired ex officio by a representative of the Ministry for Foreign and European Affairs, and composed of 18 officials representing various ministries/authorities (Attorney General, FIAU, Malta Police, Malta Security Services, etc.) acting collectively. No individual chairman name is published on the Board's own official page - the role itself, not a person, is named as chair.",
       "checked": "2026-08-14",
-      "bio_status": "FULLY RESEARCHED - INSTITUTIONAL CHAIR, NO NAMED INDIVIDUAL"
+      "bio_status": "FULLY RESEARCHED - INSTITUTIONAL CHAIR, NO NAMED INDIVIDUAL",
+      "no_info_found": true
     },
     "Trade Malta Ltd": {
       "chairperson": "Mr Daniel Galea",
@@ -3171,7 +3187,8 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "no_info_found": true
     },
     "Heritage Malta": {
       "ceo": "Mr Noel Zammit",
