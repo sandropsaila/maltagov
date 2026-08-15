@@ -4517,11 +4517,11 @@
       "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check."
     },
     "Commercial Sanctions Tribunal": {
-      "ministry": "Finance (MFF)",
+      "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal (also listed under MFF).",
-      "note": "Re-attempted under the combined website+board-research workflow: searched for an official page, and where finance.gov.mt's public-bodies directory lists the entity, that listing itself contains no name. No chairman/CEO/board member name could be confirmed via any source for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Controlled Companies Appeals Board": {
       "ministry": "Finance (MFF)",
@@ -4736,22 +4736,47 @@
       }
     },
     "Asset Recovery Bureau": {
+      "chairman": "Judge Emeritus Joseph David Camilleri",
+      "director": "Eunice Grech Fiorini",
+      "website": "https://justice.gov.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://www.independent.com.mt/articles/2025-03-21/local/Justice-Ministry-appoints-new-heads-for-Court-Services-Agency-and-Asset-Recovery-Office-6736268768",
+      "note": "Director (Chief Executive) appointed effective 24 March 2025, succeeding Anthony Sevasta; nominated by Justice Minister Jonathan Attard under the Proceeds of Crime Act, with the Board's acceptance confirmed by Chairman Emeritus Judge J.D. Camilleri six days later.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific bureau."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Judge Emeritus Joseph David Camilleri": "Chairman of the Asset Recovery Bureau's Board, confirmed via a March 2025 press statement accepting the nomination of the Bureau's new Director, Eunice Grech Fiorini.",
+        "Eunice Grech Fiorini": "Director (Chief Executive) of the Asset Recovery Bureau, appointed 24 March 2025, succeeding Anthony Sevasta. Previously served as Chief Executive of the Courts Services Agency and as the Bureau's own Deputy Chairperson. Nominated by Justice Minister Jonathan Attard under the Proceeds of Crime Act; the nomination was accepted by the Board six days later. Her prior tenure at the Courts Services Agency drew press scrutiny over contradictory statements given to WasteServ's CEO regarding the disposal of a cannabis haul stolen from an Armed Forces of Malta base."
+      },
+      "bio_sources": {
+        "Judge Emeritus Joseph David Camilleri": "https://www.independent.com.mt/articles/2025-03-21/local/Justice-Ministry-appoints-new-heads-for-Court-Services-Agency-and-Asset-Recovery-Office-6736268768",
+        "Eunice Grech Fiorini": [
+          "https://www.independent.com.mt/articles/2025-03-21/local/Justice-Ministry-appoints-new-heads-for-Court-Services-Agency-and-Asset-Recovery-Office-6736268768",
+          "https://themalteseherald.com/2025/03/21/ceo-of-court-services-agency-transferred-to-asset-recovery-bureau-replaced-by-vanessa-grech/"
+        ]
+      }
     },
     "Courts Services Agency": {
+      "ceo": "Vanessa Grech",
+      "website": "https://justice.gov.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://www.independent.com.mt/articles/2025-03-21/local/Justice-Ministry-appoints-new-heads-for-Court-Services-Agency-and-Asset-Recovery-Office-6736268768",
+      "note": "Appointed CEO effective 24 March 2025, succeeding Eunice Grech Fiorini, who moved to head the Asset Recovery Bureau in the same reshuffle.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Vanessa Grech": "Chief Executive Officer of the Courts Services Agency, appointed 24 March 2025, succeeding Eunice Grech Fiorini. A lawyer with 27 years of public service experience across almost every section of the Courts of Justice, first joining as a clerk in August 1998. In the four years prior to her appointment she served as Deputy Chief Executive, Director of Legal Services, legal advisor to the Court, and Registrar of Civil Courts and Tribunals. Also contributed to formulating Malta's position on EU-related issues concerning the Agency."
+      },
+      "bio_sources": {
+        "Vanessa Grech": "https://www.independent.com.mt/articles/2025-03-21/local/Justice-Ministry-appoints-new-heads-for-Court-Services-Agency-and-Asset-Recovery-Office-6736268768"
+      }
     },
     "Legal Aid Agency": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Office of the Attorney General": {
       "director": "Victoria Buttigieg",
@@ -4787,91 +4812,114 @@
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Aviation and Aerospace Board": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Commissioners for Justice": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Digital Technologies Board": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Drug Offenders Rehabilitation Board": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Examination Board - Notary Warrant": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Foundation for Cancer Research and Innovation Hub Malta (CHIHM)": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation; only referenced via gov.mt's Officially Appointed Bodies directory."
+      "website_note": "No official webpage found for this specific foundation; only referenced via gov.mt's Officially Appointed Bodies directory.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Foundation for Information Technology Accessibility": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation."
+      "website_note": "No official webpage found for this specific foundation.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Permanent Commission against Corruption": {
+      "chairman": "Judge Emeritus Lawrence Quintano",
+      "website": "https://pcac.gov.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://www.independent.com.mt/articles/2024-07-15/local-news/Judge-Emeritus-Lawrence-Quintano-reappointed-as-Chair-of-Permanent-Commission-Against-Corruption-6736262746",
+      "note": "Reappointed as Chair in July 2024. The Commission, established under Chapter 326 of the Laws of Malta, consists of a chairman and two members appointed by the President on the advice of the Prime Minister after consultation with the Leader of the Opposition; the two other members were not individually confirmed by name.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Judge Emeritus Lawrence Quintano": "Chairman of the Permanent Commission Against Corruption (PCAC), reappointed to the role in July 2024. The Commission investigates the conduct of persons entrusted with functions relating to the administration of partnerships or bodies in which government or local government has a controlling interest, reporting its findings to the Minister for Justice. The Council of Europe's Venice Commission and GRECO have both flagged structural concerns about the PCAC's independence, given that its membership depends on prime ministerial appointment and its reports go only to the Justice Minister rather than triggering prosecution directly."
+      },
+      "bio_sources": {
+        "Judge Emeritus Lawrence Quintano": "https://www.independent.com.mt/articles/2024-07-15/local-news/Judge-Emeritus-Lawrence-Quintano-reappointed-as-Chair-of-Permanent-Commission-Against-Corruption-6736262746"
+      }
     },
     "Law Commission": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Data Protection and Information Coordination Unit": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific unit, distinct from the Information and Data Protection Commissioner's own site (idpc.org.mt)."
+      "website_note": "No official webpage found for this specific unit, distinct from the Information and Data Protection Commissioner's own site (idpc.org.mt).",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Malta Mediation Centre": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific centre in this check."
+      "website_note": "No official webpage found for this specific centre in this check.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Office of the Notary to Government": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office."
+      "website_note": "No official webpage found for this specific office.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Property Malta": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation, distinct from Property Malta Foundation under METP."
+      "website_note": "No official webpage found for this specific foundation, distinct from Property Malta Foundation under METP.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Real Estate Licensing Unit": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific unit."
+      "website_note": "No official webpage found for this specific unit.",
+      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
     },
     "Yachting Malta Ltd": {
       "ministry": "Sustainable Mobility (MSM)",
