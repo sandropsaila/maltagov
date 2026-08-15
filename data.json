@@ -4303,23 +4303,30 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Community Malta Agency": {
+      "ceo": "Mr Kurt Formosa",
+      "website": "https://komunita.gov.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "https://www.independent.com.mt/articles/2025-08-13/local-news/Kurt-Formosa-appointed-CEO-of-Malta-Community-Agency-6736272354",
+      "note": "Appointed August 2025, at a time when Malta's citizenship-by-investment programme remained under EU scrutiny (having led to the removal of the direct 'sale of citizenship' route).",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Kurt Formosa": "Chief Executive Officer of Community Malta Agency (Aġenzija Komunità Malta), the government agency administering all Maltese citizenship-related matters, appointed August 2025. Previously spent eight years with the Malta EU Steering and Action Committee (MEUSAC), latterly as Director, coordinating EU policy and civil society engagement. Worked at PwC Malta as a Manager on digital strategy and transformation. Brings sports administration experience, having served as Chief Football Officer at the Malta Football Association and Chief Executive of the 'Inħobb il-Football' Foundation."
+      },
+      "bio_sources": {
+        "Mr Kurt Formosa": "https://www.independent.com.mt/articles/2025-08-13/local-news/Kurt-Formosa-appointed-CEO-of-Malta-Community-Agency-6736272354"
+      }
     },
     "Education Malta Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Institute for Education": {
@@ -4327,7 +4334,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific institute in this check (instituteforeducation.gov.mt referenced by third parties but not independently verified live).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via Eurydice's official Malta education-governance page, which describes the Institute's function (initial teacher training, reconstituted as an agency in 2017) but does not name a current director.",
       "no_info_found": true
     },
     "Junior College Board": {
@@ -4335,7 +4342,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board, distinct from the Junior College's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named board members found, distinct from the Junior College's own academic leadership.",
       "no_info_found": true
     },
     "MATSEC Board": {
@@ -4343,7 +4350,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Board for Compulsory Education": {
@@ -4351,7 +4358,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Curriculum Framework Implementation Review Board": {
@@ -4359,7 +4366,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "SportMalta": {
@@ -4382,7 +4389,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "University Faculty Boards (Govt rep)": {
@@ -4390,7 +4397,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "This refers to Government representation on University Faculty Boards, not a single entity with one website.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; this refers collectively to Government representation across multiple UM Faculty Boards, not a single entity - no single named individual applies.",
       "no_info_found": true
     },
     "Residency Malta Agency": {
@@ -4413,7 +4420,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found for this specific authority (distinct from Arts Council Malta's Executive Chairman Luke Dalli, who separately sits on this Authority's board per prior research).",
       "no_info_found": true
     },
     "Council for the Teaching Profession": {
@@ -4421,7 +4428,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Council of the University of Malta": {
@@ -4429,7 +4436,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council, distinct from the University's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from the University's own Rector (Prof. Frank Bezzina, already recorded) - no named Council chairperson found separately.",
       "no_info_found": true
     },
     "English Language Teaching Council": {
@@ -4437,7 +4444,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found for this specific council, distinct from FELTOM (the private ELT organisations' federation).",
       "no_info_found": true
     },
     "Malta Racing Club Council": {
@@ -4445,7 +4452,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Skills Council": {
@@ -4453,7 +4460,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Foundation for Educational Services": {
@@ -4461,7 +4468,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found for this foundation, which manages school extra-curricular and breakfast club services.",
       "no_info_found": true
     },
     "Foundation for Tomorrow's Schools": {
@@ -4469,7 +4476,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found for this foundation, which manages Malta's school infrastructure and building projects.",
       "no_info_found": true
     },
     "Foundation for Social Welfare Services": {
