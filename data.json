@@ -5539,11 +5539,19 @@
       }
     },
     "Legal Aid Agency": {
+      "director": "Mr Bruno Zahra",
+      "website": "https://legalaidmalta.gov.mt/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://tvmnews.mt/en/news/legal-aid-lawyers-and-procurators-triple-to-a-total-of-59/",
+      "note": "Confirmed via a TVM report marking the Agency's 10th anniversary (Legal Aid Agency established 2014), which also covered a reform tripling the number of legal aid lawyers and procurators to 59, introducing field specialisation.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Bruno Zahra": "Director of the Legal Aid Agency (Legal Aid Malta), the government agency providing free legal assistance to those who cannot afford their own lawyer. Announced a major reform on the Agency's 10th anniversary, introducing field-specialised legal aid lawyers (civil, criminal, victim representation and advisory roles) in place of a single generalist pool, alongside legal procurators supporting the lawyers."
+      },
+      "bio_sources": {
+        "Mr Bruno Zahra": "https://tvmnews.mt/en/news/legal-aid-lawyers-and-procurators-triple-to-a-total-of-59/"
+      }
     },
     "Office of the Attorney General": {
       "director": "Victoria Buttigieg",
@@ -5580,56 +5588,78 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Aviation and Aerospace Board": {
+      "chairman": "Mr Kenneth Chircop",
+      "website": "-",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/",
+      "note": "Confirmed via the same December 2025 Shift News investigation; Chircop also sits on the Board of Engineers (MLGP), holds a directorship at drone company Dronamics, and lectures at the University of Malta.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Kenneth Chircop": "Chairman of the Aviation and Aerospace Board (referred to as 'Committee' in some sources). Also a Member of the Board of Engineers, a director at international drone company Dronamics, and lectures at the University of Malta, per December 2025 Shift News reporting on multiple concurrent government appointments."
+      },
+      "bio_sources": {
+        "Mr Kenneth Chircop": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/"
+      }
     },
     "Commissioners for Justice": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Digital Technologies Board": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Drug Offenders Rehabilitation Board": {
+      "chairman": "Dott. Noel Camilleri",
+      "website": "-",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/",
+      "note": "Confirmed via the same December 2025 Shift News investigation that identified Camilleri's five concurrent government board positions - he is the same person already recorded as Chairperson of the Board of Engineers under MLGP.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dott. Noel Camilleri": "Chairman of the Drug Offenders Rehabilitation Board. A lawyer by profession, also Chairperson of the Board of Engineers, an umpire on Social Security's board of examiners, a member of the Employment Commission, and substitute chairperson for the Information and Data Protection Commissioner's appeals tribunal - a governance pattern flagged in December 2025 Shift News reporting on multiple concurrent government board appointments."
+      },
+      "bio_sources": {
+        "Dott. Noel Camilleri": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/"
+      }
     },
     "Examination Board - Notary Warrant": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Cancer Research and Innovation Hub Malta (CHIHM)": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation; only referenced via gov.mt's Officially Appointed Bodies directory.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Information Technology Accessibility": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Permanent Commission against Corruption": {
       "chairman": "Judge Emeritus Lawrence Quintano",
@@ -5651,42 +5681,55 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Data Protection and Information Coordination Unit": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific unit, distinct from the Information and Data Protection Commissioner's own site (idpc.org.mt).",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Mediation Centre": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific centre in this check.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Office of the Notary to Government": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific office.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Property Malta": {
+      "chairman": "Mr Sandro Chetcuti",
+      "website": "-",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://housinglandscape.mt/",
+      "note": "This entity ('Property Malta', distinct from the separately-tracked 'Property Malta Foundation' under METP) shares the same Chairperson per the source: founder of the Malta Developers Association (MDA), with over 30 years in real estate.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation, distinct from Property Malta Foundation under METP.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Sandro Chetcuti": "Chairperson of Property Malta. Founder of the Malta Developers Association (MDA) and a leading figure in Malta's property development sector for over 30 years, having played a key role in shaping national housing, planning and sustainable development discourse."
+      },
+      "bio_sources": {
+        "Mr Sandro Chetcuti": "https://housinglandscape.mt/"
+      }
     },
     "Real Estate Licensing Unit": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific unit.",
-      "note": "Re-attempted under combined website+board workflow: searched justice.gov.mt public bodies directory and news portals; no named chairperson/director could be confirmed as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Yachting Malta Ltd": {
       "ministry": "Sustainable Mobility (MSM)",
