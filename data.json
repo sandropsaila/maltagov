@@ -4309,64 +4309,101 @@
       "website_note": "No official webpage found for this specific agency."
     },
     "Malta Competition and Consumer Affairs Authority (MCCAA)": {
+      "director": "Grace Stivala",
+      "website": "https://mccaa.org.mt/",
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
+      "source": "https://www.mca.org.mt/articles/mca-mccaa-mou-2025",
+      "note": "Grace Stivala is Director General of MCCAA (confirmed August 2025 via a joint MCA-MCCAA press release); she oversees the Authority's Office for Consumer Affairs. A 7-member Board of Governors also exists per ISO's member profile of MCCAA but individual board members were not identified in this pass.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://mccaa.org.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Grace Stivala": "Director General of the Malta Competition and Consumer Affairs Authority (MCCAA), the public authority (established 2011) overseeing competition enforcement, consumer protection, product safety standards and metrology in Malta. Confirmed via an August 2025 joint press release with the Malta Communications Authority announcing a Memorandum of Understanding to strengthen consumer protection in the communications sector."
+      },
+      "bio_sources": {
+        "Grace Stivala": "https://www.mca.org.mt/articles/mca-mccaa-mou-2025"
+      }
     },
     "National Accreditation Board": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Productivity Board": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Industrial Tribunal": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific tribunal."
+      "website_note": "No official webpage found for this specific tribunal.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Employment Relations Board": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "European Union Programmes Agency (EUPA)": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "European services in Malta (SEM)": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Council for Economic and Social Development (MCESD)": {
+      "chairman": "Perit David Xuereb",
+      "ceo": "Dr Brendan Zerafa",
+      "website": "https://mcesd.org.mt/",
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
+      "source": "https://mcesd.org.mt/mcesd-welcomes-new-ceo-dr-brendan-zerafa/ ; https://www.linkedin.com/company/malta-council-for-economic-and-social-development-mcesd",
+      "note": "CEO appointment confirmed via an August 2025 MCESD press release - Dr Zerafa was promoted from Executive Secretary. By law the Council also includes the Principal Permanent Secretary as Deputy Chairman, several other Permanent Secretaries, the Governor of the Central Bank, and the heads of Malta's main employer and union organisations as ex officio members - not individually re-verified in this pass.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Perit David Xuereb": "Chairman of the Malta Council for Economic and Social Development (MCESD), the statutory advisory council (established 2001, Cap. 431) that promotes social dialogue and consensus between Government, employers and unions on Malta's economic and social development.",
+        "Dr Brendan Zerafa": "Chief Executive Officer of the Malta Council for Economic and Social Development (MCESD), appointed August 2025, having previously served as the Council's Executive Secretary. Prior government roles include policy and communication positions at the Ministry for Foreign Affairs and the Office of the Prime Minister; also represented the Government on national bodies including the MCESD itself and the Employment Relations Board."
+      },
+      "bio_sources": {
+        "Perit David Xuereb": "https://mcesd.org.mt/mcesd-welcomes-new-ceo-dr-brendan-zerafa/",
+        "Dr Brendan Zerafa": "https://mcesd.org.mt/mcesd-welcomes-new-ceo-dr-brendan-zerafa/"
+      }
     },
     "Consumer Affairs Council": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council, distinct from MCCAA's own site."
+      "website_note": "No official webpage found for this specific council, distinct from MCCAA's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Low Wage Commission": {
       "ministry": "European Funds, Social Dialogue and Consumer Protection (MFDC)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Enemalta plc": {
       "executive_chairman": "Ing. Ryan Fava",
