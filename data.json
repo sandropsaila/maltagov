@@ -3215,12 +3215,19 @@
       "chairman": "Mr Mario Cutajar"
     },
     "National Archives": {
-      "ministry": "Arts, Culture and National Heritage (MACH)",
-      "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
+      "director": "Prof. Charles J. Farrugia",
       "website": "https://nationalarchives.gov.mt/",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://www.um.edu.mt/profile/charlesjfarrugia ; https://nationalarchives.gov.mt/en/our-history/",
+      "note": "National Archivist since 2005 - one of the longest-serving heads of any entity in this project (20+ years in post). Also Head of Department and Senior Lecturer at the University of Malta's Department of Library, Information and Archive Sciences.",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Prof. Charles J. Farrugia": "Chief Executive Officer and National Archivist of Malta since 2005. A Commonwealth Scholar, holds an Honours Degree and Master's Degree in history from the University of Malta, a Postgraduate Diploma in Records Management from the University of Northumbria at Newcastle, an M.A. in Archives and Records Management from University College London, and a PhD from the University of Aberystwyth. Drafted the National Archives of Malta Act (2005) and led the separation of archives from libraries into a standalone National Archives Agency. Served nine years as Chairman of the Association of Commonwealth Archivists and Records Managers (ACARM) and sits on the Executive Board of EURBICA. Also Head of Department and Senior Lecturer within the University of Malta's Faculty of Media and Knowledge Sciences."
+      },
+      "bio_sources": {
+        "Prof. Charles J. Farrugia": "https://www.um.edu.mt/profile/charlesjfarrugia"
+      }
     },
     "Arts Council of Malta": {
       "executive_chairman": "Dr Luke Dalli",
@@ -3316,7 +3323,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Film Finance Malta Ltd Board": {
@@ -3324,7 +3331,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "De Valette Chamber Orchestra": {
@@ -3332,7 +3339,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific orchestra.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Fondazzjoni Patrimonju Malti – Supervisory Board": {
@@ -3340,7 +3347,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board (distinct from the NGO Fondazzjoni Patrimonju Malti's own site, which was not confirmed as this government-linked entity's page).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from the NGO Fondazzjoni Patrimonju Malti's own leadership - no named Supervisory Board members found for this government-linked entity.",
       "no_info_found": true
     },
     "Maltese National Commission for UNESCO Board": {
@@ -3348,7 +3355,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Festivals Malta Agency": {
@@ -3356,7 +3363,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found despite being an active agency running Malta's cultural festivals calendar.",
       "no_info_found": true
     },
     "Film Review Board": {
@@ -3364,7 +3371,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Fondazzjoni Kreattività Board": {
@@ -3372,7 +3379,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found; the related creative space Spazju Kreattiv has its own site but this board specifically was not confirmed.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; related to Spazju Kreattiv, no named board members found for this specific entity.",
       "no_info_found": true
     },
     "Intangible Cultural Heritage Board": {
@@ -3380,7 +3387,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Malta International Contemporary Art Space": {
@@ -3388,7 +3395,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific space (MICAS).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found for MICAS despite it being an active, high-profile new art space.",
       "no_info_found": true
     },
     "Malta Libraries": {
@@ -3396,7 +3403,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific entity in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; publicservice.gov.mt describes Malta Libraries' function in detail but does not name a current director.",
       "no_info_found": true
     },
     "Media Literacy Development Board": {
@@ -3404,7 +3411,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Pjazza Teatru Rjal Board": {
@@ -3412,7 +3419,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "National Agency for the Performing Arts": {
@@ -3420,23 +3427,30 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Superintendence of Cultural Heritage": {
+      "director": "Mr Kurt Farrugia",
+      "website": "https://schmalta.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://ehhf.eu/the-heads/malta/ ; https://www.maltatoday.com.mt/news/national/105835/kurt_farrugia_appointed_superintendent_of_cultural_heritage",
+      "note": "Appointed Superintendent in late 2020, succeeding Joseph Magro Conti (who was tasked instead with drawing up a national heritage strategy). Confirmed via the European Heritage Heads Forum's own profile of Malta's representative.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific superintendence.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Kurt Farrugia": "Superintendent of Cultural Heritage, appointed late 2020, succeeding Joseph Magro Conti. Graduated in archaeology from the University of Malta; worked 12 years at the Planning Authority assessing developments within historical urban cores, before transferring to the Superintendence in 2018 as Head of Unit for Heritage Planning Consultations, Underwater and Movable Cultural Heritage."
+      },
+      "bio_sources": {
+        "Mr Kurt Farrugia": "https://ehhf.eu/the-heads/malta/"
+      }
     },
     "Valletta Cultural Agency": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Cultural Heritage Advisory Committee": {
@@ -3444,7 +3458,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "European Film Awards Committee": {
@@ -3452,7 +3466,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Manoel Theatre Management Committee": {
@@ -3460,7 +3474,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee (distinct from the Manoel Theatre's own box-office site).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named committee members found, distinct from the Manoel Theatre's own box-office/artistic team.",
       "no_info_found": true
     },
     "Mdina Rehabilitation Committee": {
@@ -3468,7 +3482,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Festivities Committee": {
@@ -3476,7 +3490,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National World Heritage Technical Committee": {
@@ -3484,7 +3498,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Council of the Maltese Language": {
@@ -3492,7 +3506,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found for this specific council (distinct from any individual language-authority officials).",
       "no_info_found": true
     },
     "Malta Libraries Council": {
@@ -3500,7 +3514,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from Malta Libraries' own operational leadership, no named Council chairperson found.",
       "no_info_found": true
     },
     "Centre for Creativity Foundation (St James Cavalier)": {
@@ -3508,7 +3522,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation in this check (Spazju Kreattiv site not confirmed as this specific entity).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found for this specific foundation (Spazju Kreattiv's public-facing team was not confirmed as this foundation's formal leadership).",
       "no_info_found": true
     },
     "National Orchestra Ltd": {
@@ -3516,7 +3530,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Editorial Board - PBS Ltd": {
