@@ -5625,7 +5625,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal (also listed under MFF).",
-      "note": "Individually searched; no named chairperson found.",
+      "note": "Individually searched; no named chairperson found (also listed and searched under MFF).",
       "no_info_found": true
     },
     "Controlled Companies Appeals Board": {
@@ -5938,7 +5938,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Aviation and Aerospace Board": {
@@ -5961,7 +5961,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named individuals found.",
       "no_info_found": true
     },
     "Digital Technologies Board": {
@@ -5969,7 +5969,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Drug Offenders Rehabilitation Board": {
@@ -5992,23 +5992,30 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Foundation for Cancer Research and Innovation Hub Malta (CHIHM)": {
+      "chairman": "Prof. Christian Scerri",
+      "website": "https://crihm.eu/",
       "ministry": "Justice, Research and Innovation (MJRI)",
+      "source": "https://www.maltatoday.com.mt/announcements/announcements/141961/cancer_research_and_innovation_hub_malta_holds_its_first_annual_stakeholders_meeting ; https://www.um.edu.mt/newspoint/news/2024/04/establishment-cancer-research-innovation-foundation",
+      "note": "Confirmed extremely current via a May 2026 report on CRIHM's first annual stakeholders' meeting, marking its second anniversary. Chaired since the Foundation's establishment in April 2024. Also recognised as Malta's National Cancer Mission Hub within the EU's Cancer Mission in 2025.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation; only referenced via gov.mt's Officially Appointed Bodies directory.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Prof. Christian Scerri": "Chairman of the Cancer Research and Innovation Hub Malta (CRIHM) Foundation since its establishment in April 2024. A member of the University of Malta's Physiology & Biochemistry Department within the Faculty of Medicine & Surgery. Under his chairmanship, CRIHM has funded 10 national research projects, participated in 4 EU-awarded projects, and been officially recognised in 2025 as Malta's National Cancer Mission Hub within the EU's Mission on Cancer, which aims to improve the lives of 3 million people by 2030."
+      },
+      "bio_sources": {
+        "Prof. Christian Scerri": "https://www.maltatoday.com.mt/announcements/announcements/141961/cancer_research_and_innovation_hub_malta_holds_its_first_annual_stakeholders_meeting"
+      }
     },
     "Foundation for Information Technology Accessibility": {
       "ministry": "Justice, Research and Innovation (MJRI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Permanent Commission against Corruption": {
@@ -6031,7 +6038,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Data Protection and Information Coordination Unit": {
@@ -6039,7 +6046,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific unit, distinct from the Information and Data Protection Commissioner's own site (idpc.org.mt).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from the Information and Data Protection Commissioner (Dr Reno Borg, already recorded) - no named separate Unit head found.",
       "no_info_found": true
     },
     "Malta Mediation Centre": {
@@ -6047,7 +6054,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific centre in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Office of the Notary to Government": {
@@ -6055,7 +6062,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific office.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named office-holder found.",
       "no_info_found": true
     },
     "Property Malta": {
@@ -6078,7 +6085,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific unit.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Yachting Malta Ltd": {
