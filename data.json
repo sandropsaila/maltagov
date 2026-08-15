@@ -2969,11 +2969,44 @@
       "website_note": "No dedicated official webpage found; referenced via health.gov.mt/public-bodies/dar-kenn-ghall-sahhtek/ (a ministry directory listing, not the entity's own site)."
     },
     "Youth Work Profession Board": {
+      "chairperson": "Mr Jason Żammit",
+      "board_members": [
+        "Mr Anthony Mifsud",
+        "Prof. Maria Colette Pisani",
+        "Mr Christian Mizzi",
+        "Mr Norbert Edgar Muscat Preca",
+        "Dr Josette Barbara Cardona",
+        "Mr Dale Pace",
+        "Ms Cherise Sultana"
+      ],
+      "board_secretary": "Dr Maria Scicluna Criminale",
       "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
+      "source": "https://education.gov.mt/meyr-boards/",
+      "note": "Board composition found on education.gov.mt's MEYR Boards directory page rather than a dedicated MYWI page - youth-work regulation appears to be administered jointly with the education ministry's board structure.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Jason Żammit": "Chairperson of the Youth Work Profession Board, the statutory body regulating youth work as a profession in Malta, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page.",
+        "Dr Maria Scicluna Criminale": "Secretary of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. Also serves as a Member of the Xjenza Malta Advisory Board.",
+        "Mr Anthony Mifsud": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Prof. Maria Colette Pisani": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Christian Mizzi": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Norbert Edgar Muscat Preca": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Josette Barbara Cardona": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Dale Pace": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Cherise Sultana": "Member of the Youth Work Profession Board, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment."
+      },
+      "bio_sources": {
+        "Mr Jason Żammit": "https://education.gov.mt/meyr-boards/",
+        "Dr Maria Scicluna Criminale": "https://education.gov.mt/meyr-boards/",
+        "Mr Anthony Mifsud": "https://education.gov.mt/meyr-boards/",
+        "Prof. Maria Colette Pisani": "https://education.gov.mt/meyr-boards/",
+        "Mr Christian Mizzi": "https://education.gov.mt/meyr-boards/",
+        "Mr Norbert Edgar Muscat Preca": "https://education.gov.mt/meyr-boards/",
+        "Dr Josette Barbara Cardona": "https://education.gov.mt/meyr-boards/",
+        "Mr Dale Pace": "https://education.gov.mt/meyr-boards/",
+        "Ms Cherise Sultana": "https://education.gov.mt/meyr-boards/"
+      }
     },
     "Youth Agency": {
       "ceo": "Miriam Teuma",
@@ -2994,35 +3027,40 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific society.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Gozo Channel (Holding) Limited": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated webpage found distinct from the operating company gozochannel.com (Gozo Channel (Operations) Limited); this Holding entity does not appear to have its own separate official page.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Gozo Heliport": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Gozo's public bodies directory (gozo.gov.mt).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Gozo Committee for National and Regional Celebrations": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Projects Gozo Ltd": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Gozo Regional Development Authority": {
       "chairperson": "Mr Michael Grech",
@@ -3063,10 +3101,12 @@
     },
     "Gozo Cultural Council": {
       "ministry": "Gozo (MFG)",
+      "website": "https://gozo.gov.mt/public-bodies/gozo-cultural-council/",
+      "source": "https://gozo.gov.mt/public-bodies/gozo-cultural-council/",
+      "note": "Official Ministry for Gozo page describes the Council's purpose (promoting culture and creative sectors) but does not name a chairperson or members.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "no_info_found": true
     },
     "Commonwealth Trade Finance Facility Ltd - Board of Directors": {
       "ministry": "Foreign and European Affairs (MFEA)",
