@@ -6130,12 +6130,24 @@
       "no_info_found": true
     },
     "Malta Vision 2050 Steering Committee": {
+      "chairman": "Mr Mark Mallia",
+      "board_members": [
+        "Mr Tony Sultana"
+      ],
+      "website": "https://maltavision.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://www.independent.com.mt/articles/2025-12-11/local-news/First-meeting-of-the-Malta-Vision-2050-Steering-Committee-held-6736285569 ; https://www.ccmalta.com/publications/malta-vision-2050 ; https://economy.gov.mt/wp-content/uploads/2025/04/Malta-Vision-2050-Public-Consultation.pdf",
+      "note": "GENUINE SOURCE CONFLICT, flagged rather than resolved by guessing: a July 2025 legal briefing (Chetcuti Cauchi Advocates) described the Committee as chaired by Economy Minister Silvio Schembri. However, a more recent and more specific Malta Independent report (11 December 2025) covering the Committee's actual first meeting names Mark Mallia, Head of Secretariat at the Office of the Prime Minister, as chair, with Principal Permanent Secretary Tony Sultana addressing the same meeting. The December source, being a direct report of a named, dated meeting rather than a general policy description, was treated as more reliable and current. It remains possible the Committee has both a ministerial chair (Schembri) and an operational/administrative chair (Mallia), or that the chairmanship changed between the two reports - this was not resolved with certainty. Membership includes ministers responsible for energy, climate change, transport, health, education and Gozo (not individually named in sources reviewed), plus international experts advising the process.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED - CHAIRMANSHIP SOURCES CONFLICT, BOTH NAMES RECORDED",
+      "bios": {
+        "Mr Mark Mallia": "Head of Secretariat at the Office of the Prime Minister, who chaired the first meeting of the Malta Vision 2050 Steering Committee on 10 December 2025, describing Vision 2050 as 'a once-in-a-generation opportunity to define a national direction that rises above electoral cycles and sectoral boundaries.' Previously served as CEO of Transport Malta before moving to the OPM Head of Secretariat role in 2024 (per prior research in this project), succeeded at Transport Malta by Kurt Farrugia.",
+        "Mr Tony Sultana": "Principal Permanent Secretary (Head of the Public Service of Malta) and Chairman of the Malta Information Technology Agency (per prior research in this project), who addressed the Steering Committee's first meeting on the public administration's role in Malta Vision 2050, emphasising that a forward-looking public service is central to implementing the long-term national vision."
+      },
+      "bio_sources": {
+        "Mr Mark Mallia": "https://www.independent.com.mt/articles/2025-12-11/local-news/First-meeting-of-the-Malta-Vision-2050-Steering-Committee-held-6736285569",
+        "Mr Tony Sultana": "https://www.independent.com.mt/articles/2025-12-11/local-news/First-meeting-of-the-Malta-Vision-2050-Steering-Committee-held-6736285569"
+      }
     },
     "Managing Committee of the Red Cross Society": {
       "ministry": "Office of the Prime Minister (OPM)",
