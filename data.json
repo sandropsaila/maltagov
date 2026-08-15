@@ -4041,13 +4041,22 @@
       }
     },
     "Building and Construction Authority": {
+      "chairman": "Mr Savior Camilleri",
+      "ceo": "Architect Roderick Bonnici",
       "website": "https://bca.gov.mt/",
       "ministry": "Infrastructure, Planning and Works (MIPE)",
-      "source": "https://www.maltatoday.com.mt/news/national/117121/government_pushes_through_ceo_change_at_building_and_construction_authority ; https://www.maltatoday.com.mt/news/national/129048/roderick_bonnici_is_made_acting_bca_ceo_",
-      "note": "Genuine source conflict, deliberately not resolved by guessing: the Authority's leadership changed multiple times in a short period. May 2024: Perit Roderick Bonnici appointed Acting CEO under Board Chairman Simon Saliba, after the prior board resigned en masse following a construction-site death. January 2025: a MaltaToday report describes a proposed CEO change to Transport Malta deputy chief Jesmond Muscat, and names a DIFFERENT board chairman, Maria Schembri Grima (also an architect for a private developer, J Portelli Projects - a flagged conflict of interest in that same report). Neither the January 2025 CEO change nor the current chairman could be independently confirmed as finalised/still current as of this check, so no name was recorded as the definitive current chair/CEO to avoid presenting disputed or superseded information as fact.",
+      "source": "https://bca.gov.mt/news-2/architect-roderick-bonnici-appointed-bca-chief-executive/ ; https://bct.gov.mt/news-2/official-opening-of-the-building-and-construction-authority-new-offices/",
+      "note": "RESOLVED a previously-flagged source conflict: Bonnici's CEO appointment (initially 'acting' from May 2024) was made permanent, confirmed via BCA's own official news page. Chairman Savior Camilleri confirmed via a February 2025 BCA event report (the BCA's own site), which is more current and more authoritative than an earlier-reported but unconfirmed chairman name (Maria Schembri Grima) whose conflict-of-interest concerns were never independently verified as resolved or as her final status. The BCA board was reconstituted in 2024 after resigning en bloc following a construction-site death.",
       "checked": "2026-08-14",
-      "bio_status": "PARTIALLY RESEARCHED - CONFLICTING SOURCES ON CURRENT LEADERSHIP",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Savior Camilleri": "Chairman of the Building and Construction Authority (BCA), confirmed via the Authority's own February 2025 news report on the opening of its new offices.",
+        "Architect Roderick Bonnici": "Chief Executive of the Building and Construction Authority (BCA), initially appointed Acting CEO in May 2024 and confirmed as permanent CEO by September 2025, per the Authority's own official announcements. Previously headed the permit-approval section within BCA and, before that, the Planning Authority department responsible for permit approvals. Holds a Bachelor's degree in Engineering and Architecture and a Master's degree in Project Management from the University of Malta. Took up the role amid heightened public scrutiny of Malta's construction sector following a fatal construction-site accident."
+      },
+      "bio_sources": {
+        "Mr Savior Camilleri": "https://bct.gov.mt/news-2/official-opening-of-the-building-and-construction-authority-new-offices/",
+        "Architect Roderick Bonnici": "https://bca.gov.mt/news-2/architect-roderick-bonnici-appointed-bca-chief-executive/"
+      }
     },
     "Occupational Health and Safety Authority": {
       "chairman": "Perit David Xuereb",
@@ -4072,7 +4081,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee, distinct from the Planning Authority's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Planning Board (Planning Authority)": {
@@ -4080,7 +4089,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board, distinct from the Planning Authority's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from PA's own Executive Chairman (Johann Buttigieg) - no named separate Planning Board members found.",
       "no_info_found": true
     },
     "Planning Commission ODZ & Urban Conservation": {
@@ -4088,7 +4097,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Planning Commission Regularisation Permissions": {
@@ -4096,7 +4105,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Planning Commission Within Development Zone": {
@@ -4104,7 +4113,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Agricultural Advisory Committee": {
@@ -4112,7 +4121,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Construction Industry Licensing Committee": {
@@ -4120,7 +4129,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Design Advisory Committee (Planning Authority)": {
@@ -4128,7 +4137,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Fireworks Factory Complexes Technical Committee": {
@@ -4136,7 +4145,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Control of Major Accident Hazards Regulation Competent Authority": {
@@ -4144,7 +4153,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Users' Committee (Planning Authority)": {
@@ -4152,7 +4161,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Building and Construction Consultative Council": {
@@ -4160,7 +4169,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Property Malta Foundation": {
@@ -4168,7 +4177,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from 'Property Malta' (MJRI, Chairperson Sandro Chetcuti already recorded) - no separate named leadership found for this specific Foundation entry.",
       "no_info_found": true
     },
     "Building and Construction Tribunal": {
@@ -4176,7 +4185,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via BCA's own site, which notes the Tribunal webpage was being removed from the BCA site; no named chairperson found.",
       "no_info_found": true
     },
     "Environment and Planning Review Tribunal": {
@@ -4184,7 +4193,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Employment Authority": {
@@ -4192,7 +4201,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Property Market Agency": {
@@ -4200,7 +4209,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Health and Safety Tribunal": {
@@ -4208,7 +4217,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Masons Licensing Committee": {
@@ -4216,7 +4225,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Development Planning Fund (Planning Authority)": {
@@ -4224,7 +4233,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific fund.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "Malta College of Arts, Science and Technology (MCAST)": {
