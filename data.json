@@ -2838,10 +2838,11 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Individually searched; no named directors found.",
+      "note": "Individually re-checked via Nimble deep-extract of the company's own site - purely operational/commercial page with no board or leadership names published.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific company."
+      "website_note": "No official webpage found for this specific company.",
+      "website": "https://kordingrain.com.mt/"
     },
     "Malpro Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2853,20 +2854,52 @@
       "website_note": "No official webpage found for this specific company."
     },
     "Malta Government Technology Investment Ltd": {
+      "executive_chairman": "Mr Silvio Scerri",
+      "board_members": [
+        "Mr Edward Portelli",
+        "Mr Gino Zarb",
+        "Ms Antoinette Falzon",
+        "Dr Ian Ellul",
+        "Ms Marisa Vassallo",
+        "Ms Stephanie Micallef",
+        "Ms Annabel Aquilina"
+      ],
+      "board_secretary": "Dr Justine Scerri Herrera",
+      "website": "https://mgtil.com.mt/",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Individually searched via economy.gov.mt's public bodies directory (listed with its own 'Board of Directors' sub-heading, abbreviated MGTIL); no named directors found.",
+      "source": "https://mgtil.com.mt/the-board/",
+      "note": "Found via Nimble deep-extract of MGTIL's own dedicated Board page - this entity had been marked no-info-found in prior sessions.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific company."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Silvio Scerri": "Executive Chairman of Malta Government Technology Investments Ltd (MGTIL), a Government-owned company tasked with seeking business investment opportunities in Technology, spanning tech startups, digital infrastructure, green energy, and national security systems.",
+        "Mr Edward Portelli": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Mr Gino Zarb": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Ms Antoinette Falzon": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Dr Ian Ellul": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Ms Marisa Vassallo": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Ms Stephanie Micallef": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Ms Annabel Aquilina": "Director of Malta Government Technology Investments Ltd (MGTIL), confirmed via the company's own Board page.",
+        "Dr Justine Scerri Herrera": "Secretary of Malta Government Technology Investments Ltd (MGTIL)."
+      },
+      "bio_sources": {
+        "Mr Silvio Scerri": "https://mgtil.com.mt/the-board/",
+        "Mr Edward Portelli": "https://mgtil.com.mt/the-board/",
+        "Mr Gino Zarb": "https://mgtil.com.mt/the-board/",
+        "Ms Antoinette Falzon": "https://mgtil.com.mt/the-board/",
+        "Dr Ian Ellul": "https://mgtil.com.mt/the-board/",
+        "Ms Marisa Vassallo": "https://mgtil.com.mt/the-board/",
+        "Ms Stephanie Micallef": "https://mgtil.com.mt/the-board/",
+        "Ms Annabel Aquilina": "https://mgtil.com.mt/the-board/",
+        "Dr Justine Scerri Herrera": "https://mgtil.com.mt/the-board/"
+      }
     },
     "Malta Government Venture Capital Ltd": {
       "ceo": "Karl Azzopardi",
       "vice_chairman": "Andre Psaila",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "source": "https://mgis.com.mt/about/ ; https://mgis.com.mt/news/maltas-venture-capital-landscape-gets-e10m-injection/",
-      "note": "MGVC is managed under Malta Government Investments (MGI, formerly MIMCOL), whose current officers are listed here. A March 2024 press item names a different CEO (Jesmond Gatt) for the parent company at that time; the official MGI 'About' page (most recently checked) lists Karl Azzopardi as CEO, so that more current listing was used. Karl Azzopardi is also listed as CEO of Indis Malta Ltd — this may reflect a cross-appointment across sister government-investment entities, or two different individuals sharing the name; not independently confirmed.",
+      "note": "As of December 2025, MGVC's parent (Malta Government Investments / MGI) merged into the newly-formed Malta Investments & Economic Advisory Ltd (MIEA), which now serves as the economic advisory arm for these functions. See MIEA entry (CEO Karl Azzopardi) for current leadership.",
       "checked": "2026-08-14",
       "bio_status": "PARTIALLY RESEARCHED",
       "bios": {
@@ -2878,13 +2911,19 @@
       "website": "https://mgis.com.mt/"
     },
     "Malta Investments & Economic Advisory Ltd (MIEA)": {
+      "ceo": "Mr Karl Azzopardi",
+      "website": "https://miea.com.mt/",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Individually searched; no named directors found.",
+      "source": "https://miea.com.mt/",
+      "note": "MIEA is a newly-formed entity, launched 15 December 2025 as a merger of Malta Government Investments (MGI, formerly MIMCOL) and Malta Strategic Partnership Projects (MSPP). Karl Azzopardi (also CEO of Indis Malta, per prior research) continues as CEO of the merged entity. The site's own Board Members section shows placeholder 'Name/Designation' fields not yet populated with real data, so board composition was not confirmed. This also resolves the entity 'Malta Government Venture Capital Ltd', which now operates under MIEA.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific company; possibly related to MGI (mgis.com.mt) based on a shared LinkedIn reference, but this could not be confirmed."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Karl Azzopardi": "Chief Executive Officer of Malta Investments & Economic Advisory Ltd (MIEA), the economic advisory arm of the Ministry for the Economy, Enterprise and Strategic Projects, launched 15 December 2025 as a merger of Malta Government Investments (MGI) and Malta Strategic Partnership Projects (MSPP). Concurrently CEO of Indis Malta Ltd, per prior research in this project."
+      },
+      "bio_sources": {
+        "Mr Karl Azzopardi": "https://miea.com.mt/"
+      }
     },
     "Arbiter & Patents Tribunal": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
