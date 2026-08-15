@@ -4269,82 +4269,145 @@
       "no_info_found": true
     },
     "Foundation for Social Welfare Services": {
+      "chairman": "Mr George Borg",
+      "ceo": "Mr Alfred Grixti",
+      "board_members": [
+        "Mr Noel Abela",
+        "Ms Sharon Bond",
+        "Dr Karen Carachi",
+        "Ms Marietta Cassar"
+      ],
+      "website": "https://fsws.gov.mt/",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+      "note": "'Chairman' field captures George Borg's role as Acting President of the Board.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://fsws.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Alfred Grixti": "Chief Executive Officer of the Foundation for Social Welfare Services (FSWS), the state foundation (established 1998) incorporating Aġenzija Appoġġ, Aġenzija Sedqa, the Child Protection Directorate, the Directorate for Alternative Care, and FSWS Gozo. Represents the Foundation at national forums including the Malta Employers' Association networking symposium.",
+        "Mr George Borg": "Acting President of the Board of the Foundation for Social Welfare Services, per a Prime Ministerial appointment confirmed on the Ministry for Social Policy and Children's Rights' own site.",
+        "Mr Noel Abela": "Board Member of the Foundation for Social Welfare Services, per a Prime Ministerial appointment confirmed on the Ministry for Social Policy and Children's Rights' own site. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Sharon Bond": "Board Member of the Foundation for Social Welfare Services, per a Prime Ministerial appointment confirmed on the Ministry for Social Policy and Children's Rights' own site. No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Karen Carachi": "Board Member of the Foundation for Social Welfare Services, per a Prime Ministerial appointment confirmed on the Ministry for Social Policy and Children's Rights' own site. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Marietta Cassar": "Board Member of the Foundation for Social Welfare Services, per a Prime Ministerial appointment confirmed on the Ministry for Social Policy and Children's Rights' own site. No further distinct public biographical details were found beyond the board appointment."
+      },
+      "bio_sources": {
+        "Mr Alfred Grixti": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+        "Mr George Borg": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+        "Mr Noel Abela": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+        "Ms Sharon Bond": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+        "Dr Karen Carachi": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/",
+        "Ms Marietta Cassar": "https://family.gov.mt/board-of-the-foundation-for-social-welfare-services/"
+      }
     },
     "Social Care Standards Authority": {
+      "ceo": "Ms Ruth Sciberras",
+      "website": "https://scsa.gov.mt/",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://scsa.gov.mt/contact-us/biography/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://scsa.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Ruth Sciberras": "Chief Executive Officer of the Social Care Standards Authority (SCSA). Over 25 years of experience in the social sector, with leadership roles focused on protecting children, persons with disabilities and victims of domestic violence. Previously CEO of Aġenzija Sapport and Director at Aġenzija Appoġġ. Part of the Maltese delegation supporting the Government in drafting international agreements on adoption."
+      },
+      "bio_sources": {
+        "Ms Ruth Sciberras": "https://scsa.gov.mt/contact-us/biography/"
+      }
     },
     "Office of the Commissioner for Children": {
+      "director": "Ms Antoinette Vassallo",
+      "website": "https://tfal.gov.mt/",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://www.maltatoday.com.mt/news/national/133307/antoinette_vassallo_reappointed_commissioner_for_children ; https://tfal.gov.mt/about/?lang=en",
+      "note": "Reappointed for a second term (confirmed January 2025). Formerly Mayor of Ta' Xbiex (1999-2013) and Chairperson of the Housing Authority (2013-2017); a trained nurse by original profession.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://tfal.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Antoinette Vassallo": "Commissioner for Children, reappointed for a second term as confirmed in January 2025 (first appointed 1 February 2022, succeeding Pauline Miceli). Trained as a nurse, graduating in 1978, and worked as an Operating Theatre Nurse at St Luke's and Karin Grech Hospitals. Entered politics in 1999 as Mayor of Ta' Xbiex, a role held until 2013; subsequently chaired the Housing Authority (2013-2017) and served as a Board Director on the Malta Communications Authority (2008-2013) and Malta Industrial Parks (2017-2019)."
+      },
+      "bio_sources": {
+        "Ms Antoinette Vassallo": "https://www.maltatoday.com.mt/news/national/133307/antoinette_vassallo_reappointed_commissioner_for_children"
+      }
     },
     "Fostering Board (+ Board of Appeal)": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Psychology Profession Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Minors Care Review Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Addiction Advisory Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Psychotherapy Profession Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Social Assistance Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Social Work Profession Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Council for Children": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council, distinct from the Commissioner for Children's own site (tfal.gov.mt)."
+      "website_note": "No official webpage found for this specific council, distinct from the Commissioner for Children's own site (tfal.gov.mt).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Council of the Counselling Profession": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "website_note": "No official webpage found for this specific council in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Adoption Board (+ Board of Appeal)": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Farm Advisory Registration Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
