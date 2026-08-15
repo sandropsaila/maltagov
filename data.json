@@ -1917,18 +1917,21 @@
     },
     "Environment and Resources Authority (ERA)": {
       "chairman": "Perit Vincent Cassar",
+      "ceo": "Kevin Mercieca",
+      "website": "https://era.org.mt/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
-      "source": "https://www.independent.com.mt/articles/2026-07-08/business-news/HSBC-Malta-Foundation-Wins-2026-ERA-Corporate-Award (July 2026 - current) ; https://newsbook.com.mt/en/vince-cassar-appointed-era-chairperson/ (Feb 2023 appointment, succeeded Prof Victor Axiak)",
+      "source": "https://era.org.mt/press-releases/era-awards-2025-announced/ ; https://era.org.mt/era-chairman/",
+      "note": "CEO confirmed via an April 2025 ERA Awards press release, superseding an older (2020) record naming Michelle Piccinino as CEO.",
       "checked": "2026-08-14",
-      "bio_status": "not yet researched",
-      "note": "Previously chairman of Planning Authority and Director General of Public Works",
+      "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Perit Vincent Cassar": "Career public servant: Director General of Public Works, then Executive Chairman of the Malta Environment and Planning Authority (MEPA), later Chairman of the Planning Authority Board following MEPA's 2016 demerger. Acting Director for Environment Protection at MEPA, 2013-2016. Directly involved in establishing Malta's Integrated Solid Waste Management Strategy and related Sewage Master Plan. Appointed Chairman of the Environment and Resources Authority (ERA) in February 2023, succeeding Professor Victor Axiak, who had led ERA since its founding in 2016."
+        "Perit Vincent Cassar": "Chairman of the Environment and Resources Authority (ERA). Extensive public service career including Director General of Public Works, Chairman of the Malta Environment and Planning Authority (MEPA) and later Chairman of the Planning Authority Board, and Acting Director for Environment Protection at MEPA (2013-2016). Directly involved in establishing Malta's Integrated Solid Waste Management Strategy and the Sewage Master Plan for Malta and Gozo.",
+        "Kevin Mercieca": "Chief Executive Officer of the Environment and Resources Authority (ERA), confirmed via the Authority's April 2025 ERA Awards announcement, where he outlined ERA's work on environmental assessments, permitting, compliance monitoring and enforcement."
       },
       "bio_sources": {
-        "Perit Vincent Cassar": "https://www.independent.com.mt/articles/2026-07-08/business-news/HSBC-Malta-Foundation-Wins-2026-ERA-Corporate-Award"
-      },
-      "website": "https://era.org.mt/"
+        "Perit Vincent Cassar": "https://era.org.mt/press-releases/era-awards-2025-announced/",
+        "Kevin Mercieca": "https://era.org.mt/press-releases/era-awards-2025-announced/"
+      }
     },
     "Malta Tourism Authority Enforcement Board": {
       "chairman": "Chev Tony Coleiro",
@@ -4221,10 +4224,19 @@
       "website_note": "No official webpage found for this specific commission."
     },
     "Enemalta plc": {
+      "executive_chairman": "Ing. Ryan Fava",
+      "website": "https://www.enemalta.com.mt/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "source": "https://www.maltatoday.com.mt/news/national/143550/reduced_downtime_shows_distribution_investment_is_reaping_results_enemalta_tells_social_partners_ ; https://theshiftnews.com/2026/02/15/enemalta-chair-attends-commercial-event-promoting-former-employer/",
+      "note": "Fava holds a combined Executive Chairman role (CEO position was abolished and merged into the chairmanship in 2023 on OPM instruction, after predecessor Jonathan Cardona departed). Confirmed still in post via an August 2026 MaltaToday report. Also concurrently President of the Malta Dockers Union - a dual role flagged by The Shift News as breaching PM Robert Abela's own stated policy against outside roles for government CEOs/chairs. Earns €150,000 annually as Executive Chairman per Shift News reporting.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.enemalta.com.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ing. Ryan Fava": "Executive Chairman of Enemalta plc, Malta's national electricity distribution company (Government of Malta and Shanghai Electric Power as shareholders). An engineer by profession, graduated from the University of Malta and Brunel University London. Serving his fourth consecutive term as President of the Malta Dockers Union since first elected in 2014. Appointed non-executive Chairman of Enemalta in 2022, then Executive Chairman in October 2023 when the CEO role was abolished and merged into the chairmanship. Leading Enemalta's €141 million electricity distribution investment programme, which reported a 76% reduction in medium-voltage network downtime by August 2026 compared to 2023."
+      },
+      "bio_sources": {
+        "Ing. Ryan Fava": "https://www.maltatoday.com.mt/news/national/143550/reduced_downtime_shows_distribution_investment_is_reaping_results_enemalta_tells_social_partners_"
+      }
     },
     "ARMS Ltd": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
@@ -4233,10 +4245,19 @@
       "website": "https://arms.com.mt/"
     },
     "Water Services Corporation": {
+      "ceo": "Mr Karl Cilia",
+      "website": "https://www.wsc.com.mt/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "source": "https://www.wsc.com.mt/karl-cilia-appointed-new-chief-executive-officer-ceo-of-the-water-services-corporation/",
+      "note": "Appointed CEO effective 25 July 2022 per WSC's own press release. Note: separate research in this project found Ivan Falzon also served as WSC CEO at some point before moving to Infrastructure Malta and then to the Gozo Regional Development Authority (appointed GRDA CEO May 2025) - the exact sequencing of WSC CEOs between Richard Bilocca (to ~2020), Falzon, and Cilia (from July 2022) was not fully reconciled, but Cilia's appointment is the most recent primary-source-confirmed one found.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.wsc.com.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Karl Cilia": "Chief Executive Officer of the Water Services Corporation (WSC), Malta and Gozo's water utility, appointed effective 25 July 2022 per the Corporation's own press release."
+      },
+      "bio_sources": {
+        "Mr Karl Cilia": "https://www.wsc.com.mt/karl-cilia-appointed-new-chief-executive-officer-ceo-of-the-water-services-corporation/"
+      }
     },
     "Regulator for Energy and Water Services": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
@@ -4245,76 +4266,107 @@
       "website": "https://www.rews.org.mt/"
     },
     "WasteServ (Malta) Ltd.": {
+      "ceo": "Richard Bilocca",
+      "website": "https://www.wasteservmalta.com/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "source": "https://www.maltatoday.com.mt/news/national/101004/former_water_services_ceo_richard_bilocca_appointed_wasteserv_ceo",
+      "note": "Bilocca moved from WSC CEO to WasteServ CEO, succeeding outgoing CEO Tonio Montebello; started 16 March. Board of Directors page exists at wsm.com.mt/en/board-of-directors but individual member names were not extracted in this pass.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.wasteservmalta.com/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Richard Bilocca": "Chief Executive Officer of WasteServ (Malta) Ltd, the national waste management agency, having previously served two-and-a-half years as CEO of the Water Services Corporation (since October 2017). Holds a Master's in Environmental Sciences and Natural Resource Management from the University of Iceland; worked at the Icelandic Institute of Sustainable Development and for seven years at the Permanent Representation of Malta to the EU, including chairing an EU Council Working Party during Slovakia's 2016 EU Council Presidency. Under his WSC tenure, achieved a reverse osmosis plant in Gozo, an 8% reduction in energy costs, and a major campaign against water losses and theft."
+      },
+      "bio_sources": {
+        "Richard Bilocca": "https://www.maltatoday.com.mt/news/national/101004/former_water_services_ceo_richard_bilocca_appointed_wasteserv_ceo"
+      }
     },
     "Office of the Commissioner for Animal Welfare (CAW)": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office."
+      "website_note": "No official webpage found for this specific office.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Climate Action Authority": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority in this check."
+      "website_note": "No official webpage found for this specific authority in this check.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Majjistral, Nature and History Park Management Board": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board, distinct from majjistral.org (an NGO/friends-of-the-park site not confirmed as this government board's own page)."
+      "website_note": "No official webpage found for this specific board, distinct from majjistral.org (an NGO/friends-of-the-park site not confirmed as this government board's own page).",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Inwadar National Park Management Board": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Project Green Agency": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "The Energy and Water Agency": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Enemed Co Ltd": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company in this check; distinct from Enemalta plc's own site."
+      "website_note": "No official webpage found for this specific company in this check; distinct from Enemalta plc's own site.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Grand Harbour Regeneration Corporation": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific corporation."
+      "website_note": "No official webpage found for this specific corporation.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Animal Welfare Council": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council, distinct from the Office of the Commissioner for Animal Welfare."
+      "website_note": "No official webpage found for this specific council, distinct from the Office of the Commissioner for Animal Welfare.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Circular Economy Malta": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "National Climate Action Council": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "no_info_found": true
     },
     "Central Bank of Malta": {
       "chairman": "Alexander Demarco",
