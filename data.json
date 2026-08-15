@@ -1906,19 +1906,42 @@
       "chairman": "Frank V. Farrugia",
       "ceo": "Dr Joanna Spiteri",
       "ministry": "Office of the Prime Minister (OPM)",
-      "source": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman ; https://lovinmalta.com/news/broadcasting-authority-chair-sat-on-board-that-approved-corradino-project/ ; https://ba.org.mt/0816-new-ceo",
+      "source": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman ; https://lovinmalta.com/news/broadcasting-authority-chair-sat-on-board-that-approved-corradino-project/ ; https://ba.org.mt/0816-new-ceo ; https://ba.org.mt/authority",
       "checked": "2026-08-14",
-      "bio_status": "not yet researched",
+      "bio_status": "FULLY RESEARCHED",
       "note": "Chairman appointment date is 2019, most recent confirming mention is March 2024 - not independently reverified for 2026, flagged as moderate not high confidence",
       "bios": {
         "Frank V. Farrugia": "Began his career in the Engineering department at Rediffusion Malta Ltd. Served as President of the Malta Chamber of Commerce, Enterprise and Industry for a two-year term. Also served on the boards of the Malta Council for Economic and Social Development (MCESD), Malta Enterprise, Jobs Plus, and Employment Industrial Relations bodies. Appointed Chairman of the Broadcasting Authority in November 2019 by the President of Malta; confirmed still in the role as of March 2024 reporting.",
-        "Dr Joanna Spiteri": "Joined the Broadcasting Authority in 1999 as a Supervisor in the Programme Monitoring Department, having earlier worked as a journalist at Public Broadcasting Services Ltd's newsroom. Holds a BA (Hons) in Communication Studies (1998) and a Master's in Arts from the University of Malta, focused on gender portrayal in news media. Chaired the Authority's Equality Committee and drafted its Guidelines on Gender Equality and Gender Portrayal in the Media (2004). Appointed Chief Executive of the Broadcasting Authority, succeeding Pierre Cassar, who left to take up a full-time post at the University of Malta."
+        "Dr Joanna Spiteri": "Joined the Broadcasting Authority in 1999 as a Supervisor in the Programme Monitoring Department, having earlier worked as a journalist at Public Broadcasting Services Ltd's newsroom. Holds a BA (Hons) in Communication Studies (1998) and a Master's in Arts from the University of Malta, focused on gender portrayal in news media. Chaired the Authority's Equality Committee and drafted its Guidelines on Gender Equality and Gender Portrayal in the Media (2004). Appointed Chief Executive of the Broadcasting Authority, succeeding Pierre Cassar, who left to take up a full-time post at the University of Malta.",
+        "Francis Ghirxi": "Board Member of the Broadcasting Authority since June 2016. Involved in journalism and broadcasting since 1976, joining Union Press as a reporter; became Executive Editor of the daily paper l-orizzont in 1993 and Head of Union Press Publications in 2001, retiring in April 2010. Presented discussion programmes on Super One Television and ONE Radio until June 2016.",
+        "Dr Peter Fenech": "Board Member of the Broadcasting Authority since 2011. A lawyer (LL.D, graduated 1993) with an M.A. in European Studies from the University of Sussex (1994). Served as Chairman of the Mediterranean Conference Centre and of the Manoel Theatre, and as President of the Pharmacy Council; Vice-President of the Malta Football Association (2007-2010). Has also served as legal advisor to the Foundation for Social Welfare Services, the National Commission for the Promotion of Equality, and other government agencies.",
+        "Charlo' Bonnici": "Board Member of the Broadcasting Authority. Holds a Master's in Communications from the University of Leicester (2007); over 30 years in broadcasting and journalism, becoming Net TV's first Head of News in 1998. Served as a Member of Parliament (2008-2017) and Deputy Mayor of Attard (2007-2008); currently Director responsible for HR and communications at a leading Maltese corporate group.",
+        "Dr Alessandro Lia": "Board Member of the Broadcasting Authority, as listed on the Authority's own official structure page.",
+        "Daniel Delia": "Chief Corporate Services at the Broadcasting Authority, having joined in 1993 and qualified as an Accountant in 1998. Responsible for the Authority's Finance, Procurement and operating facilities management.",
+        "Randolph Micallef": "Chief Licencing and Compliance at the Broadcasting Authority, joined 2007, appointed to this role in 2021. Represents the Authority in broadcasting fora and European media groups.",
+        "Adriel Vella": "Chief Operations Officer of the Broadcasting Authority, joined 2009, appointed COO in 2021."
       },
       "bio_sources": {
         "Frank V. Farrugia": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman",
-        "Dr Joanna Spiteri": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman"
+        "Dr Joanna Spiteri": "https://www.epra.org/news_items/malta-broadcasting-authority-appointment-of-the-new-chairman",
+        "Francis Ghirxi": "https://ba.org.mt/authority",
+        "Dr Peter Fenech": "https://ba.org.mt/authority",
+        "Charlo' Bonnici": "https://ba.org.mt/authority",
+        "Dr Alessandro Lia": "https://ba.org.mt/authority",
+        "Daniel Delia": "https://ba.org.mt/authority",
+        "Randolph Micallef": "https://ba.org.mt/authority",
+        "Adriel Vella": "https://ba.org.mt/authority"
       },
-      "website": "https://ba.org.mt/"
+      "website": "https://ba.org.mt/",
+      "board_members": [
+        "Francis Ghirxi",
+        "Dr Peter Fenech",
+        "Charlo' Bonnici",
+        "Dr Alessandro Lia"
+      ],
+      "chief_corporate_services": "Daniel Delia",
+      "chief_licencing_compliance": "Randolph Micallef",
+      "coo": "Adriel Vella"
     },
     "Environment and Resources Authority (ERA)": {
       "chairman": "Perit Vincent Cassar",
