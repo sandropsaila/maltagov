@@ -5953,12 +5953,19 @@
       "no_info_found": true
     },
     "Yachting Malta Ltd": {
-      "ministry": "Sustainable Mobility (MSM)",
-      "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
+      "chairman": "Hon. Chris Agius MP",
       "website": "https://yachtingmalta.org/",
-      "note": "Re-attempted; no named chairman/CEO confirmed for this specific entity in this pass.",
-      "no_info_found": true
+      "ministry": "Sustainable Mobility (MSM)",
+      "source": "https://yachtingmalta.org/press-releases/hon-chris-agius-appointed-yachting-malta-chairman/ ; https://www.pressreader.com/malta/the-malta-independent-on-sunday/20231224/281719799393629",
+      "note": "Appointed 1 August 2023 by PM Robert Abela. His appointment drew criticism in a December 2023 Malta Independent on Sunday opinion piece, which stated he had 'no interest, no knowledge and no expertise in the field' and cited it as an example of backbench MPs being placed in executive roles, a practice the OECD separately warned Malta against in October 2023. Confirmed still active as Chairman via Yachting Malta's own 2025 year-in-review press release.",
+      "checked": "2026-08-14",
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Hon. Chris Agius MP": "Chairman of Yachting Malta Ltd, appointed 1 August 2023 by Prime Minister Robert Abela. A backbench Labour MP whose appointment was publicly criticised in a December 2023 Malta Independent on Sunday opinion piece for lacking interest, knowledge or expertise in yachting, cited alongside other examples of MPs being placed in executive roles - a practice the OECD had separately urged Malta to stop in October 2023, warning it 'fundamentally undermines the accountability role of parliament.'"
+      },
+      "bio_sources": {
+        "Hon. Chris Agius MP": "https://yachtingmalta.org/press-releases/hon-chris-agius-appointed-yachting-malta-chairman/"
+      }
     },
     "Malta International Airport plc (one Government representative)": {
       "chairman": "Mr Nikolaus Gretzmacher",
@@ -5983,23 +5990,30 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific bureau in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Malta Air Traffic Services Ltd": {
+      "ceo": "Mr Claude Mallia",
+      "website": "-",
       "ministry": "Sustainable Mobility (MSM)",
+      "source": "https://whoswho.mt/en/malta-air-traffic-services-ltd-appoints-claude-mallia-to-chief-executive-officer-position",
+      "note": "Appointed CEO January 2022, succeeding Dr Ing Kenneth Chircop (CEO since 2016, and the same Kenneth Chircop already recorded in this project as Chairman of the Board of Engineers and Aviation and Aerospace Board). Mallia is an Architect and Civil Engineer, and was previously Chairman of the Planning Commission Board (Nov 2020-Jan 2022) before this appointment. Not independently reconfirmed as still current beyond the original January 2022 appointment.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Claude Mallia": "Chief Executive Officer of Malta Air Traffic Services Ltd (MATS), appointed January 2022, succeeding Dr Ing Kenneth Chircop. An Architect and Civil Engineer by profession, previously Chairman of the Planning Commission Board from November 2020 until his MATS appointment; his resignation from that role was not linked to any conflict of interest."
+      },
+      "bio_sources": {
+        "Mr Claude Mallia": "https://whoswho.mt/en/malta-air-traffic-services-ltd-appoints-claude-mallia-to-chief-executive-officer-position"
+      }
     },
     "Airport Charges Regulatory Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Airport Scheduling Committee": {
@@ -6007,7 +6021,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Airport Users Committee": {
@@ -6015,7 +6029,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Aviation Advisory Committee": {
@@ -6023,7 +6037,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Consultative Committee on Sustainable Mobility": {
@@ -6031,7 +6045,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Controlled Vehicular Access Board": {
@@ -6039,7 +6053,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Controlled Vehicular Access Contestation Board": {
@@ -6047,7 +6061,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Malta Road Safety Council": {
@@ -6055,7 +6069,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found despite being an active public-facing body.",
       "no_info_found": true
     },
     "Maritime Safety and Pollution Prevention Committee": {
@@ -6063,7 +6077,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Maritime Security Committee": {
@@ -6071,7 +6085,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from a former Deputy Chairperson role recorded for a Permanent Secretary in earlier research - no current named chairperson found.",
       "no_info_found": true
     },
     "Mooring Services Board": {
@@ -6079,7 +6093,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Pilotage Board": {
@@ -6087,7 +6101,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Port Workers Board": {
@@ -6095,7 +6109,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Port Workers Medical Board": {
@@ -6103,7 +6117,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Port Workers Pension and Contingency Fund Committee": {
@@ -6111,7 +6125,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Malta Information Technology Agency": {
