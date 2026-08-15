@@ -2679,12 +2679,18 @@
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Dr Ivan Sammut": "Chairman of the Copyright Board, the statutory body established under Article 45 of the Copyright Act responsible for authorising and regulating Collecting Societies in Malta and approving their royalty tariffs. Also serves as Chairperson of the Tourism Appeals Board under the Ministry for Tourism."
+        "Dr Ivan Sammut": "Chairman of the Copyright Board, the statutory body established under Article 45 of the Copyright Act responsible for authorising and regulating Collecting Societies in Malta and approving their royalty tariffs. Also serves as Chairperson of the Tourism Appeals Board under the Ministry for Tourism.",
+        "Mr Frederick Cutajar": "Member of the Copyright Board, confirmed via the Commerce Department's own Boards and Committees page. One further Member seat and the Secretary role are listed as currently vacant on the Board's official page."
       },
       "bio_sources": {
-        "Dr Ivan Sammut": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/"
+        "Dr Ivan Sammut": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/",
+        "Mr Frederick Cutajar": "https://commerce.gov.mt/en/boards-and-committees/"
       },
-      "website": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/"
+      "website": "https://commerce.gov.mt/en/industrial-property-registrations-directorate/copyright-board/",
+      "board_members": [
+        "Mr Frederick Cutajar"
+      ],
+      "note": " Board expanded via Nimble deep-extract: one Member (Frederick Cutajar) confirmed; a second Member seat and the Secretary role are officially vacant per the Commerce Department's page."
     },
     "Co-Operatives Board": {
       "chairperson": "Joseph Abela",
@@ -2757,13 +2763,30 @@
       "website_note": "Operates as the Kordin Business Incubation Centre (KBIC), managed by Malta Enterprise; no dedicated standalone webpage exists beyond https://maltaenterprise.com/kordin-business-incubation-center, which is a Malta Enterprise sub-page rather than the entity's own site."
     },
     "Licensing Appeals Board (Trading)": {
+      "chairman": "Dr David Camilleri",
+      "board_members": [
+        "Mr Emanuel Zahra",
+        "Mr Malcolm Abdilla"
+      ],
+      "board_secretary": "Ms Claire Decelis",
+      "website": "https://commerce.gov.mt/en/boards-and-committees/",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Individually searched via commerce.gov.mt's Boards and Committees page; no named chairperson found.",
+      "source": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2023/06/GovNotices0606.aspx ; https://commerce.gov.mt/en/boards-and-committees/",
+      "note": "Found via Nimble deep-extract; confirmed via a June 2023 Government Gazette appointment notice and the Commerce Department's own current Boards and Committees page (so still current as of 2026).",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific board."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr David Camilleri": "Chairman of the Trade Licensing Appeals Board, which hears appeals from decisions by the Trade Licensing Unit and Local Councils under the Trade Licensing Act, confirmed via a June 2023 Government Gazette notice and the Commerce Department's own Boards and Committees page.",
+        "Mr Emanuel Zahra": "Member of the Trade Licensing Appeals Board, confirmed via a June 2023 Government Gazette notice.",
+        "Mr Malcolm Abdilla": "Member of the Trade Licensing Appeals Board, confirmed via a June 2023 Government Gazette notice.",
+        "Ms Claire Decelis": "Secretary of the Trade Licensing Appeals Board, confirmed via a June 2023 Government Gazette notice. The same Claire Decelis already recorded as Secretary of the Malta Crafts Foundation's Board of Administrators - a genuine cross-appointment."
+      },
+      "bio_sources": {
+        "Dr David Camilleri": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2023/06/GovNotices0606.aspx",
+        "Mr Emanuel Zahra": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2023/06/GovNotices0606.aspx",
+        "Mr Malcolm Abdilla": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2023/06/GovNotices0606.aspx",
+        "Ms Claire Decelis": "https://www.gov.mt/en/Government/DOI/Government%20Gazette/Government%20Notices/Pages/2023/06/GovNotices0606.aspx"
+      }
     },
     "National FDI Screening Supervisory Board": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
@@ -2936,13 +2959,30 @@
       "website_note": "No official webpage found for this specific tribunal."
     },
     "Auctioneer Board of Examiners": {
+      "chairman": "Mr Renato Vella",
+      "board_members": [
+        "Dr Marion Camilleri",
+        "Dr Noel Camilleri"
+      ],
+      "board_secretary": "Mr Mark Xerri",
+      "website": "https://commerce.gov.mt/en/boards-and-committees/",
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
       "source": "https://commerce.gov.mt/en/boards-and-committees/",
-      "note": "Individually re-searched via commerce.gov.mt's Boards and Committees page, which describes the Board's function (assessing auctioneer licence applicants) but does not name its members.",
+      "note": "Found via Nimble deep-extract of the Commerce Department's own Boards and Committees page - this entity had been marked no-info-found in prior sessions.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific board."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Renato Vella": "Chairman of the Auctioneers Board of Examiners, which assesses applicants for a licence to act as auctioneers in Malta, confirmed via the Commerce Department's own Boards and Committees page.",
+        "Dr Marion Camilleri": "Member of the Auctioneers Board of Examiners, confirmed via the Commerce Department's own Boards and Committees page.",
+        "Dr Noel Camilleri": "Member of the Auctioneers Board of Examiners, confirmed via the Commerce Department's own Boards and Committees page.",
+        "Mr Mark Xerri": "Secretary of the Auctioneers Board of Examiners, confirmed via the Commerce Department's own Boards and Committees page."
+      },
+      "bio_sources": {
+        "Mr Renato Vella": "https://commerce.gov.mt/en/boards-and-committees/",
+        "Dr Marion Camilleri": "https://commerce.gov.mt/en/boards-and-committees/",
+        "Dr Noel Camilleri": "https://commerce.gov.mt/en/boards-and-committees/",
+        "Mr Mark Xerri": "https://commerce.gov.mt/en/boards-and-committees/"
+      }
     },
     "Bank of Valletta (Government representatives)": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
