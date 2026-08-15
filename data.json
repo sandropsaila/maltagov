@@ -4239,10 +4239,27 @@
       }
     },
     "ARMS Ltd": {
+      "chairperson": "Mr Anthony Agius Decelis",
+      "ceo": "Mr George Azzopardi",
+      "board_members": [
+        "Mr Karl Cilia"
+      ],
+      "website": "https://arms.com.mt/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "source": "https://arms.com.mt/en/information/our-company/about-us",
+      "note": "ARMS Ltd is a private limited joint venture between Enemalta and the Water Services Corporation, providing shared billing, metering and customer service infrastructure for utilities. Board Member Karl Cilia is the same person recorded as CEO of the Water Services Corporation - a genuine cross-appointment reflecting WSC's co-ownership of ARMS, consistent with a 2022 Shift News report noting ARMS board members are frequently drawn from Enemalta and WSC's own boards.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://arms.com.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Anthony Agius Decelis": "Chairperson of ARMS Ltd, the joint venture company between Enemalta and the Water Services Corporation providing metering, billing and customer service infrastructure for Malta's utility sector.",
+        "Mr George Azzopardi": "Chief Executive Officer of ARMS Ltd.",
+        "Mr Karl Cilia": "Director on the Board of ARMS Ltd, also serving concurrently as Chief Executive Officer of the Water Services Corporation, one of ARMS's two parent companies."
+      },
+      "bio_sources": {
+        "Mr Anthony Agius Decelis": "https://arms.com.mt/en/information/our-company/about-us",
+        "Mr George Azzopardi": "https://arms.com.mt/en/information/our-company/about-us",
+        "Mr Karl Cilia": "https://arms.com.mt/en/information/our-company/about-us"
+      }
     },
     "Water Services Corporation": {
       "ceo": "Mr Karl Cilia",
@@ -4261,9 +4278,12 @@
     },
     "Regulator for Energy and Water Services": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "website": "https://www.rews.org.mt/",
+      "source": "https://www.ceer.eu/wp-content/uploads/2024/04/C15_NR_Malta_EN.pdf ; https://www.rews.org.mt/",
+      "note": "Structural finding: by law the Authority is composed of a chairman, deputy chairman and five members operating under a Chief Executive, per Malta's national report to CEER (Council of European Energy Regulators). No individually named current chairman, deputy chairman or CEO was found on the Regulator's own site or via news search in this pass - the site describes functions and schemes but not current office-holders by name.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.rews.org.mt/"
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "no_info_found": true
     },
     "WasteServ (Malta) Ltd.": {
       "ceo": "Richard Bilocca",
