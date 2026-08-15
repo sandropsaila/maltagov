@@ -1767,14 +1767,22 @@
       "website": "https://maltaenterprise.com/"
     },
     "Transport Malta": {
-      "chairman": "Michael Callus",
-      "ceo": "Kurt Farrugia",
+      "chairman": "Mr Michael Callus",
+      "ceo": "Mr Leonid McKay",
+      "website": "https://www.transport.gov.mt/",
       "ministry": "Sustainable Mobility (MSM)",
-      "source": "https://www.transport.gov.mt/transport-malta/structure-672",
+      "source": "https://www.independent.com.mt/articles/2026-06-30/local-news/Leonid-McKay-to-be-appointed-Transport-Malta-chief-executive-6736290984 ; https://www.transport.gov.mt/transport-malta/structure-672",
+      "note": "CEO appointment is very recent: McKay took over 3 July 2026, succeeding Kurt Farrugia (who moved to Residenza Malta following the death of Jonathan Cardona). McKay previously led the Housing Authority (2018), the Authority on the Responsible Use of Cannabis (2022), and most recently served as Labour Party CEO before this appointment - a political appointment pattern noted in Newsbook's coverage. Chairman Michael Callus confirmed via Transport Malta's own Structure page.",
       "checked": "2026-08-14",
-      "bio_status": "not yet researched",
-      "note": "Corrects earlier Wikipedia-sourced Joseph Bugeja claim (stale, held role 2019-2022 only)",
-      "website": "https://www.transport.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Michael Callus": "Board Chairman of Transport Malta, as confirmed on the Authority's own Structure page.",
+        "Mr Leonid McKay": "Chief Executive of Transport Malta, appointed 3 July 2026, succeeding Kurt Farrugia. Previously Chief Executive of the Housing Authority from 2018, Executive Chairman of the Authority on the Responsible Use of Cannabis from 2022, then moved to JobsPlus before becoming Labour Party CEO in 2024, a post he held until this appointment. Also has a background as a director of Caritas Malta. Dr Stephanie Bonello was separately appointed to lead implementation of the government's 'Malta in Motion' mass transit plan, a proposed rail line connecting Valletta, the airport, St Paul's Bay, Mater Dei Hospital and Qormi with a projected cost of €2.8 billion."
+      },
+      "bio_sources": {
+        "Mr Michael Callus": "https://www.transport.gov.mt/transport-malta/structure-672",
+        "Mr Leonid McKay": "https://www.independent.com.mt/articles/2026-06-30/local-news/Leonid-McKay-to-be-appointed-Transport-Malta-chief-executive-6736290984"
+      }
     },
     "Malta Tourism Authority (MTA)": {
       "chairman": "Dr Charles Mangion",
@@ -5351,115 +5359,163 @@
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website": "https://yachtingmalta.org/"
+      "website": "https://yachtingmalta.org/",
+      "note": "Re-attempted; no named chairman/CEO confirmed for this specific entity in this pass.",
+      "no_info_found": true
     },
     "Malta International Airport plc (one Government representative)": {
+      "chairman": "Mr Nikolaus Gretzmacher",
+      "ceo": "Mr Alan Borg",
+      "website": "https://www.maltairport.com/",
       "ministry": "Sustainable Mobility (MSM)",
+      "source": "https://maltairport.com/corporate/our-airport/management/ ; https://www.independent.com.mt/articles/2022-12-17/business-news/Malta-International-Airport-Plc-extends-CEO-Alan-Borg-s-xontract-until-2027-6736248279",
+      "note": "MIA is a private plc (majority foreign-owned, listed on the Malta Stock Exchange) on which Government holds one representative seat, per the OAB register entry name - the Chairman and CEO listed here run the company as a whole, not specifically the Government's own nominee, whose individual identity was not separately confirmed. Borg's CEO contract was extended to February 2027; Gretzmacher has chaired the board since 27 November 2013.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.maltairport.com/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Nikolaus Gretzmacher": "Chairman of the Board of Malta International Airport plc since 27 November 2013.",
+        "Mr Alan Borg": "Chief Executive Officer of Malta International Airport plc since February 2015, with his contract extended to February 2027. Joined MIA in 2007 leading airline marketing, later became Chief Commercial Officer and Executive Director in 2012, and oversaw development of the SkyParks Business Centre. Under his leadership, the airport has completed a terminal reconfiguration and continues major investment projects including Apron X, SkyParks 2, and a terminal expansion."
+      },
+      "bio_sources": {
+        "Mr Nikolaus Gretzmacher": "https://maltairport.com/corporate/our-airport/management/",
+        "Mr Alan Borg": "https://maltairport.com/corporate/our-airport/management/"
+      }
     },
     "Bureau of Air Accident Investigation": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific bureau in this check."
+      "website_note": "No official webpage found for this specific bureau in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Air Traffic Services Ltd": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company in this check."
+      "website_note": "No official webpage found for this specific company in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Airport Charges Regulatory Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Airport Scheduling Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Airport Users Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Aviation Advisory Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Consultative Committee on Sustainable Mobility": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Controlled Vehicular Access Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Controlled Vehicular Access Contestation Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Road Safety Council": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "website_note": "No official webpage found for this specific council in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Maritime Safety and Pollution Prevention Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Maritime Security Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Mooring Services Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Pilotage Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Port Workers Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Port Workers Medical Board": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Port Workers Pension and Contingency Fund Committee": {
       "ministry": "Sustainable Mobility (MSM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Information Technology Agency": {
       "ministry": "Office of the Prime Minister (OPM)",
