@@ -3351,34 +3351,47 @@
       "website_note": "No official webpage found for this specific board."
     },
     "National Commission for the Promotion of Equality": {
+      "director": "Ms Renee Laiviera",
+      "website": "https://ncpe.gov.mt/",
       "ministry": "Equality and Civil Rights (MER)",
+      "source": "https://ncpe.gov.mt/about-us/commissioner-profile/ ; https://www.maltatoday.com.mt/news/national/143169/parliament_begins_discussing_new_human_rights_commission ; https://newsbook.com.mt/en/equality-bill-needs-stronger-safeguards-and-independent-oversight-momentum/",
+      "note": "IMPORTANT CURRENCY NOTE: A Bill to replace NCPE with a new 'National Commission for Human Rights and Equality' (NCHRE) was presented for its second reading in Parliament in July 2026 by Equality Minister Rosianne Cutajar, but the Bill collapsed after opposition MPs walked out roughly three weeks before this check, leaving the government short of the two-thirds majority required for the constitutional amendment. NCPE therefore remains the current, active legal body under Chapter 456 (Equality for Men and Women Act) as of this check, with Renee Laiviera continuing as both Commissioner and Acting Executive Director. This entry will need re-checking if the NCHRE Bill is reintroduced and passed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://ncpe.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Renee Laiviera": "Commissioner of the National Commission for the Promotion of Equality (NCPE) and NCPE's Acting Executive Director. Has held management positions in the Malta Public Service since 1998, when she was appointed Director (Women's Rights). Served as Executive Member of the European Women's Lobby and Chairperson of the Malta Confederation of Women's Organisations until May 2013. Honoured with the WEF Award 2021 - Women of the Decade in Gender Equality by the Malta-India Business Council of the Women's Indian Chamber of Commerce & Industry (WICCI). NCPE is legally headed by a Commissioner and seven Commission members under Chapter 456 of the Laws of Malta; a Bill to replace NCPE with a new National Commission for Human Rights and Equality collapsed in Parliament in July 2026."
+      },
+      "bio_sources": {
+        "Ms Renee Laiviera": "https://ncpe.gov.mt/about-us/commissioner-profile/"
+      }
     },
     "Equality and Reforms Awareness amongst Youths Board": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "Commission on Gender-Based Violence and Domestic Violence": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission."
+      "website_note": "No official webpage found for this specific commission.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "Authority on the Responsible Use of Cannabis": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority in this check."
+      "website_note": "No official webpage found for this specific authority in this check.",
+      "note": "Re-attempted under combined website+board workflow: No named chairperson/CEO confirmed for this specific authority in this check, despite it being an active regulatory body (ARUC)."
     },
     "Inter-ministerial Committee on Trafficking in Human Beings": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "Consultative Council for Women's Rights": {
       "ministry": "Equality and Civil Rights (MER)",
@@ -3390,31 +3403,36 @@
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "LGBTIQ Consultative Council": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow: The Council is administered by the Human Rights Directorate (humanrights.gov.mt); a 2020 news item names Clifford Galea Vella as chair at that time, but this could not be confirmed as still current, so no name was recorded to avoid presenting stale information as current."
     },
     "Board on Reforms and Human Rights": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "I Belong Appeals Board": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "Integration and Anti-Racism Consultative Council (IARCC)": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
     },
     "Local Governance Board": {
       "ministry": "Local Government and Public Works (MLGP)",
@@ -5239,6 +5257,12 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board."
+    },
+    "Consultative Council for Women's Rights (CCWR)": {
+      "ministry": "Equality and Civil Rights (MER)",
+      "checked": "2026-08-14",
+      "note": "Re-attempted under combined website+board workflow: Established November 2017; no current (2025/2026) named chairperson could be confirmed despite the Council being referenced in a 2023 UN report as active.",
+      "bio_status": "SEARCHED - NO INFO FOUND"
     }
   },
   "updated": "13 Aug 2026 (Batch 5/5 FINAL: OPSA (Attard upgraded to confirmed, Vella, Meli), MTA (Rita Vella, Romina Fenech - cross-confirmed via parliamentary filing), ITS (Vassallo) -- full 64-person register bio pass complete)"
