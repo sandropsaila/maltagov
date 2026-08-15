@@ -4507,16 +4507,40 @@
     },
     "Accountancy Board": {
       "chairman": "Edgar Borg",
+      "board_members": [
+        "Professor Peter J. Baldacchino",
+        "Mr David Demarco",
+        "Mr Luke Coppini",
+        "Professor Lauren Ellul",
+        "Ms Marlene Mizzi",
+        "Ms Lorraine Vella"
+      ],
+      "board_secretary": "Mr Joseph Schembri-Kamm",
       "website": "https://accountancyboard.gov.mt/",
       "ministry": "Finance (MFF)",
-      "source": "https://accountancyboard.gov.mt/News/NewsDetail.aspx?newsid=51",
+      "source": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx ; https://accountancyboard.gov.mt/News/NewsDetail.aspx?newsid=50",
+      "note": "Full board composition sourced directly from the Board's own 'About Us' page, which explicitly states these appointments are valid for one year with effect from 28 October 2025 - one of the most precisely-dated appointment records found in this project. A 2025 Annual Report was also published (23 March 2026) but the About page is more current for board composition. Notably, Professor Peter J. Baldacchino and Professor Lauren Ellul also sit on the Board of Directors of the Central Bank of Malta, per prior research in this project - a genuine cross-appointment, not a coincidence of common names, since both bios independently list Central Bank directorships.",
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED",
       "bios": {
-        "Edgar Borg": "Chairman of the Accountancy Board, the statutory body established under the Accountancy Profession Act (Cap. 281) in 1979 to regulate the accountancy and auditing profession in Malta. Confirmed via an April 2026 joint conference announcement with the Malta Institute of Accountants (MIA), where he opened proceedings alongside MIA CEO Maria Cauchi Delia and MIA President Dr Jonathan Dingli."
+        "Edgar Borg": "Chairman of the Accountancy Board, the statutory body established under the Accountancy Profession Act (Cap. 281) in 1979 to regulate the accountancy and auditing profession in Malta. Holds FCCA, FIA and CPA qualifications. Confirmed via the Board's own official 'Present Members' page, with the current appointment valid for one year from 28 October 2025. Also opened an April 2026 joint conference with the Malta Institute of Accountants (MIA) alongside MIA CEO Maria Cauchi Delia and MIA President Dr Jonathan Dingli.",
+        "Professor Peter J. Baldacchino": "Member of the Accountancy Board, appointed for the term from 28 October 2025. Holds a PhD and M.Phil from Loughborough University, and is a Fellow of the Chartered Association of Certified Accountants (FCCA), Fellow of the Institute of Accountants (FIA), and Certified Public Accountant (CPA). Also serves as a Director on the Board of the Central Bank of Malta.",
+        "Mr David Demarco": "Member of the Accountancy Board, appointed for the term from 28 October 2025. Holds a B.A. (Hons) in Accountancy and an MBA, and is an Associate of the Chartered Institute of Bankers (ACIB), Fellow of the Institute of Accountants (FIA), and Certified Public Accountant (CPA).",
+        "Mr Luke Coppini": "Member of the Accountancy Board, appointed for the term from 28 October 2025. Fellow of the Chartered Association of Certified Accountants (FCCA), Fellow of the Institute of Accountants (FIA), and Certified Public Accountant (CPA).",
+        "Professor Lauren Ellul": "Member of the Accountancy Board, appointed for the term from 28 October 2025. Holds a B.Accty (Hons), an Executive MBA jointly from the University of Edinburgh and ENPC, a PhD from the University of Birmingham, and is a Fellow of the Institute of Accountants (FIA) and Certified Public Accountant (CPA). Also serves as a Director on the Board of the Central Bank of Malta.",
+        "Ms Marlene Mizzi": "Member of the Accountancy Board, appointed for the term from 28 October 2025. Holds a BA (Hons) in Economics and an M.Phil from Maastricht University. Previously a Member of the European Parliament for Malta (2014-2019) with the S&D Group.",
+        "Ms Lorraine Vella": "Member of the Accountancy Board, appointed for the term from 28 October 2025. A Certified Public Accountant (CPA).",
+        "Mr Joseph Schembri-Kamm": "Secretary of the Accountancy Board, appointed for the term from 28 October 2025. Holds an MSc in Health Science, a Postgraduate Diploma in Management, and a Diploma in Adult Training & Development."
       },
       "bio_sources": {
-        "Edgar Borg": "https://accountancyboard.gov.mt/News/NewsDetail.aspx?newsid=51"
+        "Edgar Borg": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Professor Peter J. Baldacchino": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Mr David Demarco": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Mr Luke Coppini": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Professor Lauren Ellul": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Ms Marlene Mizzi": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Ms Lorraine Vella": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx",
+        "Mr Joseph Schembri-Kamm": "https://accountancyboard.gov.mt/About/AccountancyBoard.aspx"
       }
     },
     "Airmalta": {
