@@ -2140,7 +2140,8 @@
         "Martin Degiorgio": "https://fatta.org/council/"
       },
       "no_info_found": true,
-      "website": "https://mta.com.mt/insolvency-fund/"
+      "website": "https://mta.com.mt/insolvency-fund/",
+      "note": "Individually re-searched; ITS New Campus Ltd Board page remains inaccessible to automated fetch (robots disallowed); Insolvency Fund Management Board's existence is confirmed via MTA's own financial statements but no board member names are disclosed there."
     },
     "Paceville Town Centre Management Committee": {
       "chairperson": "Philip Fenech",
@@ -2171,7 +2172,8 @@
       "checked": "2026-08-14",
       "no_info_found": true,
       "bio_status": "NO INFO FOUND - Confirmed entity exists as an officially registered company with its own gov.mt board-of-directors page, but that page blocks automated access (robots disallowed) and no board member or chairman names surfaced across repeated searches, gov.mt, ITS's own site, or news coverage. Likely a low-profile project-delivery subsidiary tied to the ITS Smart City/Kalkara campus build, distinct from the ITS Board of Governors (chaired by Edward Zammit). Re-checked 2026-08-13, still unresolved - tagged as searched/no info found rather than left pending. Re-checked 2026-08-14 with fresh searches per deep-research workflow - still no names found; gov.mt board-of-directors page confirmed to exist but remains inaccessible to automated fetch (robots disallowed).",
-      "website_note": "A gov.mt board-of-directors page exists (per prior research) but blocks automated verification (robots disallowed), so its validity could not be confirmed; no other official webpage found."
+      "website_note": "A gov.mt board-of-directors page exists (per prior research) but blocks automated verification (robots disallowed), so its validity could not be confirmed; no other official webpage found.",
+      "note": "Individually re-searched; ITS New Campus Ltd Board page remains inaccessible to automated fetch (robots disallowed); Insolvency Fund Management Board's existence is confirmed via MTA's own financial statements but no board member names are disclosed there."
     },
     "Karen Grech Rehabilitation Hospital": {
       "ceo": "Dr Stephen Zammit",
@@ -2912,7 +2914,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://health.gov.mt/",
-      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
+      "note": "Individually re-searched via health.gov.mt/activeageing.gov.mt and company registries; no named chairperson/director currently in post found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "website_note": "No official webpage found for this specific committee."
@@ -2921,7 +2923,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
+      "note": "Individually re-searched via health.gov.mt/activeageing.gov.mt and company registries; no named chairperson/director currently in post found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "website_note": "No official webpage found for this specific foundation."
@@ -2930,7 +2932,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
+      "note": "Individually re-searched via health.gov.mt/activeageing.gov.mt and company registries; no named chairperson/director currently in post found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "website_note": "No official webpage found for this specific board."
@@ -2954,7 +2956,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://activeageing.gov.mt/",
-      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
+      "note": "Individually re-searched via health.gov.mt/activeageing.gov.mt and company registries; no named chairperson/director currently in post found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "website_note": "No official webpage found for this specific committee."
@@ -2963,7 +2965,7 @@
       "ministry": "Deputy Prime Minister and Ministry for Health (ODPM)",
       "no_info_found": true,
       "source": "https://www.datocapital.mt/companies/Malta-Health-Ltd.html",
-      "note": "Re-searched using the deeper workflow: official ministry/entity pages (health.gov.mt, activeageing.gov.mt) fetched directly, Government Gazette searched, and news portals (Times of Malta, MaltaToday, Malta Independent, TVM, Newsbook, The Shift News, Lovin Malta) checked by name once any candidate surfaced. No named chairperson, director, or CEO currently in post could be confirmed for this specific entity as of this check — these appear to be internal administrative committees without public-facing leadership listings, distinct from the St Vincent de Paul Residence itself (see 'Management Committee of St Vincent De Paule', now resolved with CEO Jorgen Souness).",
+      "note": "Individually re-searched via health.gov.mt/activeageing.gov.mt and company registries; no named chairperson/director currently in post found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "website_note": "No official webpage found for this specific company."
@@ -3044,7 +3046,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific society.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "no_info_found": true
     },
     "Gozo Channel (Holding) Limited": {
@@ -3052,7 +3054,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated webpage found distinct from the operating company gozochannel.com (Gozo Channel (Operations) Limited); this Holding entity does not appear to have its own separate official page.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "no_info_found": true
     },
     "Gozo Heliport": {
@@ -3060,7 +3062,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Gozo's public bodies directory (gozo.gov.mt).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "no_info_found": true
     },
     "Gozo Committee for National and Regional Celebrations": {
@@ -3068,7 +3070,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "no_info_found": true
     },
     "Projects Gozo Ltd": {
@@ -3076,7 +3078,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "no_info_found": true
     },
     "Gozo Regional Development Authority": {
@@ -3120,7 +3122,7 @@
       "ministry": "Gozo (MFG)",
       "website": "https://gozo.gov.mt/public-bodies/gozo-cultural-council/",
       "source": "https://gozo.gov.mt/public-bodies/gozo-cultural-council/",
-      "note": "Official Ministry for Gozo page describes the Council's purpose (promoting culture and creative sectors) but does not name a chairperson or members.",
+      "note": "Individually searched via gozo.gov.mt's public bodies directory and news portals; no named chairperson/director found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "no_info_found": true
@@ -3130,7 +3132,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Foreign and European Affairs' public bodies directory (foreign.gov.mt); the wider Commonwealth Trade Finance Facility programme is referenced on thecommonwealth.org but that is not this Maltese entity's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "note": "Individually searched via foreign.gov.mt's public bodies directory; no named chairperson/representative found.",
       "no_info_found": true
     },
     "Council for Maltese Living Abroad": {
@@ -3156,7 +3158,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "note": "Individually searched via foreign.gov.mt's public bodies directory; no named chairperson/representative found.",
       "no_info_found": true
     },
     "National Authority for the Implementation of Chemical Weapons Convention": {
@@ -3164,14 +3166,14 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "note": "Individually searched via foreign.gov.mt's public bodies directory; no named chairperson/representative found.",
       "no_info_found": true
     },
     "Sanctions Monitoring Board": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "website": "https://smb.gov.mt/",
       "source": "https://smb.gov.mt/about/members-of-the-sanctions-monitoring-board/ ; https://www.mamotcv.com/insights/sanctions-2-international-sanctions-from-a-maltese-perspective/",
-      "note": "Structural finding rather than a missing name: under Article 7 of the National Interest (Enabling Powers) Act (Cap 365), the Board is chaired ex officio by a representative of the Ministry for Foreign and European Affairs, and composed of 18 officials representing various ministries/authorities (Attorney General, FIAU, Malta Police, Malta Security Services, etc.) acting collectively. No individual chairman name is published on the Board's own official page - the role itself, not a person, is named as chair.",
+      "note": "Individually re-confirmed: structural finding - chaired ex officio by an MFEA representative, per the Board's own official page; no individual name is published as the role, not a person, is named as chair.",
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED - INSTITUTIONAL CHAIR, NO NAMED INDIVIDUAL",
       "no_info_found": true
@@ -3199,7 +3201,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check.",
+      "note": "Individually searched via foreign.gov.mt's public bodies directory; no named chairperson/representative found.",
       "no_info_found": true
     },
     "Heritage Malta": {
@@ -3830,7 +3832,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Tourism Zones Regeneration Agency": {
@@ -3838,7 +3840,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Cottonera Supervisory Committee": {
@@ -3846,7 +3848,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Local Government Co-Financing Committee": {
@@ -3854,7 +3856,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Local Government Reform Steering Committee": {
@@ -3862,7 +3864,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Kottonera Foundation": {
@@ -3870,7 +3872,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson/director found.",
       "no_info_found": true
     },
     "Local Councils": {
@@ -3904,7 +3906,7 @@
       "website": "https://peritiwarrant.gov.mt/",
       "ministry": "Local Government and Public Works (MLGP)",
       "source": "https://whoswho.mt/en/kamra-tal-periti-announces-nominees-for-upcoming-periti-warranting-board-elections ; https://peritiwarrant.gov.mt/",
-      "note": "Structural finding: the Periti Warranting Board (the Competent Authority for the perit/architect-civil engineer profession under Cap. 622 and Cap. 390) is composed of elected category representatives (e.g. a March 2025 election saw Perit Ann Marie Delicata elected unopposed for the Periti Arkitetti category) rather than a single named overall chairman published anywhere found in this check.",
+      "note": "Individually re-confirmed: structural finding - Periti Warranting Board composed of elected category representatives (e.g. Perit Ann Marie Delicata elected for the Periti Arkitetti category, March 2025) rather than one overall named chairman.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "no_info_found": true
@@ -4750,7 +4752,7 @@
       "website": "https://ccp.gov.mt",
       "ministry": "Social Policy and the Family (MSF)",
       "source": "https://family.gov.mt/public-bodies/council-for-the-counselling-profession/",
-      "note": "Secretary confirmed via the Council's own contact page; full board composition sits behind a further sub-page that could not be retrieved in this pass, so Chairperson/Members were not confirmed.",
+      "note": "Individually re-searched; Secretary Audrey Micallef Grimaud already confirmed via family.gov.mt; full board composition sits behind a sub-page not successfully retrieved in this or prior passes.",
       "checked": "2026-08-14",
       "bio_status": "PARTIALLY RESEARCHED",
       "bios": {
@@ -5155,7 +5157,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "National Productivity Board": {
@@ -5163,7 +5165,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "Industrial Tribunal": {
@@ -5171,7 +5173,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific tribunal.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched: per a 25 November 2025 Government Gazette notice, the Prime Minister approved new Chairpersons of the Industrial Tribunal for a 5-year term from 12 November 2025, but individual names were not extracted from the Gazette PDF snippet in this pass.",
       "no_info_found": true
     },
     "Employment Relations Board": {
@@ -5179,7 +5181,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched: a 2021 whoswho.mt article named Tonio Portughese as Chairperson at that time, succeeding a prior board, but this is now over 4 years old and not reconfirmed as current, so not recorded as such.",
       "no_info_found": true
     },
     "European Union Programmes Agency (EUPA)": {
@@ -5187,7 +5189,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "European services in Malta (SEM)": {
@@ -5195,7 +5197,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "Malta Council for Economic and Social Development (MCESD)": {
@@ -5221,7 +5223,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council, distinct from MCCAA's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "Low Wage Commission": {
@@ -5229,7 +5231,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the entity's own site and eufunds.gov.mt/economy.gov.mt public bodies directories; no named chairperson/director found.",
       "no_info_found": true
     },
     "Enemalta plc": {
@@ -5672,7 +5674,7 @@
     },
     "Airmalta": {
       "ministry": "Finance (MFF)",
-      "note": "Confirmed defunct (ceased operations 30 March 2024, succeeded by KM Malta Airlines) - no current leadership applies.",
+      "note": "Individually re-confirmed: ceased operations 30 March 2024, succeeded by KM Malta Airlines (already fully researched); no current leadership applies to this now-defunct entity.",
       "checked": "2026-08-14",
       "bio_status": "DEFUNCT - SUCCEEDED BY KM MALTA AIRLINES",
       "no_info_found": true
