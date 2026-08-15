@@ -3982,7 +3982,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific office.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Housing Projects Solutions": {
@@ -3990,7 +3990,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "Land Registration Agency": {
@@ -3998,7 +3998,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the Agency's own lra.mt site; describes function (registration of property in Designated Registration Areas) but does not name a current director.",
       "no_info_found": true
     },
     "Rent Compensation Board": {
@@ -4006,23 +4006,30 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Malita Investments plc": {
+      "ceo": "Ms Jennifer Falzon",
+      "website": "-",
       "ministry": "Accommodation and Lands (MAL)",
+      "source": "https://housingcoop.eu/resources/countries-in-europe/malta",
+      "note": "Jennifer Falzon leads Malita's large-scale affordable housing developments, financed with substantial European Investment Bank support, targeting delivery of 752 apartments by 2026 across ten locations.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Jennifer Falzon": "Chief Executive of Malita Investments plc, leading large-scale affordable housing developments targeting low- and middle-income residents. Malita's projects are financed with substantial support from the European Investment Bank, including a broader programme to deliver 752 apartments by 2026 across ten locations, and a €40 million, 267-unit development in Ħal Farruġ."
+      },
+      "bio_sources": {
+        "Ms Jennifer Falzon": "https://housingcoop.eu/resources/countries-in-europe/malta"
+      }
     },
     "Foundation for Affordable Housing": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific foundation.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the Foundation's own affordablehousing.mt site; describes its establishment (Jan 2022, joint venture between the Government and the Archdiocese of Malta) but does not name a current director/chairperson.",
       "no_info_found": true
     },
     "Private Residential Leases - Adjudication Panel": {
@@ -4030,7 +4037,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific panel.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named panel members found.",
       "no_info_found": true
     },
     "Allocations and Ad Hoc Committee": {
@@ -4038,7 +4045,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Housing Development Fund Board": {
@@ -4046,7 +4053,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Land Registration Agency Consultative Council": {
@@ -4054,7 +4061,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via the Council's own gov.mt Officially Appointed Bodies page; no named chairperson found.",
       "no_info_found": true
     },
     "Revisory Committee (Housing Authority)": {
@@ -4062,7 +4069,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found, distinct from the Housing Authority's own board (already fully researched).",
       "no_info_found": true
     },
     "Identity Malta Agency": {
@@ -4808,7 +4815,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Fisheries Board": {
@@ -4816,14 +4823,14 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched: per the Fisheries Conservation and Management Act, the Board is chaired ex officio by the Director of the Department of Fisheries and Aquaculture, rather than a separately named political appointee - a structural finding, but the Director's specific current name was not identified in this pass.",
       "no_info_found": true
     },
     "Malta Food Agency (MFA)": {
       "website": "https://foodagency.mt/",
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "source": "https://foodagency.mt/about/",
-      "note": "A CEO name (Brian Vella) surfaced only via a RocketReach aggregator listing, not corroborated by the Agency's own site or any news portal - per this project's standing rule not to rely on aggregator sites as final answers, this name was NOT recorded as confirmed.",
+      "note": "Individually re-searched; no named CEO/director found via foodagency.mt or any news portal.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - AGGREGATOR-ONLY LEAD, NOT CONFIRMED",
       "no_info_found": true
@@ -4833,7 +4840,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named directors found (also referenced as 'Riżorsi Agrikoli Malta' on mafa's own ministry page).",
       "no_info_found": true
     },
     "Traditional Agro-Food Products of Malta Board": {
@@ -4841,7 +4848,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Wine Regulation Board": {
@@ -4849,7 +4856,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Agriculture and Rural Payments Agency": {
@@ -4857,7 +4864,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named directors found.",
       "no_info_found": true
     },
     "Malta Agricultural Consultative Council": {
@@ -4865,7 +4872,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Veterinary Surgeons Council": {
@@ -4873,7 +4880,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Aquatic Resources Malta": {
@@ -4881,14 +4888,14 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named directors found.",
       "no_info_found": true
     },
     "Food Safety and Security Authority": {
       "website": "https://ahwd.gov.mt/en/fssa-about/",
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "source": "https://www.independent.com.mt/articles/2025-04-14/local-news/Government-to-set-up-Food-Safety-and-Security-Authority-6736269380 ; https://primeminister.gov.mt/latest-news/pr251801/",
-      "note": "Genuinely new entity, not a search gap: officially launched October 2025 under the Food Safety and Security Authority Act 2025, consolidating food-safety functions previously split across 3 ministries and 11 departments/agencies. At launch, Agriculture Minister Anton Refalo stated a CEO 'will be appointed transparently after a public call' - no CEO had been named as of the launch, and none was confirmed as appointed by this check. The European Food Safety Authority (EFSA) publicly commended the Authority's creation.",
+      "note": "Individually re-confirmed; still newly established (Oct 2025) with no CEO appointed as of this check, per prior research.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NEWLY ESTABLISHED, NO CEO APPOINTED YET",
       "no_info_found": true
@@ -4898,7 +4905,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Producer Organisations Board": {
@@ -4906,7 +4913,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Agency for the Welfare of Asylum Seekers (AWAS)": {
