@@ -3231,19 +3231,48 @@
       "ceo": "Mr Noel Zammit",
       "website": "https://heritagemalta.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
-      "source": "https://maltaceos.mt/heritage-malta-ceo-noel-zammit-on-reimagining-cultural-heritage-as-a-strategic-national-asset/ ; https://heritagemalta.mt/about/meet-the-team/ ; https://www.maltatoday.com.mt/news/national/138711/republic_day_2025__honours_and_awards",
-      "note": "In post since 2017, confirmed extremely current via a June 2026 MaltaCEOs profile discussing plans for the Malta Biennale 2026. Chairperson name not identified in this pass - a separate October 2025 Shift News item referenced 'The Chairperson of Heritage Malta, Mario Cutajar' taking a leave of absence, but this was not independently corroborated as still accurate, so not recorded as confirmed. Chairman Mario Cutajar confirmed via a December 2025 Republic Day awards report, resolving a prior unconfirmed reference to him in this role from October 2025 Shift News coverage.",
+      "source": "https://maltaceos.mt/heritage-malta-ceo-noel-zammit-on-reimagining-cultural-heritage-as-a-strategic-national-asset/ ; https://heritagemalta.mt/about/meet-the-team/ ; https://www.maltatoday.com.mt/news/national/138711/republic_day_2025__honours_and_awards ; https://gpdnet.org/heritage-malta/",
+      "note": "In post since 2017, confirmed extremely current via a June 2026 MaltaCEOs profile discussing plans for the Malta Biennale 2026. Chairperson name not identified in this pass - a separate October 2025 Shift News item referenced 'The Chairperson of Heritage Malta, Mario Cutajar' taking a leave of absence, but this was not independently corroborated as still accurate, so not recorded as confirmed. Chairman Mario Cutajar confirmed via a December 2025 Republic Day awards report, resolving a prior unconfirmed reference to him in this role from October 2025 Shift News coverage. Full board (5-9 members per the Cultural Heritage Act, including a Gozo ministry nominee) confirmed via a directory citation of Heritage Malta's own 'Meet the Team' page.",
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED",
       "bios": {
         "Mr Noel Zammit": "Chief Executive Officer of Heritage Malta, the national agency for museums, conservation practice and cultural heritage sites, in post since 2017 having climbed through IT, finance, marketing and business development roles. Leading the organisation of the Malta Biennale 2026, bringing contemporary art into historic spaces. Has partnered with MCAST to reinstate a conservation degree course with guaranteed employment on completion, addressing a chronic shortage of specialist conservators, IT engineers and skilled tradespeople in the heritage sector.",
-        "Mr Mario Cutajar": "Chairman of Heritage Malta, confirmed via a December 2025 MaltaToday report on the Republic Day 2025 honours ceremony. Former Head of the Civil Service / Principal Permanent Secretary of Malta for a decade under the Muscat and early Abela administrations, a tenure marked by significant influence over public appointments across government boards."
+        "Mr Mario Cutajar": "Chairman of Heritage Malta, confirmed via a December 2025 MaltaToday report on the Republic Day 2025 honours ceremony. Former Head of the Civil Service / Principal Permanent Secretary of Malta for a decade under the Muscat and early Abela administrations, a tenure marked by significant influence over public appointments across government boards.",
+        "Ms Antoinette Caruana": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Jorge Grech": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Charles Hili": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Demi Agius": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Prof JoAnn Cassar": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Leanne Abela Grech": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Etienne Schembri": "Board Member of Heritage Malta, as listed on the Agency's official Meet the Team page (via GPDnet directory citation). No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Anthony Scicluna": "Deputy Chairman of Heritage Malta, as listed on the Agency's official Meet the Team page.",
+        "Ms Michelle Delceppo": "Board Secretary of Heritage Malta, as listed on the Agency's official Meet the Team page."
       },
       "bio_sources": {
         "Mr Noel Zammit": "https://maltaceos.mt/heritage-malta-ceo-noel-zammit-on-reimagining-cultural-heritage-as-a-strategic-national-asset/",
-        "Mr Mario Cutajar": "https://www.maltatoday.com.mt/news/national/138711/republic_day_2025__honours_and_awards"
+        "Mr Mario Cutajar": "https://www.maltatoday.com.mt/news/national/138711/republic_day_2025__honours_and_awards",
+        "Ms Antoinette Caruana": "https://gpdnet.org/heritage-malta/",
+        "Mr Jorge Grech": "https://gpdnet.org/heritage-malta/",
+        "Mr Charles Hili": "https://gpdnet.org/heritage-malta/",
+        "Dr Demi Agius": "https://gpdnet.org/heritage-malta/",
+        "Prof JoAnn Cassar": "https://gpdnet.org/heritage-malta/",
+        "Ms Leanne Abela Grech": "https://gpdnet.org/heritage-malta/",
+        "Mr Etienne Schembri": "https://gpdnet.org/heritage-malta/",
+        "Mr Anthony Scicluna": "https://gpdnet.org/heritage-malta/",
+        "Ms Michelle Delceppo": "https://gpdnet.org/heritage-malta/"
       },
-      "chairman": "Mr Mario Cutajar"
+      "chairman": "Mr Mario Cutajar",
+      "deputy_chairman": "Mr Anthony Scicluna",
+      "board_members": [
+        "Ms Antoinette Caruana",
+        "Mr Jorge Grech",
+        "Mr Charles Hili",
+        "Dr Demi Agius",
+        "Prof JoAnn Cassar",
+        "Ms Leanne Abela Grech",
+        "Mr Etienne Schembri"
+      ],
+      "board_secretary": "Ms Michelle Delceppo"
     },
     "National Archives": {
       "director": "Prof. Charles J. Farrugia",
