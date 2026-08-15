@@ -2976,10 +2976,18 @@
       "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Youth Agency": {
+      "ceo": "Miriam Teuma",
+      "website": "https://youth.gov.mt/",
       "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
+      "source": "https://youthdemocracycohort.com/stories/malta-youth-political-participation/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://youth.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Miriam Teuma": "Chief Executive Officer of Malta's National Youth Agency (Aġenzija Żgħażagħ), established in February 2011 to implement and coordinate Malta's National Youth Policy (2021-2030). Has stressed the importance of engaging young people as key stakeholders in the country's political, economic and social development."
+      },
+      "bio_sources": {
+        "Miriam Teuma": "https://youthdemocracycohort.com/stories/malta-youth-political-participation/"
+      }
     },
     "Gozo Agricultural, Cultural and Industrial Society": {
       "ministry": "Gozo (MFG)",
@@ -3017,10 +3025,41 @@
       "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Gozo Regional Development Authority": {
+      "chairperson": "Mr Michael Grech",
+      "deputy_chairperson": "Ms Charlene Xerri Gatt",
+      "ceo": "Mr Ivan Falzon",
+      "board_members": [
+        "Mr John Borg",
+        "Mr Daniel Borg",
+        "Dr Samuel Azzopardi",
+        "Mr Anthony Bezzina"
+      ],
+      "board_secretary": "Ms Marica Sultana",
+      "website": "https://grda.mt/",
       "ministry": "Gozo (MFG)",
+      "source": "https://grda.mt/about/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://grda.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Michael Grech": "Chairperson of the Gozo Regional Development Authority (GRDA). Has worked in financial services for over four decades, starting his career at Mid-Med Bank Ltd before setting up his own private company. Currently a Director on the Board of Malta Enterprise, Director on the Board of JobsPlus, and Member of the Supervisory Council of the Malta Community Chest Fund; also Chairman of the Victoria Scout Group. Previously served as President of the Gozo Business Chamber (4 years), Chairman of the Gozo Regional Committee (4 years), Member of the Malta Council for Economic and Social Development (4 years), and Senior Vice President of INSULEUR, the association of island-region chambers of commerce of the EU.",
+        "Ms Charlene Xerri Gatt": "Vice Chairperson of the Gozo Regional Development Authority (GRDA). Gained First Class Honours in Criminology from the University of Malta in 2008. Works as a real estate professional, having received multiple industry awards, and leads and trains her team in client transactions.",
+        "Mr Ivan Falzon": "Chief Executive Officer of the Gozo Regional Development Authority (GRDA), appointed May 2025, succeeding Mario Borg, who moved to become Permanent Secretary within the Ministry for Gozo and Planning. Most recently served as CEO of Infrastructure Malta, and previously as CEO of the Water Services Corporation and of Mater Dei Hospital. Minister for Gozo and Planning Clint Camilleri and GRDA Chairman Michael Grech both welcomed the appointment, citing his track record in public sector leadership.",
+        "Mr John Borg": "Member of the Gozo Regional Development Authority (GRDA) board. Studied at St Aloysius' College and graduated from the University of Malta with a B.A. (Hons) in Public Administration. Joined the Public Service in 1986; held roles including Director (People Management and Support Services) within the Ministry for Resources and Infrastructure, and was appointed Permanent Secretary at the Ministry for Tourism, Culture and Local Government in March 2013, then at the Ministry for Gozo in April 2014, and reconfirmed there as the Ministry for Gozo and Planning in January 2024. Retired from the Public Service in June 2025. Represented Malta at EU Conference of Peripheral Maritime Regions meetings and addressed the World Urban Forum in Cairo in 2024.",
+        "Mr Daniel Borg": "Member of the Gozo Regional Development Authority (GRDA) board. Graduated with a Bachelor of Commerce (Honours) in Public and Private Sector Administration (2004) and a Master of Arts in Public Policy (2013) from the University of Malta. Prior to becoming CEO of the Gozo Business Chamber, held posts including research analyst within the Office of the Prime Minister's Management Efficiency Unit (2004-2006), Policy Analyst at the Malta Communications Authority (2006-2011), and Policy/Senior Policy Analyst within the Ministry for Gozo (2011-2019). Visiting lecturer in Public Management at the University of Malta (2014-2017); publishes on cultural heritage and tourism in academic journals.",
+        "Dr Samuel Azzopardi": "Member of the Gozo Regional Development Authority (GRDA) board. A lawyer specialising in financial services. President of Reġjun Għawdex, member of the Committee of the Regions and political coordinator for the European People's Party in the Committee's NAT commission. Also Vice-President of the Local Councils' Association and President of the Gozo Football Association.",
+        "Mr Anthony Bezzina": "Member of the Gozo Regional Development Authority (GRDA) board. Spent 43 years in banking (Mid-Med Bank 1975-1998, Lombard Bank 1998-2017), including six years as Lombard's Chief Officer for Gozo affairs; elected Associate of the Chartered Institute of Bankers of London in 1981. Part-time banking lecturer at Sir Michelangelo Refalo Sixth Form School (1988-2001). Since 2018 a non-executive director at Michael Grech Financial Investment Services, and Office Manager at the Gozo Curia. Active on several community and religious councils including the Gozo Business Chamber and Fundazzjoni Il-Hajja f'Ghawdex.",
+        "Ms Marica Sultana": "Secretary of the Gozo Regional Development Authority (GRDA) board. Holds a first degree in education from the University of Malta and a master's degree in education from the University of Sheffield. A teacher by profession, has taught in various state schools, developed educational programmes promoting equal opportunities, and is involved in Gozo's cultural and voluntary community life."
+      },
+      "bio_sources": {
+        "Mr Michael Grech": "https://grda.mt/about/",
+        "Ms Charlene Xerri Gatt": "https://grda.mt/about/",
+        "Mr Ivan Falzon": "https://grda.mt/about/",
+        "Mr John Borg": "https://grda.mt/about/",
+        "Mr Daniel Borg": "https://grda.mt/about/",
+        "Dr Samuel Azzopardi": "https://grda.mt/about/",
+        "Mr Anthony Bezzina": "https://grda.mt/about/",
+        "Ms Marica Sultana": "https://grda.mt/about/"
+      }
     },
     "Gozo Cultural Council": {
       "ministry": "Gozo (MFG)",
