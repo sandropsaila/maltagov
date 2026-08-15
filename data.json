@@ -6154,7 +6154,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee, distinct from the Malta Red Cross Society's own site.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually re-searched (2026-08-14) per updated workflow: the Malta Red Cross Society Act confirms the Committee is presided over by the Society's President, but no current President's name was found via any Maltese news portal, the Society's structure, or aggregator sites in this dedicated search.",
       "no_info_found": true
     },
     "Re-employment and Re-Instatement Committee": {
@@ -6277,12 +6277,35 @@
       "no_info_found": true
     },
     "Data Governance Council": {
+      "chairperson": "Ms Christine Schembri",
+      "board_members": [
+        "Mr Joseph Tedesco",
+        "Mr Emanuel Darmanin",
+        "Ms Davida Flores",
+        "Mr Dominic Mintoff"
+      ],
+      "board_secretary": "Ms Ingrid Sultana",
+      "website": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Christine Schembri": "Chairperson of the Data Governance Council, the principal advisory and consultative body on data-related matters within Malta's Public Administration, formalised under the Organisational Structures for Data Sharing and Re-Use Regulations (S.L. 546.01). Appointed by the Principal Permanent Secretary for a three-year term, per the Council's own official gov.mt page.",
+        "Mr Joseph Tedesco": "Member of the Data Governance Council, appointed by the Principal Permanent Secretary for a three-year term.",
+        "Mr Emanuel Darmanin": "Member of the Data Governance Council. The same Emanuel Darmanin already recorded as CEO of the Malta Information Technology Agency (MITA) - a genuine cross-appointment, consistent with MITA's role maintaining key base registers such as the Person Register and Business Register that fall within the Council's remit.",
+        "Ms Davida Flores": "Member of the Data Governance Council, appointed by the Principal Permanent Secretary for a three-year term.",
+        "Mr Dominic Mintoff": "Member of the Data Governance Council, appointed by the Principal Permanent Secretary for a three-year term.",
+        "Ms Ingrid Sultana": "Secretary of the Data Governance Council, per the Council's own official gov.mt page."
+      },
+      "bio_sources": {
+        "Ms Christine Schembri": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
+        "Mr Joseph Tedesco": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
+        "Mr Emanuel Darmanin": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
+        "Ms Davida Flores": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
+        "Mr Dominic Mintoff": "https://opm.gov.mt/en/public-bodies/data-governance-council/",
+        "Ms Ingrid Sultana": "https://opm.gov.mt/en/public-bodies/data-governance-council/"
+      }
     },
     "Youth Advisory Forum": {
       "ministry": "Office of the Prime Minister (OPM)",
