@@ -4413,79 +4413,107 @@
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Fisheries Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Malta Food Agency (MFA)": {
+      "website": "https://foodagency.mt/",
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
+      "source": "https://foodagency.mt/about/",
+      "note": "A CEO name (Brian Vella) surfaced only via a RocketReach aggregator listing, not corroborated by the Agency's own site or any news portal - per this project's standing rule not to rely on aggregator sites as final answers, this name was NOT recorded as confirmed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency; listed on agriculture.gov.mt's public bodies directory without a separate external site."
+      "bio_status": "SEARCHED - AGGREGATOR-ONLY LEAD, NOT CONFIRMED",
+      "no_info_found": true
     },
     "Agricultural Resources Malta": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site."
+      "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Traditional Agro-Food Products of Malta Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Wine Regulation Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Agriculture and Rural Payments Agency": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency; listed on agriculture.gov.mt's public bodies directory without a separate external site."
+      "website_note": "No official webpage found for this specific agency; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Malta Agricultural Consultative Council": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Veterinary Surgeons Council": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Aquatic Resources Malta": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site."
+      "website_note": "No official webpage found for this specific board; listed on agriculture.gov.mt's public bodies directory without a separate external site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Food Safety and Security Authority": {
+      "website": "https://ahwd.gov.mt/en/fssa-about/",
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
+      "source": "https://www.independent.com.mt/articles/2025-04-14/local-news/Government-to-set-up-Food-Safety-and-Security-Authority-6736269380 ; https://primeminister.gov.mt/latest-news/pr251801/",
+      "note": "Genuinely new entity, not a search gap: officially launched October 2025 under the Food Safety and Security Authority Act 2025, consolidating food-safety functions previously split across 3 ministries and 11 departments/agencies. At launch, Agriculture Minister Anton Refalo stated a CEO 'will be appointed transparently after a public call' - no CEO had been named as of the launch, and none was confirmed as appointed by this check. The European Food Safety Authority (EFSA) publicly commended the Authority's creation.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority; listed on agriculture.gov.mt's public bodies directory without a separate external site."
+      "bio_status": "SEARCHED - NEWLY ESTABLISHED, NO CEO APPOINTED YET",
+      "no_info_found": true
     },
     "National Veterinary Hospital Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Producer Organisations Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found, consistent with agriculture.gov.mt's public bodies directory listing these without individual names.",
+      "no_info_found": true
     },
     "Agency for the Welfare of Asylum Seekers (AWAS)": {
       "ministry": "Home Affairs and Security (MHS)",
