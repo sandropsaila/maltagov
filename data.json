@@ -6374,18 +6374,64 @@
       "ceo": "Mr Emanuel Darmanin",
       "website": "https://mita.gov.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
-      "source": "https://mita.gov.mt/about-us/our-management/",
-      "note": "Chairman Tony Sultana was appointed Principal Permanent Secretary in 2022 while retaining his MITA chairmanship - the same Tony Sultana who, per servizz.gov's own materials, also serves as Head of the Public Service of Malta, confirming a genuine cross-appointment.",
+      "source": "https://mita.gov.mt/about-us/our-management/ ; https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+      "note": "Chairman Tony Sultana was appointed Principal Permanent Secretary in 2022 while retaining his MITA chairmanship - the same Tony Sultana who, per servizz.gov's own materials, also serves as Head of the Public Service of Malta, confirming a genuine cross-appointment. Note: Tony Sultana's own bio on this page states he was 'appointed Executive Chairman in April 2013' - his current dual role as Principal Permanent Secretary (from 2022) was noted in prior research; this MITA-specific bio focuses on his MITA tenure.",
       "checked": "2026-08-14",
       "bio_status": "FULLY RESEARCHED",
       "bios": {
         "Mr Tony Sultana": "Chairman of the Malta Information Technology Agency (MITA) and Principal Permanent Secretary (Head of the Public Service of Malta) since 2022, a dual role he retains concurrently. Joined the public service in 1986 with the then Government Computer Centre, pioneering strategic use of information technology in the public sector. Holds a degree in Mathematics and Computing from the University of Malta and a Master of Science in Management from Anglia University, with specialised training in industrial electronics and computer-aided manufacturing from programmes in Singapore and Japan. Has prioritised modernising Government's digital ICT landscape and cyber security during his tenure.",
-        "Mr Emanuel Darmanin": "Chief Executive Officer of the Malta Information Technology Agency (MITA), the central driver of the Government of Malta's ICT policy, programmes and infrastructure."
+        "Mr Emanuel Darmanin": "Chief Executive Officer of the Malta Information Technology Agency (MITA), the central driver of the Government of Malta's ICT policy, programmes and infrastructure.",
+        "Joseph Agius": "Board Member of the Malta Information Technology Agency (MITA). Chief Technology Officer at the Bank of Valletta since October 2014, and a member of BOV's Management Board since October 2016. Over thirty years' IT and financial services experience since joining the Bank in 1985; holds an Honours degree in Computer Science from the University of Reading and an MBA in eBusiness from Grenoble Graduate School of Business.",
+        "Ing. Saviour Baldacchino": "Board Member of the Malta Information Technology Agency (MITA). Currently President of the Malta Chamber of Engineers, a role held for over three years. Previously General Manager for Information Systems & Technology at Maltacom plc from 1985, and founding CEO of a new Internet Service Provider (2001-2004). Received the Best ICT Professional Award for lifetime achievement in 2005.",
+        "Tony Borg": "Board Member of the Malta Information Technology Agency (MITA). 28 years in the Public Service across the Ministries of Finance, Social Services, Customs, Work and Interior; Head of the Government Customer Care Unit at the Office of the Prime Minister (2013-2015), later Lead Coordinator for the Ministry for Gozo and Member of the Steering Committee of the American University of Malta.",
+        "Dr. Helen Borg Muscat": "Board Member of the Malta Information Technology Agency (MITA). A lawyer (LL.D, 1993), admitted to the Bar in 1994, with over 25 years in banking and lending legislation from 1987; since June 2014, Head of the Criminal Probity Department at the Malta Gaming Authority. Served on the Luqa Local Council (1993-1997).",
+        "Ivan Alessandro": "Chief Financial Officer of MITA, responsible for the Agency's financial stewardship, procurement, contracting, GDPR, licensing, performance management and corporate legal aspects. Previously Financial Controller of MCST and a National Contact Point for FP7 R&I Funds (2007-2009).",
+        "Keith Aquilina": "Chief Technology Officer of MITA, leading strategic projects including the Agency's hybrid cloud and modernisation of government solutions into cloud-native architectures; also serves as a technical expert on several EU Commission working groups and committees.",
+        "Priscilla Bugeja": "Head of Department, eGovernment Services at MITA, joined 1994. Over 25 years in software development, project management and ICT consultancy, overseeing key Police, Agriculture and Lands sector projects and the Mobile Government Strategy 2017-2018.",
+        "Ing. Ian Bonello": "Head of Department, Service Management at MITA, joined 1993 (then MSU). 20+ years in ICT infrastructure, network design and implementation.",
+        "Adrian Camilleri": "Head of Department, Digital Enabling Services at MITA, building services enabling Government's Digital Transformation; previously a Technical Fellow and subject matter expert in Electronic Identity, PKI, Blockchain and Digital Signatures, nominated to represent Malta in the EU Commission Expert Group for the European Digital Wallet.",
+        "Jonathan Cassar": "Chief Information Security Officer at MITA (also referred to as CTO in one part of the source), responsible for technology strategy, enterprise architecture and roadmaps; joined MITA in 1998, promoted to Chief Technology Officer in 2018, with EU-funded project experience in Tax and Customs Union collaboration and Horizon 2020.",
+        "Robert Galea": "Head of Department, Infrastructure Services at MITA, joined 1992. Responsible for Hybrid Cloud Services, Systems, Databases, Wide Area Network and Internet infrastructure; led MITA's Hybrid Cloud Platform implementation (2018/19), the Agency's single largest investment.",
+        "Jesmond Mizzi": "Head of Department, Executive Office at MITA, joined 1992. Worked across the Public Registry, Courts of Justice, Finance, Social Security and Transport Programmes before moving into HR management (2014) and Executive Office leadership.",
+        "Wayne Lee Valentine": "Head of Department, Facilities Management at MITA. Led development of the government's TIER III-certified Data Centre (2010/2011), certified internationally by the Uptime Institute.",
+        "Pierre Vella": "Head of Department, Programme Management at MITA, joined 1996. Led major Ministry of Finance transformation projects including the Final Settlement System and Inland Revenue Services On-Line; chaired the EU IT Collaboration Catalyst Project Group in Taxation (2014-2015)."
       },
       "bio_sources": {
         "Mr Tony Sultana": "https://mita.gov.mt/about-us/our-management/",
-        "Mr Emanuel Darmanin": "https://mita.gov.mt/about-us/our-management/"
-      }
+        "Mr Emanuel Darmanin": "https://mita.gov.mt/about-us/our-management/",
+        "Joseph Agius": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Ing. Saviour Baldacchino": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Tony Borg": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Dr. Helen Borg Muscat": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Ivan Alessandro": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Keith Aquilina": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Priscilla Bugeja": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Ing. Ian Bonello": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Adrian Camilleri": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Jonathan Cassar": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Robert Galea": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Jesmond Mizzi": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Wayne Lee Valentine": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/",
+        "Pierre Vella": "https://mita.gov.mt/about-us/our-management/board-executive-committee-members-biography/"
+      },
+      "board_members": [
+        "Joseph Agius",
+        "Ing. Saviour Baldacchino",
+        "Tony Borg",
+        "Dr. Helen Borg Muscat"
+      ],
+      "executive_committee": [
+        "Ivan Alessandro",
+        "Keith Aquilina",
+        "Priscilla Bugeja",
+        "Ing. Ian Bonello",
+        "Adrian Camilleri",
+        "Jonathan Cassar",
+        "Robert Galea",
+        "Jesmond Mizzi",
+        "Wayne Lee Valentine",
+        "Pierre Vella"
+      ]
     },
     "servizz.gov Agency": {
       "ceo": "Mr Massimo Vella",
