@@ -3174,202 +3174,339 @@
       "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Heritage Malta": {
+      "ceo": "Mr Noel Zammit",
+      "website": "https://heritagemalta.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://maltaceos.mt/heritage-malta-ceo-noel-zammit-on-reimagining-cultural-heritage-as-a-strategic-national-asset/ ; https://heritagemalta.mt/about/meet-the-team/",
+      "note": "In post since 2017, confirmed extremely current via a June 2026 MaltaCEOs profile discussing plans for the Malta Biennale 2026. Chairperson name not identified in this pass - a separate October 2025 Shift News item referenced 'The Chairperson of Heritage Malta, Mario Cutajar' taking a leave of absence, but this was not independently corroborated as still accurate, so not recorded as confirmed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://heritagemalta.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Noel Zammit": "Chief Executive Officer of Heritage Malta, the national agency for museums, conservation practice and cultural heritage sites, in post since 2017 having climbed through IT, finance, marketing and business development roles. Leading the organisation of the Malta Biennale 2026, bringing contemporary art into historic spaces. Has partnered with MCAST to reinstate a conservation degree course with guaranteed employment on completion, addressing a chronic shortage of specialist conservators, IT engineers and skilled tradespeople in the heritage sector."
+      },
+      "bio_sources": {
+        "Mr Noel Zammit": "https://maltaceos.mt/heritage-malta-ceo-noel-zammit-on-reimagining-cultural-heritage-as-a-strategic-national-asset/"
+      }
     },
     "National Archives": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website": "https://nationalarchives.gov.mt/"
+      "website": "https://nationalarchives.gov.mt/",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Arts Council of Malta": {
+      "executive_chairman": "Dr Luke Dalli",
+      "website": "https://artscouncilmalta.gov.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://artscouncilmalta.gov.mt/en/about-us/ ; https://artscouncilmalta.gov.mt/en/dr-luke-dalli-appointed-new-executive-chairperson-of-arts-council-malta/",
+      "note": "Appointed June 2025, succeeding Albert Marshall, per the Council's own official announcement.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://artscouncilmalta.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Luke Dalli": "Executive Chairman of Arts Council Malta, appointed June 2025, succeeding Albert Marshall. A warranted Maltese lawyer; joined the Council in 2014 as Legal Officer, later Head of Legal for a decade, then Chief Operations Officer from 2024 overseeing finance, HR, procurement and stakeholder engagement. Also chairs the Central Cooperatives Fund, sits on the board of the Authority for Integrity in Maltese Sport, and is a member of the Local Government Steering Committee. Founding member of the Lija/Iklin Amateur Football Club and FROLIC Theatre Group."
+      },
+      "bio_sources": {
+        "Dr Luke Dalli": "https://artscouncilmalta.gov.mt/en/about-us/"
+      }
     },
     "Public Broadcasting Services": {
+      "chairperson": "Ms Anna Bonett",
+      "ceo": "Ing. Keith Chetcuti",
+      "website": "https://www.pbs.com.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://tvmnews.mt/en/news/government-announces-new-appointments-at-the-helm-of-pbs/",
+      "note": "Both appointed effective 1 October 2024, replacing the prior executive-chairman model (previously held by Mark Sammut, an IT entrepreneur with Labour Party ties, appointed April 2021 with no journalism/broadcasting background - flagged by State Media Monitor as a case of undue government influence at PBS). The role of Editorial Board Chairperson (a related but distinct position) is held separately by Engelbert Grech, former Malta Film Commissioner.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.pbs.com.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Anna Bonett": "Non-Executive Chairperson of Public Broadcasting Services (PBS), Malta's state broadcaster, appointed effective 1 October 2024. Over 45 years of experience in broadcasting, communications and hospitality; a familiar face on Maltese television through roles at Xandir Malta, PBS, and private broadcasters, as well as the PBS Archives and a period working with the Maltese High Commission in London.",
+        "Ing. Keith Chetcuti": "Chief Executive Officer of Public Broadcasting Services (PBS), appointed effective 1 October 2024. Began his career in television directing popular programmes before spending 20 years in the private sector; graduated as an engineer from the University of Malta."
+      },
+      "bio_sources": {
+        "Ms Anna Bonett": "https://tvmnews.mt/en/news/government-announces-new-appointments-at-the-helm-of-pbs/",
+        "Ing. Keith Chetcuti": "https://tvmnews.mt/en/news/government-announces-new-appointments-at-the-helm-of-pbs/"
+      }
     },
     "Malta Film Commission": {
+      "director": "Mr Johann Grech",
+      "website": "https://screenmalta.com/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://filmneweurope.com/news/malta-news/item/128019-malta-film-commission-launches-2m-eur-scholarship-fund ; https://cineuropa.org/en/interview/492741",
+      "note": "Confirmed extremely current via a June 2026 report on a new €2m scholarship fund. Under his leadership the sector's GVA contribution rose from 0.28% (2005-2017) to 0.83% (2018-2025), peaking at 2.16% in 2023, with the film sector generating over 1000 sustainable full-time crew jobs.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://screenmalta.com/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Johann Grech": "Malta Film Commissioner, a seasoned marketing professional with over 18 years' experience in audio-visual productions, branding, marketing and political campaigns. Under his leadership, Malta's film sector has generated over €1.2 billion for the Maltese economy between 2018 and 2025 and created over 1,000 sustainable full-time crew jobs. Launched a €2 million Opportunity For All Scholarship Fund and a new Crew Standards Framework in June 2026 to develop professional skills within the industry."
+      },
+      "bio_sources": {
+        "Mr Johann Grech": "https://filmneweurope.com/news/malta-news/item/128019-malta-film-commission-launches-2m-eur-scholarship-fund"
+      }
     },
     "National Book Council": {
+      "executive_chairman": "Mr Mark Camilleri",
+      "deputy_chairman": "Dr Omar Seguna",
+      "board_members": [
+        "Ms Daniela Attard Bezzina",
+        "Dr Maria Brown",
+        "Mr Godwin Vella",
+        "Profs. William Zammit",
+        "Ms Joanne Micallef",
+        "Dr Simone Inguanez"
+      ],
+      "board_secretary": "Mr Matthew Borg",
+      "website": "https://ktieb.org.mt/",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://education.gov.mt/meyr-boards/",
+      "note": "Board composition found via education.gov.mt's MEYR Boards directory page, which lists several culture/education-adjacent boards including this one.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://ktieb.org.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Mark Camilleri": "Executive Chairman of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page.",
+        "Dr Omar Seguna": "Deputy Chairman of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page.",
+        "Mr Matthew Borg": "Secretary of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page.",
+        "Ms Daniela Attard Bezzina": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Maria Brown": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Godwin Vella": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Profs. William Zammit": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Joanne Micallef": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment.",
+        "Dr Simone Inguanez": "Member of the National Book Council, as listed on the Ministry for Education, Youth and Research's official MEYR Boards page. No further distinct public biographical details were found beyond the board appointment."
+      },
+      "bio_sources": {
+        "Mr Mark Camilleri": "https://education.gov.mt/meyr-boards/",
+        "Dr Omar Seguna": "https://education.gov.mt/meyr-boards/",
+        "Mr Matthew Borg": "https://education.gov.mt/meyr-boards/",
+        "Ms Daniela Attard Bezzina": "https://education.gov.mt/meyr-boards/",
+        "Dr Maria Brown": "https://education.gov.mt/meyr-boards/",
+        "Mr Godwin Vella": "https://education.gov.mt/meyr-boards/",
+        "Profs. William Zammit": "https://education.gov.mt/meyr-boards/",
+        "Ms Joanne Micallef": "https://education.gov.mt/meyr-boards/",
+        "Dr Simone Inguanez": "https://education.gov.mt/meyr-boards/"
+      }
     },
     "Agency for the Malta Philharmonic Orchestra": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Film Finance Malta Ltd Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "De Valette Chamber Orchestra": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific orchestra."
+      "website_note": "No official webpage found for this specific orchestra.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Fondazzjoni Patrimonju Malti – Supervisory Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board (distinct from the NGO Fondazzjoni Patrimonju Malti's own site, which was not confirmed as this government-linked entity's page)."
+      "website_note": "No official webpage found for this specific board (distinct from the NGO Fondazzjoni Patrimonju Malti's own site, which was not confirmed as this government-linked entity's page).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Maltese National Commission for UNESCO Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Festivals Malta Agency": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Film Review Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Fondazzjoni Kreattività Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found; the related creative space Spazju Kreattiv has its own site but this board specifically was not confirmed."
+      "website_note": "No official webpage found; the related creative space Spazju Kreattiv has its own site but this board specifically was not confirmed.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Intangible Cultural Heritage Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta International Contemporary Art Space": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific space (MICAS)."
+      "website_note": "No official webpage found for this specific space (MICAS).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Libraries": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific entity in this check."
+      "website_note": "No official webpage found for this specific entity in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Media Literacy Development Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Pjazza Teatru Rjal Board": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Agency for the Performing Arts": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Superintendence of Cultural Heritage": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific superintendence."
+      "website_note": "No official webpage found for this specific superintendence.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Valletta Cultural Agency": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Cultural Heritage Advisory Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "European Film Awards Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Manoel Theatre Management Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee (distinct from the Manoel Theatre's own box-office site)."
+      "website_note": "No official webpage found for this specific committee (distinct from the Manoel Theatre's own box-office site).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Mdina Rehabilitation Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Festivities Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National World Heritage Technical Committee": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Council of the Maltese Language": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "website_note": "No official webpage found for this specific council in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Libraries Council": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Centre for Creativity Foundation (St James Cavalier)": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation in this check (Spazju Kreattiv site not confirmed as this specific entity)."
+      "website_note": "No official webpage found for this specific foundation in this check (Spazju Kreattiv site not confirmed as this specific entity).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Orchestra Ltd": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company."
+      "website_note": "No official webpage found for this specific company.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Editorial Board - PBS Ltd": {
+      "chairperson": "Mr Engelbert Grech",
+      "website": "-",
       "ministry": "Arts, Culture and National Heritage (MACH)",
+      "source": "https://tvmnews.mt/en/news/government-announces-new-appointments-at-the-helm-of-pbs/",
+      "note": "Appointed Chairperson of the PBS Editorial Board effective 1 October 2024, succeeding the retiring Joseph Sammut. Distinct role from PBS's own corporate Chairperson (Anna Bonett).",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board (distinct from pbs.com.mt itself)."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Engelbert Grech": "Chairperson of the Public Broadcasting Services (PBS) Editorial Board, appointed effective 1 October 2024, succeeding the retiring Joseph Sammut. Over 30 years of broadcasting experience, a graduate in communications; began in journalism at a private radio station before producing programmes for PBS. Previously served as Malta's Film Commissioner for four years and has since worked on productions for internationally-renowned platforms. Stepped down from the PBS Board of Directors on taking this role, with Anna Bonanno taking his former board seat."
+      },
+      "bio_sources": {
+        "Mr Engelbert Grech": "https://tvmnews.mt/en/news/government-announces-new-appointments-at-the-helm-of-pbs/"
+      }
     },
     "Aġenzija Sapport": {
       "ceo": "Mr Oliver Scicluna",
