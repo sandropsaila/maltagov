@@ -3480,55 +3480,85 @@
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Tourism Zones Regeneration Agency": {
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Cottonera Supervisory Committee": {
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Local Government Co-Financing Committee": {
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Local Government Reform Steering Committee": {
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Kottonera Foundation": {
       "ministry": "Local Government and Public Works (MLGP)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation in this check."
+      "website_note": "No official webpage found for this specific foundation in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Local Councils": {
       "ministry": "Local Government and Public Works (MLGP)",
+      "note": "This entry refers collectively to Malta's ~68 local councils, not a single entity with one leader; no single chair/CEO applies. The Local Councils' Association is a separate representative body with its own leadership, not individually researched here.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "This refers collectively to Malta's ~68 local councils, not a single entity with one website; no single official webpage applies."
+      "bio_status": "NOT APPLICABLE - COLLECTIVE ENTRY",
+      "no_info_found": true
     },
     "Board of Engineers": {
+      "chairperson": "Dott. Noel Camilleri",
+      "board_members": [
+        "Kenneth Chircop"
+      ],
+      "website": "https://peritiwarrant.gov.mt/",
       "ministry": "Local Government and Public Works (MLGP)",
+      "source": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/ ; https://tvmnews.mt/en/news/25-new-engineers-receive-their-warrant/",
+      "note": "A December 2025 Shift News investigation raised governance concerns: Chairperson Noel Camilleri (a lawyer, not an engineer) concurrently holds five other government board positions - including Chair of the Drug Offenders' Rehabilitation Board, umpire on Social Security's board of examiners, member of the Employment Commission, and substitute chairperson for the IDPC's appeals tribunal - plus a role as Malta's ambassador to Georgia and president of a major cultural organisation. Board member Kenneth Chircop also chairs the Aviation and Aerospace Committee and holds a directorship at drone company Dronamics.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dott. Noel Camilleri": "Chairperson of the Board of Engineers (the Engineering Profession Board), which issues warrants for certified engineers in Malta under Cap. 321 of the Laws of Malta. A lawyer by profession. A December 2025 Shift News investigation reported he concurrently holds five other government board positions, including Chair of the Drug Offenders' Rehabilitation Board, an umpire role on Social Security's board of examiners, membership of the Employment Commission, and the substitute chairperson role for the Information and Data Protection Commissioner's appeals tribunal - alongside serving as Malta's ambassador to Georgia and president of Għaqda tal-Każini tal-Banda, Malta's band club representative body. Presided over a warrant-giving ceremony for 25 new engineers in October 2024.",
+        "Kenneth Chircop": "Member of the Board of Engineers. Also chairs the government's Aviation and Aerospace Committee, holds a directorship with international drone company Dronamics, and lectures at the University of Malta, per December 2025 Shift News reporting on multiple board appointments held by key figures on the engineering board."
+      },
+      "bio_sources": {
+        "Dott. Noel Camilleri": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/",
+        "Kenneth Chircop": "https://theshiftnews.com/2025/12/07/key-figures-on-infrastructure-ministrys-engineering-board-hold-multiple-government-appointments/"
+      }
     },
     "Architects Warrant Board": {
+      "website": "https://peritiwarrant.gov.mt/",
       "ministry": "Local Government and Public Works (MLGP)",
+      "source": "https://whoswho.mt/en/kamra-tal-periti-announces-nominees-for-upcoming-periti-warranting-board-elections ; https://peritiwarrant.gov.mt/",
+      "note": "Structural finding: the Periti Warranting Board (the Competent Authority for the perit/architect-civil engineer profession under Cap. 622 and Cap. 390) is composed of elected category representatives (e.g. a March 2025 election saw Perit Ann Marie Delicata elected unopposed for the Periti Arkitetti category) rather than a single named overall chairman published anywhere found in this check.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "bio_status": "SEARCHED - NO INFO FOUND",
+      "no_info_found": true
     },
     "Housing Authority": {
       "ministry": "Accommodation and Lands (MAL)",
