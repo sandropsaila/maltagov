@@ -5209,7 +5209,7 @@
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "website": "https://www.rews.org.mt/",
       "source": "https://www.ceer.eu/wp-content/uploads/2024/04/C15_NR_Malta_EN.pdf ; https://www.rews.org.mt/",
-      "note": "Structural finding: by law the Authority is composed of a chairman, deputy chairman and five members operating under a Chief Executive, per Malta's national report to CEER (Council of European Energy Regulators). No individually named current chairman, deputy chairman or CEO was found on the Regulator's own site or via news search in this pass - the site describes functions and schemes but not current office-holders by name.",
+      "note": "Individually re-searched; confirmed as an institutional structure (chairman, deputy chairman, 5 members under a CEO per Malta's CEER national report) with no individually named current office-holders found.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
       "no_info_found": true
@@ -5234,7 +5234,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific office.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named commissioner found.",
       "no_info_found": true
     },
     "Climate Action Authority": {
@@ -5242,7 +5242,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific authority in this check.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Majjistral, Nature and History Park Management Board": {
@@ -5250,7 +5250,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board, distinct from majjistral.org (an NGO/friends-of-the-park site not confirmed as this government board's own page).",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually re-searched; no named board members found beyond the associated NGO Majjistral (majjistral.org), which is distinct from this government board.",
       "no_info_found": true
     },
     "Inwadar National Park Management Board": {
@@ -5258,23 +5258,35 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named board members found.",
       "no_info_found": true
     },
     "Project Green Agency": {
+      "ceo": "Mr Joseph Cuschieri",
+      "board_members": [
+        "Ms Beverley Costa"
+      ],
+      "website": "https://projectgreen.mt/",
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
+      "source": "https://www.independent.com.mt/articles/2025-01-12/local-news/In-2025-Project-Green-will-be-showing-that-it-is-delivering-CEO-says-6736267059 ; https://maltadaily.mt/meet-the-team-driving-project-green/",
+      "note": "Cuschieri appointed early 2024, succeeding founding CEO Steve Ellul, who stepped down to unsuccessfully contest the June 2024 European Parliament elections and subsequently became CEO of Infrastructure Malta (already recorded in this project). Beverley Costa serves as Chief Operations Officer.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Joseph Cuschieri": "Chief Executive Officer of Project Green, the agency (established early 2023) responsible for implementing Malta's €700 million green open-space investment programme, appointed early 2024, succeeding founding CEO Steve Ellul.",
+        "Ms Beverley Costa": "Chief Operations Officer of Project Green, overseeing the revitalisation and enhancement of urban spaces through park creation and regeneration initiatives."
+      },
+      "bio_sources": {
+        "Mr Joseph Cuschieri": "https://www.independent.com.mt/articles/2025-01-12/local-news/In-2025-Project-Green-will-be-showing-that-it-is-delivering-CEO-says-6736267059",
+        "Ms Beverley Costa": "https://maltadaily.mt/meet-the-team-driving-project-green/"
+      }
     },
     "The Energy and Water Agency": {
       "ministry": "Energy, the Environment and the Regeneration of the Grand Harbour (MEER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency in this check.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "Enemed Co Ltd": {
@@ -5282,7 +5294,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific company in this check; distinct from Enemalta plc's own site.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named directors found, distinct from parent company Enemalta plc's own leadership.",
       "no_info_found": true
     },
     "Grand Harbour Regeneration Corporation": {
@@ -5290,7 +5302,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific corporation.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named directors found.",
       "no_info_found": true
     },
     "Animal Welfare Council": {
@@ -5298,7 +5310,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council, distinct from the Office of the Commissioner for Animal Welfare.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; distinct from the Office of the Commissioner for Animal Welfare - no named Council chairperson found.",
       "no_info_found": true
     },
     "Circular Economy Malta": {
@@ -5306,7 +5318,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific agency.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named director found.",
       "no_info_found": true
     },
     "National Climate Action Council": {
@@ -5314,7 +5326,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": " Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Central Bank of Malta": {
