@@ -2963,7 +2963,8 @@
       "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Youth Agency": {
       "ministry": "Youth, Wellbeing and the Implementation of the Electoral Programme (MYWI)",
@@ -2975,31 +2976,36 @@
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific society."
+      "website_note": "No official webpage found for this specific society.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Gozo Channel (Holding) Limited": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No dedicated webpage found distinct from the operating company gozochannel.com (Gozo Channel (Operations) Limited); this Holding entity does not appear to have its own separate official page."
+      "website_note": "No dedicated webpage found distinct from the operating company gozochannel.com (Gozo Channel (Operations) Limited); this Holding entity does not appear to have its own separate official page.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Gozo Heliport": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Gozo's public bodies directory (gozo.gov.mt)."
+      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Gozo's public bodies directory (gozo.gov.mt).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Gozo Committee for National and Regional Celebrations": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Projects Gozo Ltd": {
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company."
+      "website_note": "No official webpage found for this specific company.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Gozo Regional Development Authority": {
       "ministry": "Gozo (MFG)",
@@ -3011,13 +3017,15 @@
       "ministry": "Gozo (MFG)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Commonwealth Trade Finance Facility Ltd - Board of Directors": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Foreign and European Affairs' public bodies directory (foreign.gov.mt); the wider Commonwealth Trade Finance Facility programme is referenced on thecommonwealth.org but that is not this Maltese entity's own site."
+      "website_note": "No dedicated official webpage found beyond a listing on the Ministry for Foreign and European Affairs' public bodies directory (foreign.gov.mt); the wider Commonwealth Trade Finance Facility programme is referenced on thecommonwealth.org but that is not this Maltese entity's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Council for Maltese Living Abroad": {
       "ministry": "Foreign and European Affairs (MFEA)",
@@ -3029,31 +3037,48 @@
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "National Authority for the Implementation of Chemical Weapons Convention": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority."
+      "website_note": "No official webpage found for this specific authority.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Sanctions Monitoring Board": {
       "ministry": "Foreign and European Affairs (MFEA)",
+      "website": "https://smb.gov.mt/",
+      "source": "https://smb.gov.mt/about/members-of-the-sanctions-monitoring-board/ ; https://www.mamotcv.com/insights/sanctions-2-international-sanctions-from-a-maltese-perspective/",
+      "note": "Structural finding rather than a missing name: under Article 7 of the National Interest (Enabling Powers) Act (Cap 365), the Board is chaired ex officio by a representative of the Ministry for Foreign and European Affairs, and composed of 18 officials representing various ministries/authorities (Attorney General, FIAU, Malta Police, Malta Security Services, etc.) acting collectively. No individual chairman name is published on the Board's own official page - the role itself, not a person, is named as chair.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://smb.gov.mt/"
+      "bio_status": "FULLY RESEARCHED - INSTITUTIONAL CHAIR, NO NAMED INDIVIDUAL"
     },
     "Trade Malta Ltd": {
+      "chairperson": "Mr Daniel Galea",
+      "ceo": "Ms Tania Brown",
+      "website": "https://trademalta.org/",
       "ministry": "Foreign and European Affairs (MFEA)",
+      "source": "https://trademalta.org/news/",
+      "note": "Very recent leadership transition: Tania Brown stepped into the CEO role in early 2026, and a November 2025 news release thanked outgoing figure David Matrenza for his service. Full current board composition beyond Chairperson and CEO was not confirmed - a 2021 press release names a differently-constituted board (Chairman David G Curmi and 6 other directors) that has since changed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://trademalta.org/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Daniel Galea": "Chairperson of Trade Malta Ltd, the public-private partnership tasked with coordinating and marketing Malta's incoming and outgoing trade promotion missions, supporting bilateral trade meetings and researching market opportunities for Malta-based businesses.",
+        "Ms Tania Brown": "Chief Executive Officer of Trade Malta Ltd, having stepped into the role in early 2026. In her own words on taking up the post: 'As I step into my role as Chief Executive Officer of TradeMalta, the international trade environment...' reflecting on Malta's evolving trade landscape."
+      },
+      "bio_sources": {
+        "Mr Daniel Galea": "https://trademalta.org/news/",
+        "Ms Tania Brown": "https://trademalta.org/news/"
+      }
     },
     "World Trade Organisation (Government representation and participation)": {
       "ministry": "Foreign and European Affairs (MFEA)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution."
+      "website_note": "This entry refers to Malta's government representation at the WTO, not to the WTO itself; wto.org is the WTO's own global website, not specific to Malta's representation, so no page was added to avoid misattribution.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director/CEO could be confirmed for this specific entity as of this check."
     },
     "Heritage Malta": {
       "ministry": "Arts, Culture and National Heritage (MACH)",
