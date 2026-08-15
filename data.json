@@ -4545,23 +4545,49 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Malta Psychology Profession Board": {
+      "chairperson": "Dr Priscilla Muscat",
+      "board_members": [
+        "Dr Kristina Bettenzana",
+        "Dr Anita Giordimaina",
+        "Dr Paul Daniel Micallef",
+        "Ms Erika Muscat Genovese",
+        "Dr Bernice Sant",
+        "Ms Jo Christine Scicluna"
+      ],
+      "website": "https://mppb.gov.mt",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://family.gov.mt/malta-psychology-profession-board-members/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Priscilla Muscat": "Chairperson of the Malta Psychology Profession Board (MPPB), the statutory body regulating the psychology profession under the Psychology Profession Act (Cap. 471), confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Kristina Bettenzana": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Anita Giordimaina": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Paul Daniel Micallef": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Ms Erika Muscat Genovese": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Bernice Sant": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Ms Jo Christine Scicluna": "Member of the Malta Psychology Profession Board, confirmed via the Ministry for Social Policy and the Family's own official page."
+      },
+      "bio_sources": {
+        "Dr Priscilla Muscat": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Dr Kristina Bettenzana": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Dr Anita Giordimaina": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Dr Paul Daniel Micallef": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Ms Erika Muscat Genovese": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Dr Bernice Sant": "https://family.gov.mt/malta-psychology-profession-board-members/",
+        "Ms Jo Christine Scicluna": "https://family.gov.mt/malta-psychology-profession-board-members/"
+      }
     },
     "Minors Care Review Board": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "National Addiction Advisory Board": {
@@ -4569,7 +4595,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Psychotherapy Profession Board": {
@@ -4577,7 +4603,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched via family.gov.mt's own page, which links to a composition sub-page not successfully retrieved in this pass; no name confirmed.",
       "no_info_found": true
     },
     "Social Assistance Board": {
@@ -4585,40 +4611,124 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Social Work Profession Board": {
+      "chairperson": "Mr Mike Orland",
+      "board_members": [
+        "Ms Beverley Abela Gafà",
+        "Ms Alexia Baldacchino",
+        "Ms Ingrid Baldacchino",
+        "Ms Lisa Cachia",
+        "Ms Maria Mangion",
+        "Ms Maria Mercieca",
+        "Dr Melanie Sammut",
+        "Mr David Schembri"
+      ],
+      "board_secretary": "Ms Nadya Hansen",
+      "website": "https://swpb.gov.mt",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://family.gov.mt/social-work-profession-board/",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Mike Orland": "Chairperson of the Social Work Profession Board, the statutory body regulating the social work profession under the Social Work Profession Act (Cap. 468), confirmed via the Board's own page, updated May 2026.",
+        "Ms Nadya Hansen": "Secretary of the Social Work Profession Board, the same Nadya Hansen already recorded as Secretary of the Adoption Board - a genuine cross-appointment across the Ministry's professional regulatory boards.",
+        "Ms Beverley Abela Gafà": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Ms Alexia Baldacchino": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Ms Ingrid Baldacchino": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Ms Lisa Cachia": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Ms Maria Mangion": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Ms Maria Mercieca": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Dr Melanie Sammut": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026.",
+        "Mr David Schembri": "Member of the Social Work Profession Board, confirmed via the Board's own page, updated May 2026."
+      },
+      "bio_sources": {
+        "Mr Mike Orland": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Nadya Hansen": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Beverley Abela Gafà": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Alexia Baldacchino": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Ingrid Baldacchino": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Lisa Cachia": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Maria Mangion": "https://family.gov.mt/social-work-profession-board/",
+        "Ms Maria Mercieca": "https://family.gov.mt/social-work-profession-board/",
+        "Dr Melanie Sammut": "https://family.gov.mt/social-work-profession-board/",
+        "Mr David Schembri": "https://family.gov.mt/social-work-profession-board/"
+      }
     },
     "Council for Children": {
       "ministry": "Social Policy and the Family (MSF)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council, distinct from the Commissioner for Children's own site (tfal.gov.mt).",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; distinct from the Commissioner for Children (Antoinette Vassallo, already recorded) - no named Council chairperson found separately.",
       "no_info_found": true
     },
     "Council of the Counselling Profession": {
+      "board_secretary": "Ms Audrey Micallef Grimaud",
+      "website": "https://ccp.gov.mt",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://family.gov.mt/public-bodies/council-for-the-counselling-profession/",
+      "note": "Secretary confirmed via the Council's own contact page; full board composition sits behind a further sub-page that could not be retrieved in this pass, so Chairperson/Members were not confirmed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Ms Audrey Micallef Grimaud": "Secretary for the Council for the Counselling Profession (CCP) in Malta, based at the Directorate for Alternative Care (Children and Youth), confirmed via the Council's own contact page."
+      },
+      "bio_sources": {
+        "Ms Audrey Micallef Grimaud": "https://family.gov.mt/public-bodies/council-for-the-counselling-profession/"
+      }
     },
     "Adoption Board (+ Board of Appeal)": {
+      "chairperson": "Dr Michael Buhagiar",
+      "board_members": [
+        "Mr Philip Borg",
+        "Mr Mario Caruana",
+        "Mr Bryan Degabriele",
+        "Dr Laner Cassar",
+        "Dr Ian Ellul",
+        "Dr Sandra Hili Vassallo",
+        "Dr Karen Mugliett",
+        "Dr Marta Sant",
+        "Ms Natasha Vella",
+        "Dr Dennis Zammit"
+      ],
+      "board_secretary": "Ms Nadya Hansen",
+      "website": "https://family.gov.mt/adoption-board/",
       "ministry": "Social Policy and the Family (MSF)",
+      "source": "https://family.gov.mt/adoption-board/",
+      "note": "Page last updated June 2022 per its own footer, though the ministry site itself shows a 2026 modification timestamp; not independently reconfirmed via a more recent source.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Michael Buhagiar": "Chairperson of the Adoption Board, established under the Adoption Administration Act (Cap. 495), confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Ms Nadya Hansen": "Secretary of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Mr Philip Borg": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Mr Mario Caruana": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Mr Bryan Degabriele": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Laner Cassar": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Ian Ellul": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Sandra Hili Vassallo": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Karen Mugliett": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Marta Sant": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Ms Natasha Vella": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page.",
+        "Dr Dennis Zammit": "Member of the Adoption Board, confirmed via the Ministry for Social Policy and the Family's own official page."
+      },
+      "bio_sources": {
+        "Dr Michael Buhagiar": "https://family.gov.mt/adoption-board/",
+        "Ms Nadya Hansen": "https://family.gov.mt/adoption-board/",
+        "Mr Philip Borg": "https://family.gov.mt/adoption-board/",
+        "Mr Mario Caruana": "https://family.gov.mt/adoption-board/",
+        "Mr Bryan Degabriele": "https://family.gov.mt/adoption-board/",
+        "Dr Laner Cassar": "https://family.gov.mt/adoption-board/",
+        "Dr Ian Ellul": "https://family.gov.mt/adoption-board/",
+        "Dr Sandra Hili Vassallo": "https://family.gov.mt/adoption-board/",
+        "Dr Karen Mugliett": "https://family.gov.mt/adoption-board/",
+        "Dr Marta Sant": "https://family.gov.mt/adoption-board/",
+        "Ms Natasha Vella": "https://family.gov.mt/adoption-board/",
+        "Dr Dennis Zammit": "https://family.gov.mt/adoption-board/"
+      }
     },
     "Farm Advisory Registration Board": {
       "ministry": "Agriculture, Fisheries and Food Supply (MAFF)",
