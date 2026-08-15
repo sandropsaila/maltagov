@@ -3493,69 +3493,87 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Commission on Gender-Based Violence and Domestic Violence": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Authority on the Responsible Use of Cannabis": {
+      "executive_chairman": "Mr Joey Reno Vella",
+      "website": "https://aruc.mt/",
       "ministry": "Equality and Civil Rights (MER)",
+      "source": "https://filtermag.org/malta-cannabis-law/ ; https://www.independent.com.mt/articles/2024-03-26/local-news/New-chairman-for-Authority-for-Responsible-use-of-Cannabis-6736259728",
+      "note": "Appointed March 2024, succeeding Leonid McKay (who had moved on to head JobsPlus, and has since moved again to Transport Malta, per prior research in this project). Confirmed still in post via mid-2025 press commentary on tightened public cannabis-use enforcement.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority in this check.",
-      "note": "Re-attempted under combined website+board workflow: No named chairperson/CEO confirmed for this specific authority in this check, despite it being an active regulatory body (ARUC)."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Joey Reno Vella": "Executive Chairperson of the Authority on the Responsible Use of Cannabis (ARUC), appointed March 2024, succeeding Leonid McKay. A lawyer specialising in civil and criminal law. Publicly commented in 2025 on Malta's cannabis policy rollback, including new rules allowing neighbours to report at-home cannabis smoking as a public nuisance, a shift from Malta's landmark 2021 decriminalisation as the first EU country to legalise recreational cannabis possession."
+      },
+      "bio_sources": {
+        "Mr Joey Reno Vella": "https://filtermag.org/malta-cannabis-law/"
+      }
     },
     "Inter-ministerial Committee on Trafficking in Human Beings": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Consultative Council for Women's Rights": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Council for Foreign Communities in Malta": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "LGBTIQ Consultative Council": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow: The Council is administered by the Human Rights Directorate (humanrights.gov.mt); a 2020 news item names Clifford Galea Vella as chair at that time, but this could not be confirmed as still current, so no name was recorded to avoid presenting stale information as current."
+      "note": "Re-attempted: the last confirmed chairperson (Gabi Calleja, appointed 2015) was reported by 2023 to have moved into a government SOGIGESC unit role instead, suggesting she may no longer chair the Council - not reconfirmed either way, so no name was recorded to avoid presenting stale or superseded information as current.",
+      "no_info_found": true
     },
     "Board on Reforms and Human Rights": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "I Belong Appeals Board": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Integration and Anti-Racism Consultative Council (IARCC)": {
       "ministry": "Equality and Civil Rights (MER)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow: No official webpage or named chairperson found."
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Local Governance Board": {
       "ministry": "Local Government and Public Works (MLGP)",
