@@ -2548,12 +2548,18 @@
     },
     "Business First Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
-      "no_info_found": true,
-      "source": "https://www.businessfirst.com.mt/",
-      "note": "Individually searched; no named CEO/manager found despite Business First being an active one-stop-shop entity.",
+      "source": "https://stopviolence.gov.mt/the-commission-members/",
+      "note": "CEO identified via her bio on the Commission on Gender-Based Violence and Domestic Violence's own page, where she also serves as a Commission member - resolving a prior gap in this project's METP research.",
       "checked": "2026-08-14",
-      "bio_status": "SEARCHED - NO INFO FOUND",
-      "website": "https://www.businessfirst.com.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "website": "https://www.businessfirst.com.mt/",
+      "ceo": "Ms Marika Tonna",
+      "bios": {
+        "Ms Marika Tonna": "Member of the Commission on Gender-Based Violence and Domestic Violence, and Chief Executive Officer of Business First (Business 1st), the one-stop-shop for business - resolving a prior gap in this project's research, which had found no named leadership for Business First. Previously Chief Operating Officer of Malta Enterprise and a Consultant in the Office of the Prime Minister; was Malta's economic development representative in the UK in the 1990s. Holds a management degree and MBA from the University of Malta."
+      },
+      "bio_sources": {
+        "Ms Marika Tonna": "https://stopviolence.gov.mt/the-commission-members/"
+      }
     },
     "Smart City (Malta) Ltd": {
       "chairman": "Khalid Al Malik",
@@ -3708,16 +3714,45 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Commission on Gender-Based Violence and Domestic Violence": {
+      "director": "Ms. Samantha Pace Gasan",
+      "board_members": [
+        "Dr. Bryony Balzia Bartolo",
+        "Dr. Alessia Psaila Zammit",
+        "Ms. Catherine Fenech",
+        "Ms. Natasha Vella",
+        "Ms. Sarah Haider"
+      ],
+      "board_secretary": "Ms. Pearl Agius",
+      "website": "https://stopviolence.gov.mt/the-commission-members/",
       "ministry": "Equality and Civil Rights (MER)",
+      "source": "https://stopviolence.gov.mt/the-commission-members/",
+      "note": "Page last modified February 2026, making this one of the more current sources found. A useful cross-reference: member Marika Tonna is CEO of Business First - resolving a previously unfilled entity in this project's METP research.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific commission.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms. Samantha Pace Gasan": "Commissioner on Gender-Based Violence and Domestic Violence, appointed July 2023. Previously Commissioner for the Rights of Persons with Disability, a Director on the JobsPlus board, and a member of the National Commission for the Promotion of Equality. Graduated with a Bachelor of Arts (Hons.) in Social Policy (2016) and a Master in Creativity and Innovation (2020) from the University of Malta. A person with disability and a foster carer.",
+        "Ms. Marika Tonna": "Member of the Commission on Gender-Based Violence and Domestic Violence, and Chief Executive Officer of Business First (Business 1st), the one-stop-shop for business - resolving a prior gap in this project's research, which had found no named leadership for Business First. Previously Chief Operating Officer of Malta Enterprise and a Consultant in the Office of the Prime Minister; was Malta's economic development representative in the UK in the 1990s. Holds a management degree and MBA from the University of Malta.",
+        "Dr. Bryony Balzia Bartolo": "Member of the Commission on Gender-Based Violence and Domestic Violence since 2022. A lawyer practising mainly in lease, property, data protection and family law; admitted to the bar in 2017.",
+        "Dr. Alessia Psaila Zammit": "Member of the Commission on Gender-Based Violence and Domestic Violence. A lawyer and entrepreneur who served on the board that drafted the law introducing Malta's gender balance mechanism in Parliament, and previously Mayor of Siġġiewi (2017-2019) and President of the National Youth Council (2007-2008).",
+        "Ms. Catherine Fenech": "Member of the Commission on Gender-Based Violence and Domestic Violence; biography listed as 'coming soon' on the Commission's own official page.",
+        "Ms. Natasha Vella": "Member of the Commission on Gender-Based Violence and Domestic Violence; biography listed as 'coming soon' on the Commission's own official page. This may or may not be the same Natasha Vella recorded elsewhere in this project as a member of the Adoption Board under MSF - not independently confirmed as the same individual.",
+        "Ms. Sarah Haider": "Member of the Commission on Gender-Based Violence and Domestic Violence since 2022. Holds a Master's in Gender Studies (Research, 2020), focused on women's reproductive rights discourse in Malta. Co-manages a family business in water testing and consultancy.",
+        "Ms. Pearl Agius": "Board Secretary of the Commission on Gender-Based Violence and Domestic Violence since June 2022. A warranted lawyer (admitted to the bar 2023) currently working as in-house legal counsel for WasteServ Malta Limited; previously spent six years (2017-2023) working in a local TV/radio newsroom."
+      },
+      "bio_sources": {
+        "Ms. Samantha Pace Gasan": "https://stopviolence.gov.mt/the-commission-members/",
+        "Ms. Marika Tonna": "https://stopviolence.gov.mt/the-commission-members/",
+        "Dr. Bryony Balzia Bartolo": "https://stopviolence.gov.mt/the-commission-members/",
+        "Dr. Alessia Psaila Zammit": "https://stopviolence.gov.mt/the-commission-members/",
+        "Ms. Catherine Fenech": "https://stopviolence.gov.mt/the-commission-members/",
+        "Ms. Natasha Vella": "https://stopviolence.gov.mt/the-commission-members/",
+        "Ms. Sarah Haider": "https://stopviolence.gov.mt/the-commission-members/",
+        "Ms. Pearl Agius": "https://stopviolence.gov.mt/the-commission-members/"
+      }
     },
     "Authority on the Responsible Use of Cannabis": {
       "executive_chairman": "Mr Joey Reno Vella",
@@ -3739,7 +3774,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific committee.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Consultative Council for Women's Rights": {
@@ -3747,7 +3782,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Council for Foreign Communities in Malta": {
@@ -3755,7 +3790,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "LGBTIQ Consultative Council": {
@@ -3763,7 +3798,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted: the last confirmed chairperson (Gabi Calleja, appointed 2015) was reported by 2023 to have moved into a government SOGIGESC unit role instead, suggesting she may no longer chair the Council - not reconfirmed either way, so no name was recorded to avoid presenting stale or superseded information as current.",
+      "note": "Individually re-searched; last confirmed chair (Gabi Calleja, 2015) reportedly moved to a government SOGIGESC unit role by 2023 - not reconfirmed either way, so no name recorded.",
       "no_info_found": true
     },
     "Board on Reforms and Human Rights": {
@@ -3771,7 +3806,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "I Belong Appeals Board": {
@@ -3779,7 +3814,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific board.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Integration and Anti-Racism Consultative Council (IARCC)": {
@@ -3787,7 +3822,7 @@
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
       "website_note": "No official webpage found for this specific council.",
-      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "note": "Individually searched; no named chairperson found.",
       "no_info_found": true
     },
     "Local Governance Board": {
