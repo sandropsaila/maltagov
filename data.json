@@ -4033,142 +4033,240 @@
       "no_info_found": true
     },
     "Malta College of Arts, Science and Technology (MCAST)": {
+      "chairman": "Mr Frederick Schembri",
+      "ceo": "Mr Stephen Vella",
+      "website": "https://mcast.edu.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "https://mcast.edu.mt/principals-office-3-2/ ; https://en.wikipedia.org/wiki/Malta_College_of_Arts,_Science_and_Technology",
+      "note": "'Chairman' field captures the College President role (Frederick Schembri, per Wikipedia infobox); Principal/CEO Stephen Vella publicly engaged in an academic dispute with the outgoing UM Rector in March 2026 over MCAST funding, confirming his currency.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://mcast.edu.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Frederick Schembri": "President of the Malta College of Arts, Science and Technology (MCAST), per the College's official profile.",
+        "Mr Stephen Vella": "Principal and Chief Executive Officer of the Malta College of Arts, Science and Technology (MCAST). Educated at Savio College, Stella Maris College, the University of Malta and Falkirk College of Arts in Scotland, with an MBA from Henley School of Management. Began his career teaching Graphic Design and Photography at Salvatore Dimech School for Craftsmen in 1993, rising to Deputy Director in 2003, and has spent over twenty years across MCAST's institutes and corporate structure. Represented MCAST at Prof. Frank Bezzina's installation as University of Malta Rector in June 2026, and publicly defended MCAST's funding model in March 2026 following comments by the outgoing UM Rector about the University's financial deficit."
+      },
+      "bio_sources": {
+        "Mr Frederick Schembri": "https://en.wikipedia.org/wiki/Malta_College_of_Arts,_Science_and_Technology",
+        "Mr Stephen Vella": "https://mcast.edu.mt/principals-office-3-2/"
+      }
     },
     "University of Malta (UoM)": {
+      "chairman": "Prof. Frank Bezzina",
+      "website": "https://www.um.edu.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "https://www.um.edu.mt/newspoint/people/2026/proffrankbezzinaelected82ndrectoroftheuniversityofmalta.html ; https://www.um.edu.mt/newspoint/academia/2026/newuniversityofmaltapro-rectorteamannounced.html",
+      "note": "'Chairman' field used to capture the Rector role, as UoM's chief academic and administrative officer. Prof. Bezzina unanimously elected 26 March 2026, began his 5-year term 1 July 2026, succeeding Prof. Alfred J. Vella (Rector since 2016). Also recorded is Prof. Bezzina's concurrent role as an Accountancy Board member and Central Bank of Malta director, per prior research in this project - a genuine cross-appointment.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.um.edu.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Prof. Frank Bezzina": "Rector of the University of Malta, unanimously elected by the University Council on 26 March 2026 as the sole nominee, beginning his five-year term on 1 July 2026 and succeeding Prof. Alfred J. Vella. Outlined a vision of the University as a strategic national institution during his Council presentation titled 'Knowledge for the common good.' Also serves as a Board Member of the Accountancy Board and a Director on the Board of the Central Bank of Malta, per prior research in this project."
+      },
+      "bio_sources": {
+        "Prof. Frank Bezzina": "https://www.um.edu.mt/newspoint/people/2026/proffrankbezzinaelected82ndrectoroftheuniversityofmalta.html"
+      }
     },
     "Malta Further and Higher Education Authority": {
+      "chairman": "Dr Edward Woods",
+      "ceo": "Mr James Perry Maia",
+      "board_members": [
+        "Mr Anthony Borg",
+        "Mr Anatole",
+        "Ms Desiree Cassar"
+      ],
+      "website": "https://mfhea.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "https://mfhea.mt/mfhea-board-members/ ; https://www.independent.com.mt/articles/2025-10-14/local-news/James-Perry-Maia-appointed-CEO-of-Malta-Further-and-Higher-Education-Authority-6736283932 ; https://theshiftnews.com/2025/11/14/failed-education-ceo-given-new-consultancy-job/",
+      "note": "Significant governance story: previous CEO Dr Rose Anne Cuschieri resigned September 2025, officially citing retirement age, but The Shift News reported this followed MFHEA's failed EQAR (European Quality Assurance Register) accreditation application - EQAR cited weaknesses including lack of transparency, overreliance on ministerial influence, and inadequate oversight, including of a Ukrainian institution (International European University) later accused of fraud that MFHEA took two years to act against. Cuschieri was controversially given a new MCAST consultancy role, recommended by the Education Minister. Chairman Edward Woods has an extensive history of chairing Maltese public bodies including the Malta Maritime Authority and Malta Communications Authority. Board member surname 'Anatole' is incomplete in the source snippet.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://mfhea.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Edward Woods": "Chairman of the Malta Further and Higher Education Authority (MFHEA). A lawyer (LL.D.) specialising in Civil and Commercial Law, with a focus on Marine Disputes, Business Partnerships and Property Law. Extensive public board history: former Chairman of the Malta Maritime Authority, former Chairman of the Malta Communications Authority, Member of the Board of Governors of the Malta Arbitration Centre, and involvement in the Valletta Cruise Liner Terminal Project.",
+        "Mr James Perry Maia": "Chief Executive Officer of the Malta Further and Higher Education Authority (MFHEA), appointed October 2025, succeeding Dr Rose Anne Cuschieri. Over two decades of experience in education leadership, quality assurance and institutional governance. Previously Deputy Director at MCAST's Institute of Business Management and Commerce; also held senior roles as CEO of the Federation of English Language Teaching Organisations Malta (FELTOM), Executive Director of the Archbishop's Seminary, Deputy/Acting Director at the Institute of Tourism Studies, and Accreditation Officer at the former National Commission for Further and Higher Education. Represented Malta internationally on ECVET and EQAVET frameworks.",
+        "Mr Anthony Borg": "Board Member of the Malta Further and Higher Education Authority (MFHEA). Extensive Civil Service career holding executive positions across the Ministries of Finance, Works, Social Services, Parliament and the Office of the Prime Minister; appointed Director on the Boards of ARMS, ERL, MECS and MITA.",
+        "Mr Anatole": "Board Member of the Malta Further and Higher Education Authority (MFHEA), as listed on the Authority's own Board Members page (full surname not captured in the available source). Served as Deputy Chairman for the former National Commission for Further & Higher Education in 2020; founded a private consultancy firm in 1998; currently Chairperson of the Independent Community Living Appeals Board.",
+        "Ms Desiree Cassar": "Board Member of the Malta Further and Higher Education Authority (MFHEA). Graduated with a Doctorate in Law from the University of Malta in 2003 and was admitted to the Maltese Bar in 2004. Member of the Chamber of Advocates and the Institute of Financial Services Practitioners; has delivered lectures and seminars on specialist legal subjects."
+      },
+      "bio_sources": {
+        "Dr Edward Woods": "https://mfhea.mt/mfhea-board-members/",
+        "Mr Anthony Borg": "https://mfhea.mt/mfhea-board-members/",
+        "Mr Anatole": "https://mfhea.mt/mfhea-board-members/",
+        "Ms Desiree Cassar": "https://mfhea.mt/mfhea-board-members/",
+        "Mr James Perry Maia": "https://www.independent.com.mt/articles/2025-10-14/local-news/James-Perry-Maia-appointed-CEO-of-Malta-Further-and-Higher-Education-Authority-6736283932"
+      }
     },
     "Sports Scholarships Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Community Malta Agency": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Education Malta Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Institute for Education": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific institute in this check (instituteforeducation.gov.mt referenced by third parties but not independently verified live)."
+      "website_note": "No official webpage found for this specific institute in this check (instituteforeducation.gov.mt referenced by third parties but not independently verified live).",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Junior College Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board, distinct from the Junior College's own site."
+      "website_note": "No official webpage found for this specific board, distinct from the Junior College's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "MATSEC Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Board for Compulsory Education": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Curriculum Framework Implementation Review Board": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "SportMalta": {
+      "ceo": "Mr Mark Cutajar",
+      "website": "https://sportmalta.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "https://www.flickr.com/photos/comsec/33034948124",
+      "note": "CEO identification sourced from a January 2025 Commonwealth Secretariat event photo caption rather than SportMalta's own site or a news article - lower confidence than other entries in this batch, flagged accordingly.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific entity in this check."
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Mark Cutajar": "Chief Executive Officer of SportMalta, identified via a January 2025 Commonwealth Secretariat photo caption from the 2nd Commonwealth Debate on Sport and Sustainable Development. Not independently corroborated via SportMalta's own official channels in this check."
+      },
+      "bio_sources": {
+        "Mr Mark Cutajar": "https://www.flickr.com/photos/comsec/33034948124"
+      }
     },
     "National Literacy Agency": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency."
+      "website_note": "No official webpage found for this specific agency.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "University Faculty Boards (Govt rep)": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "This refers to Government representation on University Faculty Boards, not a single entity with one website."
+      "website_note": "This refers to Government representation on University Faculty Boards, not a single entity with one website.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Residency Malta Agency": {
+      "ceo": "Dr Kurt Farrugia",
+      "website": "https://residencymalta.gov.mt/",
       "ministry": "Education and Sport (MES)",
+      "source": "http://livenewsmalta.com/index.php/2026/06/30/kurt-farrugia-to-become-ceo-of-residenza-malta/",
+      "note": "Appointed 1 July 2026, succeeding the late Jonathan Cardona who died in office. Part of the same June-July 2026 government reshuffle that saw Leonid McKay move to Transport Malta; Farrugia previously led both Malta Enterprise and Transport Malta.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Dr Kurt Farrugia": "Chief Executive Officer of the Residency Malta Agency (formerly styled Residenza Malta), which manages the Malta Permanent Residence Programme, appointed 1 July 2026 following the death in office of predecessor Jonathan Cardona. Previously CEO of Transport Malta (2024-2026) and CEO of Malta Enterprise (2019-2024), and before that Head of Government Communications and spokesperson for the Prime Minister. His appointment was part of a broader June-July 2026 reshuffle that also saw Leonid McKay move from the Labour Party CEO role to Transport Malta."
+      },
+      "bio_sources": {
+        "Dr Kurt Farrugia": "http://livenewsmalta.com/index.php/2026/06/30/kurt-farrugia-to-become-ceo-of-residenza-malta/"
+      }
     },
     "Authority for Integrity in Maltese Sport": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific authority in this check."
+      "website_note": "No official webpage found for this specific authority in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Council for the Teaching Profession": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Council of the University of Malta": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council, distinct from the University's own site."
+      "website_note": "No official webpage found for this specific council, distinct from the University's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "English Language Teaching Council": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "website_note": "No official webpage found for this specific council in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Racing Club Council": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Skills Council": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Educational Services": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation in this check."
+      "website_note": "No official webpage found for this specific foundation in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Tomorrow's Schools": {
       "ministry": "Education and Sport (MES)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation in this check."
+      "website_note": "No official webpage found for this specific foundation in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Social Welfare Services": {
       "ministry": "Social Policy and the Family (MSF)",
