@@ -2811,10 +2811,11 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Individually searched via economy.gov.mt's public bodies directory (listed with its own 'Board of Directors' sub-heading); no named directors found.",
+      "note": "Individually re-checked via Nimble deep-extract of the dedicated economy.gov.mt board page - confirmed genuinely empty (page has header only, no names, just Contact Us address).",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific company."
+      "website_note": "No official webpage found for this specific company.",
+      "website": "https://economy.gov.mt/public-bodies/casma-ltd-board-of-directors/"
     },
     "Gozo Fibre Optic Cable Co Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
