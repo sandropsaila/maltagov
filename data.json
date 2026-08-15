@@ -3327,70 +3327,106 @@
       "website_note": "No official webpage found for this specific board (distinct from pbs.com.mt itself)."
     },
     "Aġenzija Sapport": {
+      "ceo": "Mr Oliver Scicluna",
+      "website": "https://sapport.gov.mt/",
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
+      "source": "https://sapport.gov.mt/about/ ; https://maltaceos.mt/agenzija-sapport-ceo-people-underestimate-what-someone-with-a-disability-can-bring-to-the-table/",
+      "note": "Scicluna is concurrently a Member of Parliament, having previously been co-opted into parliament from the role of Commissioner for Persons with Disabilities in January 2021 (succeeded there by Samantha Pace Gasan). Received the European Leadership in Social Services Award in 2025.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://sapport.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Oliver Scicluna": "Chief Executive Officer of Aġenzija Sapport, Malta's national agency providing services and support to persons with disabilities and their families. Born 14 July 1986 with Spina Bifida. Educated at Kalkara Primary School, De La Salle College, MCAST, the University of Malta and University of Chester, graduating in informatics, youth studies and public administration. Led several disability-sector voluntary organisations including Breaking Limits. Served as Malta's first Commissioner for the Rights of Persons with Disability from 2014 before being co-opted into Parliament in January 2021, where he continues to serve as an MP alongside his CEO role. Received the European Leadership in Social Services Award from the European Social Network in 2025."
+      },
+      "bio_sources": {
+        "Mr Oliver Scicluna": "https://sapport.gov.mt/about/"
+      }
     },
     "Commission for the Rights of Persons with Disability": {
+      "director": "Ms Rhoda Garland",
+      "website": "https://www.crpd.org.mt/",
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
+      "source": "https://www.independent.com.mt/articles/2023-10-04/local-news/Rhoda-Garland-appointed-Commissioner-for-the-Rights-of-Persons-with-Disability-6736255352",
+      "note": "Appointed Commissioner October 2023 after passing Public Appointments Committee scrutiny, having served as Acting Commissioner beforehand. Succession chain: Samantha Pace Gasan (2021) preceded her; not reconfirmed as still in post beyond October 2023, so flagged for future re-check. The Commission's wider 14-member Council was not individually researched.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.crpd.org.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Ms Rhoda Garland": "Commissioner for the Rights of Persons with Disability (CRPD), appointed October 2023 after serving as Acting Commissioner. Graduated with a Bachelor with Honours in Accounting and Finance and became a Management Accountant with the Chartered Institute of Management Accountants; worked for many years as a Management Accountant for a UK-based company before returning to Malta as an IT consultant. In 2014, began working as a researcher on Malta's first UN Convention report within the Parliamentary Secretariat for the Rights of Persons with Disability and Active Ageing. Completed a Masters in Disability Studies from the University of Malta in 2015, then joined the CRPD, becoming its Executive Director from 2016. Former President of the NGO Breaking Limits."
+      },
+      "bio_sources": {
+        "Ms Rhoda Garland": "https://www.independent.com.mt/articles/2023-10-04/local-news/Rhoda-Garland-appointed-Commissioner-for-the-Rights-of-Persons-with-Disability-6736255352"
+      }
     },
     "ENGAGE Board": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Guardianship Board": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Office of the Commissioner for Voluntary Organisations": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office in this check."
+      "website_note": "No official webpage found for this specific office in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Council for the Voluntary Sector": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council in this check."
+      "website_note": "No official webpage found for this specific council in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Maltese Sign Language Council": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Autism Advisory Council": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Interpreter Registration and Warranting Board": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Personal Budget Assistance Scheme Appeals Board": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Personal Budget Assistance Scheme Board": {
       "ministry": "Inclusion and the Voluntary Sector (MIV)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Commission for the Promotion of Equality": {
       "director": "Ms Renee Laiviera",
