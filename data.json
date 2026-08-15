@@ -5912,154 +5912,243 @@
       "no_info_found": true
     },
     "Malta Information Technology Agency": {
+      "chairman": "Mr Tony Sultana",
+      "ceo": "Mr Emanuel Darmanin",
+      "website": "https://mita.gov.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://mita.gov.mt/about-us/our-management/",
+      "note": "Chairman Tony Sultana was appointed Principal Permanent Secretary in 2022 while retaining his MITA chairmanship - the same Tony Sultana who, per servizz.gov's own materials, also serves as Head of the Public Service of Malta, confirming a genuine cross-appointment.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://mita.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Tony Sultana": "Chairman of the Malta Information Technology Agency (MITA) and Principal Permanent Secretary (Head of the Public Service of Malta) since 2022, a dual role he retains concurrently. Joined the public service in 1986 with the then Government Computer Centre, pioneering strategic use of information technology in the public sector. Holds a degree in Mathematics and Computing from the University of Malta and a Master of Science in Management from Anglia University, with specialised training in industrial electronics and computer-aided manufacturing from programmes in Singapore and Japan. Has prioritised modernising Government's digital ICT landscape and cyber security during his tenure.",
+        "Mr Emanuel Darmanin": "Chief Executive Officer of the Malta Information Technology Agency (MITA), the central driver of the Government of Malta's ICT policy, programmes and infrastructure."
+      },
+      "bio_sources": {
+        "Mr Tony Sultana": "https://mita.gov.mt/about-us/our-management/",
+        "Mr Emanuel Darmanin": "https://mita.gov.mt/about-us/our-management/"
+      }
     },
     "servizz.gov Agency": {
+      "ceo": "Mr Massimo Vella",
+      "website": "https://www.servizz.gov.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://whoswho.mt/en/servizz-gov-simplifying-government-services-for-everyone ; https://www.servizz.gov.mt/en/Pages/Servizz/TheAgency/default.aspx",
+      "note": "Appointed CEO August 2020. Confirmed still current via a LinkedIn post showing him alongside Principal Permanent Secretary Tony Sultana (also MITA Chairman) at the inauguration of three new servizz.gov centres.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://www.servizz.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Massimo Vella": "Chief Executive Officer of servizz.gov, the government agency (set up by LN 171/2016) bringing together public services across 25 hubs in Malta and Gozo, appointed August 2020. Described the agency's mission as making government services more accessible both digitally and through the personal touch of locality-based service centres."
+      },
+      "bio_sources": {
+        "Mr Massimo Vella": "https://whoswho.mt/en/servizz-gov-simplifying-government-services-for-everyone"
+      }
     },
     "Public Service Commission": {
+      "chairman": "Mr Saviour Cachia",
+      "deputy_chairperson": "Ms Marie-Lourdes Grech",
+      "board_members": [
+        "Mr Vincent Piccinino"
+      ],
+      "website": "https://psc.gov.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://psc.gov.mt/en/about-the-commission/",
+      "note": "All members re-appointed from 18 July 2025, per the Commission's own site. The PSC is a constitutionally-entrenched body (formalised 1960, entrenched in the Constitution of Malta), functioning continuously since.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://psc.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Saviour Cachia": "Chairperson of the Public Service Commission, re-appointed from 18 July 2025.",
+        "Ms Marie-Lourdes Grech": "Deputy Chairperson of the Public Service Commission, re-appointed from 18 July 2025. A former public officer with 37 years in the Office of the Prime Minister across the Establishment Division, Staff Development Organisation and Operations and Programme Implementation Directorate, among others; also served briefly at the House of Representatives and for four years at the Embassy of Malta in Brussels. Retired in May 2016 as Director General at the Cabinet Office.",
+        "Mr Vincent Piccinino": "Member of the Public Service Commission, re-appointed from 18 July 2025. A retired public officer."
+      },
+      "bio_sources": {
+        "Mr Saviour Cachia": "https://psc.gov.mt/en/about-the-commission/",
+        "Ms Marie-Lourdes Grech": "https://psc.gov.mt/en/about-the-commission/",
+        "Mr Vincent Piccinino": "https://psc.gov.mt/en/about-the-commission/"
+      }
     },
     "Coordinating Committee on Human Resources Planning": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malta Vision 2050 Steering Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Managing Committee of the Red Cross Society": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee, distinct from the Malta Red Cross Society's own site."
+      "website_note": "No official webpage found for this specific committee, distinct from the Malta Red Cross Society's own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Re-employment and Re-Instatement Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Employment Commission": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific constitutional body in this check."
+      "website_note": "No official webpage found for this specific constitutional body in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Electoral Commission": {
+      "chairman": "Mr Joseph Camilleri",
+      "website": "https://electoral.gov.mt/",
       "ministry": "Office of the Prime Minister (OPM)",
+      "source": "https://www.independent.com.mt/articles/2020-06-25/local-news/Government-announces-appointments-of-permanent-secretaries-new-Electoral-Commission-chief-6736224539 ; https://electoral.gov.mt/AboutUs",
+      "note": "The Chief Electoral Commissioner also serves as ex officio Chairperson of the Commission, per the Commission's own About Us page. Camilleri's appointment (July 2020) was not independently reconfirmed as current despite extensive 2026 general election press coverage, which referenced 'the Electoral Commission' and 'Electoral Commissioners' collectively without naming individuals in the results reviewed.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific constitutional body in this check."
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Joseph Camilleri": "Chief Electoral Commissioner and ex officio Chairperson of the Electoral Commission of Malta, appointed July 2020, succeeding Joseph Church. Previously served as Permanent Secretary since 2013, both with the Ministry for National Heritage, Arts and Local Government and the Ministry for Social Dialogue, Consumer Affairs and Civil Liberties."
+      },
+      "bio_sources": {
+        "Mr Joseph Camilleri": "https://www.independent.com.mt/articles/2020-06-25/local-news/Government-announces-appointments-of-permanent-secretaries-new-Electoral-Commission-chief-6736224539"
+      }
     },
     "Educators Board for the Institute for the Public Services": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site."
+      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Institute for the Public Services Board": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site."
+      "website_note": "No official webpage found for this specific board, distinct from the Institute for the Public Services' own site.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Internal Audit and Investigations Board": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Revolving Door Policy Governing Board": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Cyber Security Steering Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Security Accreditation Authority Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "National Sovereignty and Jurisdiction Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Nominations Committee Ġieħ ir-Repubblika": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Senior Appointments Advisory Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Social Causes Fund Committee": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Street Naming Committee - Malta": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Data Governance Council": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Youth Advisory Forum": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific forum."
+      "website_note": "No official webpage found for this specific forum.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Resource Support & Services Ltd": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company."
+      "website_note": "No official webpage found for this specific company.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Conciliation Meetings Board": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Grievances Unit Board": {
       "ministry": "Office of the Prime Minister (OPM)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Consultative Council for Women's Rights (CCWR)": {
       "ministry": "Equality and Civil Rights (MER)",
