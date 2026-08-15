@@ -3637,82 +3637,160 @@
       "no_info_found": true
     },
     "Housing Authority": {
+      "chairperson": "Mr Robert Ducker",
+      "deputy_chairperson": "Mr Kenneth Busuttil",
+      "ceo": "Mr Matthew Zerafa",
+      "board_members": [
+        "Mr Peter Fitzgerald",
+        "Mr Owen Farrugia",
+        "Ms Henriette Cannataci",
+        "Mr Thomas Grima",
+        "Ms Deborah Lauria",
+        "Ms Josephine Spiteri",
+        "Ms Jennifer Xuereb",
+        "Mr Adrian Farrugia",
+        "Ms Maria Magri"
+      ],
+      "board_secretary": "Dr Alicia Borg",
+      "website": "https://housingauthority.gov.mt/",
       "ministry": "Accommodation and Lands (MAL)",
+      "source": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+      "note": "Full board and management sourced directly from the Authority's own Organisation Structure page. Robert Ducker's concurrent Financial Services Tribunal membership (already independently researched under MFF) is a genuine cross-appointment, confirmed by matching biographical details in both sources.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://housingauthority.gov.mt/"
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Mr Robert Ducker": "Chairperson of the Housing Authority since 2017, having served as its Vice-Chairperson for four years prior. Educated at St Joseph Rabat and St Aloysius College; obtained an Associateship from the Chartered Institute of Bankers and a BSc (Hons) in Financial Services from the University of Manchester Institute of Science and Technology (1998). Spent 35 years at Bank of Valletta in executive roles including Branch Manager and Head Office units covering Savings & Investments, Wealth Management, Procurement & Administration, and Bancassurance. Currently also serves as a member of the Malta Financial Services Tribunal - the same Financial Services Tribunal researched separately under the Finance ministry, confirming this cross-appointment.",
+        "Mr Kenneth Busuttil": "Vice Chairperson of the Housing Authority, as listed on the Authority's official Organisation Structure page.",
+        "Mr Matthew Zerafa": "Chief Executive Officer of the Housing Authority, appointed November 2022, succeeding Leonid McKay (who moved to head the Authority on the Responsible Use of Cannabis). Previously served as Head of Secretariat and Policy Adviser at the Ministry for Social and Affordable Accommodation. Holds a Bachelor's degree in International Relations and a Master's degree in Intelligence and Security with a focus on enforcement within Maltese public entities, plus further studies in GIS and psychotherapy. Elected to the Architects' Council of Europe in November 2023, serving as Vice Treasurer until end of 2025. Appointed to the EU Housing Advisory Board in 2025, and has overseen digitalisation and the creation of Malta's first property register.",
+        "Dr Alicia Borg": "Secretary of the Housing Authority Board, as listed on the Authority's official Organisation Structure page.",
+        "Mr Peter Fitzgerald": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Owen Farrugia": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Henriette Cannataci": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Thomas Grima": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Deborah Lauria": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Josephine Spiteri": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Jennifer Xuereb": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Mr Adrian Farrugia": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment.",
+        "Ms Maria Magri": "Board Member of the Housing Authority, as listed on the Authority's official Organisation Structure page. No further distinct public biographical details were found beyond the board appointment."
+      },
+      "bio_sources": {
+        "Mr Robert Ducker": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Kenneth Busuttil": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Matthew Zerafa": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Dr Alicia Borg": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Peter Fitzgerald": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Owen Farrugia": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Ms Henriette Cannataci": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Thomas Grima": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Ms Deborah Lauria": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Ms Josephine Spiteri": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Ms Jennifer Xuereb": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Mr Adrian Farrugia": "https://housingauthority.gov.mt/organisationstructure_boardmembers/",
+        "Ms Maria Magri": "https://housingauthority.gov.mt/organisationstructure_boardmembers/"
+      }
     },
     "Lands Authority (LA)": {
+      "ceo": "Mr Robert Vella",
+      "website": "https://landsauthority.org.mt/",
       "ministry": "Accommodation and Lands (MAL)",
+      "source": "https://www.maltatoday.com.mt/news/national/132966/azzopardi_wants_magisterial_inquiry_into_lands_ceo_over_public_land_transfers ; https://landsauthority.org.mt/robert-vella-appointed-as-the-new-ceo-of-the-lands-authority/",
+      "note": "Robert Vella has been CEO since February 2021 and was still referenced as CEO in early-2025 news coverage (relating to a magisterial inquiry request over public land transfers made under his tenure). Board of Governors Chairman name could not be confirmed as current: historical sources name Judge Lino Farrugia Sacco (2018) and separately John Vassallo (December 2022), but neither could be verified as still holding the post as of this check, so no chairman name was recorded to avoid presenting stale information as current.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website": "https://landsauthority.org.mt/"
+      "bio_status": "PARTIALLY RESEARCHED",
+      "bios": {
+        "Mr Robert Vella": "Chief Executive Officer of the Lands Authority since February 2021, succeeding James Piscopo (who resigned following allegations, later denied, of an undisclosed offshore account). Over 35 years in the public sector, having held various roles within the Planning Authority and a work placement with Southampton City Council's Planning Department in the UK. Graduated in Land Administration (Planning) from the University of Malta and a B.Sc. in Environmental Planning (Urban Regeneration) from Birmingham City University. Long-standing member of the Union Professjonisti Awtorità tal-Ippjanar, serving seven years on its Executive Committee. His tenure has drawn scrutiny, including a 2025 request for a magisterial inquiry over land transfers to the private sector, including in the Mellieħa Heights area."
+      },
+      "bio_sources": {
+        "Mr Robert Vella": "https://www.maltatoday.com.mt/news/national/132966/azzopardi_wants_magisterial_inquiry_into_lands_ceo_over_public_land_transfers"
+      }
     },
     "Joint Office": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific office."
+      "website_note": "No official webpage found for this specific office.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Housing Projects Solutions": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Land Registration Agency": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check."
+      "website_note": "No official webpage found for this specific agency in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Rent Compensation Board": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Malita Investments plc": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific company in this check."
+      "website_note": "No official webpage found for this specific company in this check.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Foundation for Affordable Housing": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific foundation."
+      "website_note": "No official webpage found for this specific foundation.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Private Residential Leases - Adjudication Panel": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific panel."
+      "website_note": "No official webpage found for this specific panel.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Allocations and Ad Hoc Committee": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Housing Development Fund Board": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Land Registration Agency Consultative Council": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific council."
+      "website_note": "No official webpage found for this specific council.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Revisory Committee (Housing Authority)": {
       "ministry": "Accommodation and Lands (MAL)",
       "checked": "2026-08-14",
       "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific committee."
+      "website_note": "No official webpage found for this specific committee.",
+      "note": "Re-attempted under combined website+board workflow; no named chairperson/director found.",
+      "no_info_found": true
     },
     "Identity Malta Agency": {
       "ministry": "Infrastructure, Planning and Works (MIPE)",
