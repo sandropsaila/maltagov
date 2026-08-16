@@ -4182,12 +4182,24 @@
       "no_info_found": true
     },
     "Land Registration Agency": {
+      "director": "Ms Michelle Piccinino",
+      "board_members": [
+        "Mr Claude Sapiano"
+      ],
+      "website": "https://lra.mt/",
       "ministry": "Accommodation and Lands (MAL)",
+      "source": "https://www.elra.eu/members/malta/",
+      "note": "Found via the European Land Registry Association's own member directory page, which lists Malta's Land Registration Agency contacts; the ELRA page's news feed shows activity as recent as June 2026, supporting currency. Claude Sapiano is listed as 'Acting Land Registrar' rather than a permanent title.",
       "checked": "2026-08-14",
-      "bio_status": "website only - chair/board not yet researched",
-      "website_note": "No official webpage found for this specific agency in this check.",
-      "note": "Individually searched via the Agency's own lra.mt site; describes function (registration of property in Designated Registration Areas) but does not name a current director.",
-      "no_info_found": true
+      "bio_status": "FULLY RESEARCHED",
+      "bios": {
+        "Ms Michelle Piccinino": "Director (Executive Head) of the Land Registration Agency, Malta's competent entity for the registration of property in Designated Registration Areas and condominium administrators, confirmed via the European Land Registry Association's own member directory.",
+        "Mr Claude Sapiano": "Acting Land Registrar and contact person for the Land Registration Agency, confirmed via the European Land Registry Association's own member directory."
+      },
+      "bio_sources": {
+        "Ms Michelle Piccinino": "https://www.elra.eu/members/malta/",
+        "Mr Claude Sapiano": "https://www.elra.eu/members/malta/"
+      }
     },
     "Rent Compensation Board": {
       "ministry": "Accommodation and Lands (MAL)",
