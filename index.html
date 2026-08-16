@@ -12,6 +12,10 @@ header p.sub{color:var(--muted);max-width:560px;margin:0 auto;font-size:15px;}
 .meta-bar strong{color:var(--ink);font-weight:600;}
 .search-wrap{max-width:640px;margin:32px auto 0;padding:0 24px;}
 #search{width:100%;padding:14px 18px;font-size:15px;border:1px solid var(--line);border-radius:2px;background:var(--card);font-family:'IBM Plex Sans',sans-serif;outline:none;}
+.people-search-wrap{display:flex;align-items:center;gap:12px;margin-bottom:14px;}
+#peopleSearch{flex:1;padding:10px 14px;font-size:14px;border:1px solid var(--line);border-radius:2px;background:var(--card);font-family:'IBM Plex Sans',sans-serif;outline:none;}
+#peopleSearch:focus{border-color:var(--malta-red);}
+.people-count{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);white-space:nowrap;}
 #search:focus{border-color:var(--malta-red);}
 main{max-width:920px;margin:0 auto;padding:40px 24px 100px;}
 .ministry{margin-bottom:14px;border:1px solid var(--line);background:var(--card);}
@@ -112,6 +116,13 @@ function render(data){
   let totalEntities=0, totalChairs=0;
   const mHtml = [];
   const people = [];
+  const peopleSeen = new Set();
+  function pushPerson(p){
+    const key = slug(p.name)+'|'+slug(p.position)+'|'+slug(p.entity);
+    if(peopleSeen.has(key)) return;
+    peopleSeen.add(key);
+    people.push(p);
+  }
 
   const scored = ministries.map(m=>{
     const n = m.entities.length;
@@ -173,13 +184,14 @@ function render(data){
         }).join(', ');
         membersHtml = `<div class="members-block"><div class="members-label">Other board members</div><div class="members-list">${memberLinks}</div></div>`;
       }
+      const canonicalEntity = chair.bio_entity || name;
       contacts.forEach(([label,val])=>{
         const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
-        people.push({name:val, position:label, entity:name, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
+        pushPerson({name:val, position:label, entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
       (chair.board_members||[]).forEach(member=>{
         const matched = Object.keys(bios).find(b=>member.includes(b)||b.includes(member));
-        people.push({name:member, position:'Board Member', entity:name, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
+        pushPerson({name:member, position:'Board Member', entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
 
       return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
@@ -192,7 +204,8 @@ function render(data){
   const peopleRows = people.map(p=>{
     const bioCell = p.href ? `<a class="bio-link" href="${p.href}">Read bio →</a>` : `<span class="bio-no">pending</span>`;
     const srcCell = p.source ? `<a href="${esc(p.source)}" target="_blank" rel="noopener" class="source-link">link ↗</a>` : `<span class="li-pending">—</span>`;
-    return `<tr><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${esc(p.entity)}</td><td>${bioCell}</td><td>${srcCell}</td></tr>`;
+    const searchBlob = esc((p.name+' '+p.position+' '+p.entity).toLowerCase());
+    return `<tr data-search="${searchBlob}"><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${esc(p.entity)}</td><td>${bioCell}</td><td>${srcCell}</td></tr>`;
   }).join('');
 
   const html = `
@@ -200,7 +213,7 @@ function render(data){
 <div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
 <div class="legend" style="margin-top:24px;"><span><i class="dot known"></i>Chair/CEO confirmed</span><span><i class="dot noinfo"></i>Searched — no info found</span><span><i class="dot pending"></i>Not yet researched</span></div>
 <div class="people-toggle-wrap"><button id="peopleToggle" onclick="togglePeople()">☰ People Directory (${people.length} individuals identified)</button></div>
-<div id="peopleDirectory" class="people-directory hidden"><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Source</th></tr></thead><tbody>${peopleRows}</tbody></table><p class="people-note">Source links point to the specific article, profile, or official page each bio was researched from — mainly LinkedIn, maltaceos.mt, and official entity websites. Left blank where no bio has been researched yet.</p></div>
+<div id="peopleDirectory" class="people-directory hidden"><div class="people-search-wrap"><input id="peopleSearch" type="text" placeholder="Search by name, role, or entity…" oninput="filterPeople()"><span id="peopleCount" class="people-count">${people.length} shown</span></div><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Source</th></tr></thead><tbody id="peopleTbody">${peopleRows}</tbody></table><p class="people-note">Source links point to the specific article, profile, or official page each bio was researched from — mainly LinkedIn, maltaceos.mt, and official entity websites. Left blank where no bio has been researched yet.</p></div>
 <main id="list">${mHtml.join('')}</main>
 <footer>Sources: Malta Data Portal (data.gov.mt AdminRegister API) · gov.mt Ministries &amp; Entities · Wikipedia · TVM News · Newsbook.<br>This is a living document — say "update searches" to check for changes since last review.</footer>`;
   document.getElementById('app').innerHTML = html;
@@ -223,6 +236,16 @@ function filterList(){
 }
 function togglePeople(){document.getElementById('peopleDirectory').classList.toggle('hidden');}
 function showPeople(){document.getElementById('peopleDirectory').classList.remove('hidden');document.getElementById('peopleDirectory').scrollIntoView({behavior:'smooth',block:'start'});}
+function filterPeople(){
+  const q = document.getElementById('peopleSearch').value.toLowerCase().trim();
+  let shown = 0;
+  document.querySelectorAll('#peopleTbody tr').forEach(row=>{
+    const match = q.length===0 || row.dataset.search.includes(q);
+    row.classList.toggle('hidden', !match);
+    if(match) shown++;
+  });
+  document.getElementById('peopleCount').textContent = shown + ' shown';
+}
 
 fetch('/data.json').then(r=>r.json()).then(data=>{
   document.getElementById('loadingMsg').classList.add('hidden');
