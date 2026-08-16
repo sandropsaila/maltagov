@@ -166,14 +166,17 @@ function render(data){
       let contacts=[];
       Object.keys(ROLE_LABELS).forEach(k=>{
         const v = chair[k];
-        if(v && !String(v).includes('UNCONFIRMED') && !String(v).includes('NEEDS')) contacts.push([ROLE_LABELS[k], v]);
+        if(v && !String(v).includes('UNCONFIRMED') && !String(v).includes('NEEDS')) contacts.push([ROLE_LABELS[k], v, null]);
+      });
+      (chair.related_officials||[]).forEach(ro=>{
+        contacts.push([ro.role, ro.name, ro.href||null]);
       });
       let contactHtml;
       if(contacts.length){
-        contactHtml = contacts.map(([label,val])=>{
+        contactHtml = contacts.map(([label,val,explicitHref])=>{
           const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
-          if(matched){
-            const href = bioHref(name,matched,chair.bio_entity);
+          const href = explicitHref || (matched ? bioHref(name,matched,chair.bio_entity) : null);
+          if(href){
             return `<a class="contact-block contact-clickable" href="${href}"><div class="contact-name">${esc(val)}</div><div class="contact-title">${esc(label)}</div></a>`;
           }
           return `<div class="contact-block"><div class="contact-name">${esc(val)}</div><div class="contact-title">${esc(label)}</div></div>`;
@@ -194,30 +197,18 @@ function render(data){
         }).join(', ');
         membersHtml = `<div class="members-block"><div class="members-label">Other board members</div><div class="members-list">${memberLinks}</div></div>`;
       }
-      let relatedHtml='';
-      if(chair.related_officials && chair.related_officials.length){
-        relatedHtml = chair.related_officials.map(ro=>{
-          const matched = Object.keys(bios).find(b=>ro.name.includes(b)||b.includes(ro.name));
-          const nameBlock = matched ? `<a class="related-name" href="${bioHref(name,matched,chair.bio_entity)}">${esc(ro.name)}</a>` : `<span class="related-name">${esc(ro.name)}</span>`;
-          return `<div class="related-official"><div class="related-top">${nameBlock}<span class="related-role">${esc(ro.role)}</span></div><div class="related-reason">${esc(ro.reason)}</div></div>`;
-        }).join('');
-        relatedHtml = `<div class="related-block"><div class="related-label">Related officials</div>${relatedHtml}</div>`;
-      }
       const canonicalEntity = chair.bio_entity || name;
-      contacts.forEach(([label,val])=>{
+      contacts.forEach(([label,val,explicitHref])=>{
         const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
-        pushPerson({name:val, position:label, entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
+        const href = explicitHref || (matched ? bioHref(name,matched,chair.bio_entity) : null);
+        pushPerson({name:val, position:label, entity:canonicalEntity, href: href, source: matched?bioSrc[matched]:null});
       });
       (chair.board_members||[]).forEach(member=>{
         const matched = Object.keys(bios).find(b=>member.includes(b)||b.includes(member));
         pushPerson({name:member, position:'Board Member', entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
-      (chair.related_officials||[]).forEach(ro=>{
-        const matched = Object.keys(bios).find(b=>ro.name.includes(b)||b.includes(ro.name));
-        pushPerson({name:ro.name, position:ro.role, entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
-      });
 
-      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}${relatedHtml}</div>`;
+      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
     mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div><span class="pct-badge ${pctClass}">${pct}% complete</span></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
