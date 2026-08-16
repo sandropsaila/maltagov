@@ -2792,10 +2792,11 @@
       "ministry": "Economy, Technology and Strategic Projects (METP)",
       "no_info_found": true,
       "source": "https://economy.gov.mt/public-bodies/",
-      "note": "Individually searched via economy.gov.mt's public bodies directory; listed as an existing board but no named chairperson found.",
+      "note": "A chairman name (Dott. Mario Galea) surfaced via a July 2020 Italian university visit report - over 5 years old and not reconfirmed as current, so NOT recorded as the confirmed chairman. Flagged as a lead for future re-verification rather than presented as fact.",
       "checked": "2026-08-14",
       "bio_status": "SEARCHED - NO INFO FOUND",
-      "website_note": "No official webpage found for this specific board."
+      "website_note": "No official webpage found for this specific board.",
+      "website": "https://economy.gov.mt/public-bodies/national-fdi-screening-supervisory-board-mbr/"
     },
     "Property Management Services Ltd": {
       "ministry": "Economy, Technology and Strategic Projects (METP)",
