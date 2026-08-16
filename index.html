@@ -66,6 +66,16 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .members-list{color:var(--ink);line-height:1.5;}
 .member-link{color:var(--malta-red);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;cursor:pointer;}
 .member-link:hover{color:var(--malta-red-deep);}
+.related-block{background:#f4f0e6;border:1px dashed var(--gold);border-radius:2px;padding:8px 12px;font-size:12.5px;}
+.related-label{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--gold);text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px;}
+.related-official{margin-bottom:6px;}
+.related-official:last-child{margin-bottom:0;}
+.related-top{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;}
+.related-name{color:var(--ink);font-weight:500;text-decoration:none;}
+a.related-name{color:var(--malta-red);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;}
+a.related-name:hover{color:var(--malta-red-deep);}
+.related-role{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);}
+.related-reason{color:var(--muted);font-size:11.5px;margin-top:1px;line-height:1.4;}
 .bios-block{display:flex;flex-direction:column;gap:8px;}
 .bio-item{font-size:12.5px;color:var(--muted);line-height:1.6;background:#faf9f4;border-left:2px solid var(--gold);padding:8px 12px;}
 .bio-name{color:var(--ink);font-weight:600;}
@@ -184,6 +194,15 @@ function render(data){
         }).join(', ');
         membersHtml = `<div class="members-block"><div class="members-label">Other board members</div><div class="members-list">${memberLinks}</div></div>`;
       }
+      let relatedHtml='';
+      if(chair.related_officials && chair.related_officials.length){
+        relatedHtml = chair.related_officials.map(ro=>{
+          const matched = Object.keys(bios).find(b=>ro.name.includes(b)||b.includes(ro.name));
+          const nameBlock = matched ? `<a class="related-name" href="${bioHref(name,matched,chair.bio_entity)}">${esc(ro.name)}</a>` : `<span class="related-name">${esc(ro.name)}</span>`;
+          return `<div class="related-official"><div class="related-top">${nameBlock}<span class="related-role">${esc(ro.role)}</span></div><div class="related-reason">${esc(ro.reason)}</div></div>`;
+        }).join('');
+        relatedHtml = `<div class="related-block"><div class="related-label">Related officials</div>${relatedHtml}</div>`;
+      }
       const canonicalEntity = chair.bio_entity || name;
       contacts.forEach(([label,val])=>{
         const matched = Object.keys(bios).find(b=>val.includes(b)||b.includes(val));
@@ -193,8 +212,12 @@ function render(data){
         const matched = Object.keys(bios).find(b=>member.includes(b)||b.includes(member));
         pushPerson({name:member, position:'Board Member', entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
       });
+      (chair.related_officials||[]).forEach(ro=>{
+        const matched = Object.keys(bios).find(b=>ro.name.includes(b)||b.includes(ro.name));
+        pushPerson({name:ro.name, position:ro.role, entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null});
+      });
 
-      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
+      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}${relatedHtml}</div>`;
     }).join('');
 
     mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div><span class="pct-badge ${pctClass}">${pct}% complete</span></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
