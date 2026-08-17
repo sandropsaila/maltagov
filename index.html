@@ -247,16 +247,8 @@ function render(data){
     } else {
       deloitteCell = `<span class="li-pending">—</span>`;
     }
-    let liCell;
-    if(p.linkedin){
-      liCell = `<a href="${esc(p.linkedin)}" target="_blank" rel="noopener" class="li-yes-badge">LinkedIn ↗</a>`;
-    } else if(p.linkedin === null){
-      liCell = `<span class="li-no-badge">not found</span>`;
-    } else {
-      liCell = `<span class="li-pending">—</span>`;
-    }
     const searchBlob = esc((p.name+' '+p.position+' '+p.entity).toLowerCase());
-    return `<tr data-search="${searchBlob}" data-deloitte="${deloitteLinked?'1':'0'}"><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${esc(p.entity)}</td><td>${bioCell}</td><td>${srcCell}</td><td>${deloitteCell}</td><td>${liCell}</td></tr>`;
+    return `<tr data-search="${searchBlob}" data-deloitte="${deloitteLinked?'1':'0'}"><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${esc(p.entity)}</td><td>${bioCell}</td><td>${srcCell}</td><td>${deloitteCell}</td></tr>`;
   }).join('');
   const deloitteLinkedCount = people.filter(p=>p.deloitte&&p.deloitte.linked).length;
 
@@ -265,7 +257,7 @@ function render(data){
 <div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
 <div class="legend" style="margin-top:24px;"><span><i class="dot known"></i>Chair/CEO confirmed</span><span><i class="dot noinfo"></i>Searched — no info found</span><span><i class="dot pending"></i>Not yet researched</span></div>
 <div class="people-toggle-wrap"><button id="peopleToggle" onclick="togglePeople()">☰ People Directory (${people.length} individuals identified)</button></div>
-<div id="peopleDirectory" class="people-directory hidden"><div class="people-search-wrap"><input id="peopleSearch" type="text" placeholder="Search by name, role, or entity…" oninput="filterPeople()"><span class="deloitte-filter-wrap"><input type="checkbox" id="deloitteFilter" onchange="filterPeople()"><label for="deloitteFilter">Deloitte links only (${deloitteLinkedCount})</label></span><span id="peopleCount" class="people-count">${people.length} shown</span></div><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Source</th><th>Deloitte</th><th>LinkedIn</th></tr></thead><tbody id="peopleTbody">${peopleRows}</tbody></table><p class="people-note">Source links point to the specific article, profile, or official page each bio was researched from — mainly LinkedIn, maltaceos.mt, and official entity websites. Left blank where no bio has been researched yet. Deloitte column: "Deloitte ↗" = confirmed link to Deloitte Malta (hover for detail); "checked — none" = individually verified with no link found; blank = not yet checked (${(data.deloitte_progress&&data.deloitte_progress.checked_count)||0} of ${(data.deloitte_progress&&data.deloitte_progress.total_bios)||478} people checked so far). LinkedIn column: "LinkedIn ↗" = confirmed personal profile found; "not found" = individually checked with no confident match; blank = not yet checked.</p></div>
+<div id="peopleDirectory" class="people-directory hidden"><div class="people-search-wrap"><input id="peopleSearch" type="text" placeholder="Search by name, role, or entity…" oninput="filterPeople()"><span class="deloitte-filter-wrap"><input type="checkbox" id="deloitteFilter" onchange="filterPeople()"><label for="deloitteFilter">Deloitte links only (${deloitteLinkedCount})</label></span><span id="peopleCount" class="people-count">${people.length} shown</span></div><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Source</th><th>Deloitte</th></tr></thead><tbody id="peopleTbody">${peopleRows}</tbody></table><p class="people-note">Source links point to the specific article, profile, or official page each bio was researched from — mainly LinkedIn, maltaceos.mt, and official entity websites. Left blank where no bio has been researched yet. Deloitte column: "Deloitte ↗" = confirmed link to Deloitte Malta (hover for detail); "checked — none" = individually verified with no link found; blank = not yet checked (${(data.deloitte_progress&&data.deloitte_progress.checked_count)||0} of ${(data.deloitte_progress&&data.deloitte_progress.total_bios)||478} people checked so far).</p></div>
 <main id="list">${mHtml.join('')}</main>
 <footer>Sources: Malta Data Portal (data.gov.mt AdminRegister API) · gov.mt Ministries &amp; Entities · Wikipedia · TVM News · Newsbook.<br>This is a living document — say "update searches" to check for changes since last review.</footer>`;
   document.getElementById('app').innerHTML = html;
