@@ -118,10 +118,55 @@ table.people-table tr:last-child td{border-bottom:none;}
 .li-no-badge{font-family:'IBM Plex Mono',monospace;font-size:10.5px;color:var(--muted);}
 @media (max-width:640px){table.people-table{font-size:11.5px;}table.people-table th,table.people-table td{padding:6px 6px;}}
 #loadingMsg{text-align:center;padding:80px 24px;color:var(--muted);font-family:'IBM Plex Mono',monospace;}
+#pinGate{position:fixed;inset:0;z-index:9999;background:var(--paper);display:flex;align-items:center;justify-content:center;padding:24px;}
+#pinGate .gateCard{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:40px 36px;max-width:360px;width:100%;text-align:center;box-shadow:0 12px 32px rgba(0,0,0,.08);}
+#pinGate h2{font-family:'Fraunces',serif;font-weight:700;font-size:22px;margin:0 0 8px;color:var(--ink);}
+#pinGate p{color:var(--muted);font-size:14px;margin:0 0 22px;}
+#pinGate input{width:100%;box-sizing:border-box;font-family:'IBM Plex Mono',monospace;font-size:22px;letter-spacing:.4em;text-align:center;padding:12px 10px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);}
+#pinGate input:focus{outline:none;border-color:var(--malta-red);}
+#pinGate button{margin-top:14px;width:100%;padding:11px;border:none;border-radius:6px;background:var(--malta-red);color:#fff;font-family:'IBM Plex Sans',sans-serif;font-weight:600;font-size:14px;cursor:pointer;}
+#pinGate button:hover{background:var(--malta-red-deep);}
+#pinGate .gateError{color:var(--malta-red);font-size:13px;margin-top:10px;min-height:16px;}
+body.gate-locked #loadingMsg,body.gate-locked #app{display:none!important;}
 </style></head><body>
+<div id="pinGate">
+  <div class="gateCard">
+    <h2>Restricted Access</h2>
+    <p>Enter the 4-digit PIN to view the register.</p>
+    <form id="pinForm" autocomplete="off">
+      <input id="pinInput" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autofocus>
+      <button type="submit">Unlock</button>
+      <div class="gateError" id="gateError"></div>
+    </form>
+  </div>
+</div>
 <div id="loadingMsg">Loading Malta government structure register…</div>
 <div id="app" class="hidden"></div>
 <script>
+(function(){
+  var CORRECT_PIN='1122';
+  var gate=document.getElementById('pinGate');
+  var form=document.getElementById('pinForm');
+  var input=document.getElementById('pinInput');
+  var err=document.getElementById('gateError');
+  if(sessionStorage.getItem('mgsr_gate_ok')==='1'){
+    gate.style.display='none';
+  } else {
+    document.body.classList.add('gate-locked');
+  }
+  form.addEventListener('submit',function(e){
+    e.preventDefault();
+    if(input.value===CORRECT_PIN){
+      sessionStorage.setItem('mgsr_gate_ok','1');
+      gate.style.display='none';
+      document.body.classList.remove('gate-locked');
+    } else {
+      err.textContent='Incorrect PIN. Please try again.';
+      input.value='';
+      input.focus();
+    }
+  });
+})();
 const ROLE_LABELS = {chairman:'Chairman',chairperson:'Chairperson',executive_chairman:'Executive Chairman',ceo:'CEO',coo:'Chief Operating Officer',planning_board_chairman:'Planning Board Chairman',board_secretary:'Board Secretary',deputy_chairman:'Deputy Chairman',deputy_chairperson:'Deputy Chairperson',director:'Director',vice_chairman:'Vice Chairman',president:'President',director_general:'Director General',treasurer:'Treasurer'};
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');}
