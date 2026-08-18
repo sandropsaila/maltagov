@@ -65,6 +65,8 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .members-label{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:3px;}
 .members-list{color:var(--ink);line-height:1.5;}
 .member-link{color:var(--malta-red);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;cursor:pointer;}
+.composition-source-link{color:var(--gold);font-family:'IBM Plex Mono',monospace;font-size:11px;text-decoration:none;white-space:nowrap;}
+.composition-source-link:hover{text-decoration:underline;}
 .member-link:hover{color:var(--malta-red-deep);}
 .related-block{background:#f4f0e6;border:1px dashed var(--gold);border-radius:2px;padding:8px 12px;font-size:12.5px;}
 .related-label{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--gold);text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px;}
@@ -261,7 +263,8 @@ function render(data){
         }).join(', ');
         membersHtml = `<div class="members-block"><div class="members-label">Other board members</div><div class="members-list">${memberLinks}</div></div>`;
       } else if(chair.composition_note){
-        membersHtml = `<div class="members-block"><div class="members-label">Committee composition</div><div class="members-list">${esc(chair.composition_note)}</div></div>`;
+        const compSourceHtml = chair.composition_note_source ? ` <a href="${esc(chair.composition_note_source)}" target="_blank" rel="noopener" class="composition-source-link">source ↗</a>` : '';
+        membersHtml = `<div class="members-block"><div class="members-label">Committee composition</div><div class="members-list">${esc(chair.composition_note)}${compSourceHtml}</div></div>`;
       }
       const canonicalEntity = chair.bio_entity || name;
       contacts.forEach(([label,val,explicitHref])=>{
