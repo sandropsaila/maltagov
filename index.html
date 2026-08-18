@@ -132,10 +132,9 @@ body.gate-locked #loadingMsg,body.gate-locked #app{display:none!important;}
 <div id="pinGate">
   <div class="gateCard">
     <h2>Restricted Access</h2>
-    <p>Enter the 4-digit PIN to view the register.</p>
+    <p>Enter PIN to access.</p>
     <form id="pinForm" autocomplete="off">
       <input id="pinInput" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autofocus>
-      <button type="submit">Unlock</button>
       <div class="gateError" id="gateError"></div>
     </form>
   </div>
@@ -154,16 +153,18 @@ body.gate-locked #loadingMsg,body.gate-locked #app{display:none!important;}
   } else {
     document.body.classList.add('gate-locked');
   }
-  form.addEventListener('submit',function(e){
-    e.preventDefault();
-    if(input.value===CORRECT_PIN){
-      sessionStorage.setItem('mgsr_gate_ok','1');
-      gate.style.display='none';
-      document.body.classList.remove('gate-locked');
-    } else {
-      err.textContent='Incorrect PIN. Please try again.';
-      input.value='';
-      input.focus();
+  form.addEventListener('submit',function(e){ e.preventDefault(); });
+  input.addEventListener('input',function(){
+    if(input.value.length===4){
+      if(input.value===CORRECT_PIN){
+        sessionStorage.setItem('mgsr_gate_ok','1');
+        gate.style.display='none';
+        document.body.classList.remove('gate-locked');
+      } else {
+        err.textContent='Incorrect PIN. Please try again.';
+        input.value='';
+        input.focus();
+      }
     }
   });
 })();
