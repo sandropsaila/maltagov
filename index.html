@@ -260,6 +260,8 @@ function render(data){
           return esc(member);
         }).join(', ');
         membersHtml = `<div class="members-block"><div class="members-label">Other board members</div><div class="members-list">${memberLinks}</div></div>`;
+      } else if(chair.composition_note){
+        membersHtml = `<div class="members-block"><div class="members-label">Committee composition</div><div class="members-list">${esc(chair.composition_note)}</div></div>`;
       }
       const canonicalEntity = chair.bio_entity || name;
       contacts.forEach(([label,val,explicitHref])=>{
