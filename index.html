@@ -52,6 +52,8 @@ table.type-table tr:not(:last-child) td{border-bottom:1px solid #f1efe4;}
 .chair-tag{font-size:11px;white-space:nowrap;padding:3px 8px;border-radius:2px;font-family:'IBM Plex Mono',monospace;flex-shrink:0;}
 .website-link{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold,#a1893f);text-decoration:none;border-bottom:1px solid currentColor;margin:2px 0 6px;}
 .website-link:hover{opacity:0.75;}
+.govbody-link{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:11px;color:#86bc25;text-decoration:none;border-bottom:1px solid currentColor;margin:2px 0 6px 10px;}
+.govbody-link:hover{opacity:0.75;}
 .website-none{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted,#6b6a5f);font-style:italic;margin:2px 0 6px;cursor:help;}
 .chair-pending{background:var(--pending-bg);color:var(--muted);}
 .chair-noinfo{background:transparent;color:var(--muted);border:1px dashed var(--muted);}
@@ -277,7 +279,8 @@ function render(data){
         pushPerson({name:member, position:'Board Member', entity:canonicalEntity, href: matched?bioHref(name,matched,chair.bio_entity):null, source: matched?bioSrc[matched]:null, deloitte: findDeloitte(chair,member), linkedin: findLinkedIn(chair,member)});
       });
 
-      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
+      const govbodyHtml = chair.govbody_page ? `<a class="govbody-link" href="${esc(chair.govbody_page)}">Entity profile & Deloitte opportunities ↗</a>` : '';
+      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${govbodyHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
     mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div><span class="pct-badge ${pctClass}">${pct}% complete</span></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
