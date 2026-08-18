@@ -4,7 +4,7 @@
 *{box-sizing:border-box;}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;line-height:1.5;}
 header{padding:64px 24px 40px;text-align:center;border-bottom:1px solid var(--line);background:radial-gradient(circle at 15% 20%,rgba(163,23,46,.05),transparent 45%),radial-gradient(circle at 85% 10%,rgba(161,137,63,.07),transparent 40%);}
-header .eyebrow{font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--malta-red);margin-bottom:14px;}
+header .eyebrow{font-family:'IBM Plex Sans',sans-serif;font-weight:600;font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:var(--malta-red);margin-bottom:14px;}
 header h1{font-family:'Fraunces',serif;font-weight:700;font-size:clamp(32px,5vw,56px);margin:0 0 12px;letter-spacing:-.01em;}
 header p.sub{color:var(--muted);max-width:560px;margin:0 auto;font-size:15px;}
 .cross{display:inline-block;width:22px;height:22px;margin-right:8px;vertical-align:-4px;background:linear-gradient(var(--malta-red),var(--malta-red)) 50% 0/34% 100% no-repeat,linear-gradient(var(--malta-red),var(--malta-red)) 0 50%/100% 34% no-repeat;}
@@ -289,7 +289,7 @@ function render(data){
   people.sort((a,b)=>a.name.localeCompare(b.name));
 
   const html = `
-<header><div class="eyebrow">Government of Malta — Working Register</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div></header>
+<header><div class="eyebrow">Government of Malta</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div></header>
 <div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
 <div class="people-toggle-wrap"><a id="peopleToggle" href="peopleregister.html">☰ People Directory (${people.length} individuals identified) ↗</a></div>
 <main id="list">${mHtml.join('')}</main>
