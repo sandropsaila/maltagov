@@ -93,7 +93,7 @@ footer{text-align:center;padding:40px 24px 60px;color:var(--muted);font-size:12p
 footer a{color:var(--malta-red);}
 .hidden{display:none!important;}
 .people-toggle-wrap{max-width:920px;margin:20px auto 0;padding:0 24px;}
-#peopleToggle{width:100%;text-align:left;padding:12px 16px;background:var(--card);border:1px solid var(--line);font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--ink);cursor:pointer;border-radius:2px;}
+#peopleToggle{display:block;width:100%;text-align:left;padding:12px 16px;background:var(--card);border:1px solid var(--line);font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--ink);cursor:pointer;border-radius:2px;text-decoration:none;box-sizing:border-box;}
 #peopleToggle:hover{background:#fbfaf5;}
 .jump-link-wrap{margin-top:16px;}
 .jump-link{display:inline-block;font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--malta-red);cursor:pointer;border-bottom:1px solid var(--malta-red);padding-bottom:2px;}
@@ -287,30 +287,12 @@ function render(data){
   });
 
   people.sort((a,b)=>a.name.localeCompare(b.name));
-  const deloitteCheckedNames = new Set((data.deloitte_progress&&data.deloitte_progress.checked_names)||[]);
-  const peopleRows = people.map(p=>{
-    const bioCell = p.href ? `<a class="bio-link" href="${p.href}">Read bio →</a>` : `<span class="bio-no">pending</span>`;
-    let deloitteCell, deloitteLinked=false, deloitteChecked=false;
-    if(p.deloitte && p.deloitte.linked){
-      deloitteLinked = true; deloitteChecked = true;
-      deloitteCell = `<span class="deloitte-yes-badge" title="${esc(p.deloitte.note||'')}">Deloitte ↗</span>`;
-    } else if(p.deloitte){
-      deloitteChecked = true;
-      deloitteCell = `<span class="deloitte-no-badge" title="${esc(p.deloitte.note||'')}">checked — none</span>`;
-    } else {
-      deloitteCell = `<span class="li-pending">—</span>`;
-    }
-    const searchBlob = esc((p.name+' '+p.position+' '+p.entity).toLowerCase());
-    return `<tr data-search="${searchBlob}" data-deloitte="${deloitteLinked?'1':'0'}"><td>${esc(p.name)}</td><td>${esc(p.position)}</td><td>${esc(p.entity)}</td><td>${bioCell}</td><td>${deloitteCell}</td></tr>`;
-  }).join('');
-  const deloitteLinkedCount = people.filter(p=>p.deloitte&&p.deloitte.linked).length;
 
   const html = `
-<header><div class="eyebrow">Government of Malta — Working Register</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span><strong>${totalChairs}</strong> chairs confirmed</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div><div class="jump-link-wrap"><span class="jump-link" role="link" tabindex="0" onclick="showPeople()">↓ Jump to People Directory (${people.length} people)</span></div></header>
+<header><div class="eyebrow">Government of Malta — Working Register</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span><strong>${totalChairs}</strong> chairs confirmed</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div><div class="jump-link-wrap"><a class="jump-link" href="peopleregister.html">↓ Open People Directory (${people.length} people) ↗</a></div></header>
 <div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
 <div class="legend" style="margin-top:24px;"><span><i class="dot known"></i>Chair/CEO confirmed</span><span><i class="dot noinfo"></i>Searched — no info found</span><span><i class="dot pending"></i>Not yet researched</span></div>
-<div class="people-toggle-wrap"><button id="peopleToggle" onclick="togglePeople()">☰ People Directory (${people.length} individuals identified)</button></div>
-<div id="peopleDirectory" class="people-directory hidden"><div class="people-search-wrap"><input id="peopleSearch" type="text" placeholder="Search by name, role, or entity…" oninput="filterPeople()"><span class="deloitte-filter-wrap"><input type="checkbox" id="deloitteFilter" onchange="filterPeople()"><label for="deloitteFilter">Deloitte links only (${deloitteLinkedCount})</label></span><span id="peopleCount" class="people-count">${people.length} shown</span></div><table class="people-table"><thead><tr><th>Name</th><th>Position</th><th>Entity</th><th>Bio</th><th>Deloitte</th></tr></thead><tbody id="peopleTbody">${peopleRows}</tbody></table><p class="people-note">Open a person's bio for the specific article, profile, or official page each entry was researched from. Deloitte column: "Deloitte ↗" = confirmed link to Deloitte Malta (hover for detail); "checked — none" = individually verified with no link found; blank = not yet checked (${(data.deloitte_progress&&data.deloitte_progress.checked_count)||0} of ${(data.deloitte_progress&&data.deloitte_progress.total_bios)||478} people checked so far).</p></div>
+<div class="people-toggle-wrap"><a id="peopleToggle" href="peopleregister.html">☰ People Directory (${people.length} individuals identified) ↗</a></div>
 <main id="list">${mHtml.join('')}</main>
 <footer>Sources: Malta Data Portal (data.gov.mt AdminRegister API) · gov.mt Ministries &amp; Entities · Wikipedia · TVM News · Newsbook.<br>This is a living document — say "update searches" to check for changes since last review.</footer>`;
   document.getElementById('app').innerHTML = html;
@@ -331,22 +313,6 @@ function filterList(){
     if(q.length===0) min.classList.remove('open');
   });
 }
-function togglePeople(){document.getElementById('peopleDirectory').classList.toggle('hidden');}
-function showPeople(){document.getElementById('peopleDirectory').classList.remove('hidden');document.getElementById('peopleDirectory').scrollIntoView({behavior:'smooth',block:'start'});}
-function filterPeople(){
-  const q = document.getElementById('peopleSearch').value.toLowerCase().trim();
-  const deloitteOnly = document.getElementById('deloitteFilter') && document.getElementById('deloitteFilter').checked;
-  let shown = 0;
-  document.querySelectorAll('#peopleTbody tr').forEach(row=>{
-    const textMatch = q.length===0 || row.dataset.search.includes(q);
-    const deloitteMatch = !deloitteOnly || row.dataset.deloitte==='1';
-    const match = textMatch && deloitteMatch;
-    row.classList.toggle('hidden', !match);
-    if(match) shown++;
-  });
-  document.getElementById('peopleCount').textContent = shown + ' shown';
-}
-
 fetch('/data.json').then(r=>r.json()).then(data=>{
   document.getElementById('loadingMsg').classList.add('hidden');
   document.getElementById('app').classList.remove('hidden');
