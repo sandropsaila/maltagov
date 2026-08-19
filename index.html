@@ -11,7 +11,12 @@ header p.sub{color:var(--muted);max-width:560px;margin:0 auto;font-size:15px;}
 .meta-bar{max-width:920px;margin:28px auto 0;display:flex;gap:24px;justify-content:center;flex-wrap:wrap;font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);}
 .meta-bar strong{color:var(--ink);font-weight:600;}
 .search-wrap{max-width:640px;margin:32px auto 0;padding:0 24px;}
-#search{width:100%;padding:14px 18px;font-size:15px;border:1px solid var(--line);border-radius:2px;background:var(--card);font-family:'IBM Plex Sans',sans-serif;outline:none;}
+.search-box{position:relative;display:flex;align-items:center;}
+.search-clear{position:absolute;right:12px;background:none;border:none;font-size:20px;line-height:1;color:var(--muted);cursor:pointer;padding:4px 6px;font-family:'IBM Plex Sans',sans-serif;}
+.search-clear:hover{color:var(--malta-red);}
+.search-status{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);margin-top:8px;text-align:center;}
+.no-results{max-width:640px;margin:24px auto 0;padding:24px;text-align:center;font-family:'IBM Plex Mono',monospace;font-size:13px;color:var(--muted);border:1px dashed var(--line);border-radius:2px;}
+#search{width:100%;padding:14px 40px 14px 18px;font-size:15px;border:1px solid var(--line);border-radius:2px;background:var(--card);font-family:'IBM Plex Sans',sans-serif;outline:none;box-sizing:border-box;}
 .people-search-wrap{display:flex;align-items:center;gap:12px;margin-bottom:14px;}
 #peopleSearch{flex:1;padding:10px 14px;font-size:14px;border:1px solid var(--line);border-radius:2px;background:var(--card);font-family:'IBM Plex Sans',sans-serif;outline:none;}
 #peopleSearch:focus{border-color:var(--malta-red);}
@@ -226,7 +231,7 @@ function render(data){
     const entityHtml = m.entities.map(([name,etype])=>{
       const chair = findChair(chairs,name);
       if(!chair){
-        return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div><div class="chair-tag chair-pending">pending</div></div></div>`;
+        return `<div class="entity" data-search="${esc((name+' '+etype).toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div><div class="chair-tag chair-pending">pending</div></div></div>`;
       }
       const bios = chair.bios||{};
       const bioSrc = chair.bio_sources||{};
@@ -280,7 +285,8 @@ function render(data){
       });
 
       const govbodyHtml = chair.govbody_page ? `<a class="govbody-link" href="${esc(chair.govbody_page)}">Entity profile & Deloitte opportunities ↗</a>` : '';
-      return `<div class="entity" data-search="${esc(name.toLowerCase())}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${govbodyHtml}${contactHtml}${membersHtml}</div>`;
+      const searchBits = [name, etype, ...contacts.map(c=>c[1]), ...(chair.board_members||[])].join(' ').toLowerCase();
+      return `<div class="entity" data-search="${esc(searchBits)}"><div class="entity-top"><div class="entity-name">${esc(name)}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${govbodyHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
     mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
@@ -290,7 +296,7 @@ function render(data){
 
   const html = `
 <header><div class="eyebrow">Government of Malta</div><h1><span class="cross"></span>Ministries &amp; Entities</h1><p class="sub">A structured map of Malta's ministries and their officially appointed bodies, built from the Malta Data Portal's live administrative register, cross-checked against ministry and news sources. Current administration only.</p><div class="meta-bar"><span><strong>${ministries.length}</strong> ministries mapped</span><span><strong>${totalEntities}</strong> entities identified</span><span>Last updated <strong>${esc(data.updated)}</strong></span></div></header>
-<div class="search-wrap"><input id="search" type="text" placeholder="Search a ministry or entity…" oninput="filterList()"></div>
+<div class="search-wrap"><div class="search-box"><input id="search" type="text" placeholder="Search a ministry, entity, or person… (press / to focus)" oninput="filterList()" autocomplete="off"><button id="searchClear" class="search-clear hidden" onclick="clearSearch()" aria-label="Clear search" type="button">×</button></div><div id="searchStatus" class="search-status hidden"></div></div>
 <div class="people-toggle-wrap"><a id="peopleToggle" href="peopleregister.html">☰ People Directory (${people.length} individuals identified) ↗</a></div>
 <main id="list">${mHtml.join('')}</main>
 <footer>Sources: Malta Data Portal (data.gov.mt AdminRegister API) · gov.mt Ministries &amp; Entities · Wikipedia · TVM News · Newsbook.<br>This is a living document — say "update searches" to check for changes since last review.</footer>`;
@@ -298,20 +304,63 @@ function render(data){
 }
 
 function filterList(){
-  const q = document.getElementById('search').value.toLowerCase();
+  const input = document.getElementById('search');
+  const q = input.value.toLowerCase().trim();
+  document.getElementById('searchClear').classList.toggle('hidden', q.length===0);
+
+  let totalMatches=0, ministriesShown=0;
   document.querySelectorAll('.ministry').forEach(min=>{
     const minMatch = min.dataset.search.includes(q);
     let anyEntity=false;
     min.querySelectorAll('.entity').forEach(e=>{
-      const match = e.dataset.search.includes(q) || minMatch;
+      const match = q.length===0 || e.dataset.search.includes(q) || minMatch;
       e.classList.toggle('hidden', !match);
-      if(match) anyEntity=true;
+      if(match){ anyEntity=true; if(q.length>0) totalMatches++; }
     });
-    min.classList.toggle('hidden', q.length>0 && !anyEntity && !minMatch);
+    const minHidden = q.length>0 && !anyEntity && !minMatch;
+    min.classList.toggle('hidden', minHidden);
+    if(!minHidden) ministriesShown++;
     if(q.length>0 && anyEntity) min.classList.add('open');
     if(q.length===0) min.classList.remove('open');
   });
+
+  const status = document.getElementById('searchStatus');
+  let noResults = document.getElementById('noResults');
+  if(q.length>0){
+    status.classList.remove('hidden');
+    status.textContent = ministriesShown===0 ? 'No matches' : `${totalMatches} ${totalMatches===1?'entity':'entities'} across ${ministriesShown} ${ministriesShown===1?'ministry':'ministries'}`;
+    if(ministriesShown===0){
+      if(!noResults){
+        noResults = document.createElement('div');
+        noResults.id = 'noResults';
+        noResults.className = 'no-results';
+        document.getElementById('list').before(noResults);
+      }
+      noResults.textContent = `No matches for "${input.value.trim()}" — try a ministry name, entity name, or a person's name.`;
+    } else if(noResults){
+      noResults.remove();
+    }
+  } else {
+    status.classList.add('hidden');
+    if(noResults) noResults.remove();
+  }
 }
+function clearSearch(){
+  const input = document.getElementById('search');
+  input.value = '';
+  filterList();
+  input.focus();
+}
+document.addEventListener('keydown', e=>{
+  const input = document.getElementById('search');
+  if(!input) return;
+  if(e.key==='/' && document.activeElement!==input){
+    e.preventDefault();
+    input.focus();
+  } else if(e.key==='Escape' && document.activeElement===input){
+    clearSearch();
+  }
+});
 fetch('/data.json').then(r=>r.json()).then(data=>{
   document.getElementById('loadingMsg').classList.add('hidden');
   document.getElementById('app').classList.remove('hidden');
