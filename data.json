@@ -1360,7 +1360,9 @@
       "permanent_secretary": "Joseph F. Caruana",
       "permanent_secretary_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-mr-joseph-f-caruana.html",
       "communications_coordinator": "Ms Tia Reljic",
-      "communications_coordinator_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-communications-coordinator-ms-tia-reljic.html"
+      "communications_coordinator_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-communications-coordinator-ms-tia-reljic.html",
+      "head_of_secretariat": "Jeremy Dalli",
+      "head_of_secretariat_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-head-of-secretariat-mr-jeremy-dalli.html"
     },
     {
       "name": "Office of the Deputy Prime Minister and Ministry for Health",
@@ -10388,7 +10390,7 @@
       }
     }
   },
-  "updated": "2026-08-21 19:12 UTC",
+  "updated": "2026-08-21 19:18 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
