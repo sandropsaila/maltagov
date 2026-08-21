@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Government of Malta — Structure Register</title><style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
-:root{--ink:#1a1f1c;--paper:#f7f5ef;--card:#ffffff;--line:#dcd8c8;--malta-red:#a3172e;--malta-red-deep:#7d1122;--gold:#a1893f;--muted:#6b6a5f;--known:#2f5233;--known-bg:#e7efe4;--pending-bg:#f1efe4;}
+:root{--ink:#1a1f1c;--paper:#f7f5ef;--card:#ffffff;--line:#dcd8c8;--malta-red:#a3172e;--malta-red-deep:#7d1122;--gold:#a1893f;--muted:#6b6a5f;--known:#2f5233;--known-bg:#e7efe4;--pending-bg:#f1efe4;--role-minister:#a3172e;--role-ps:#8a6a1f;--role-hos:#3f6b63;--role-comms:#6b4f6b;}
 *{box-sizing:border-box;}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;line-height:1.5;}
 header{padding:64px 24px 40px;text-align:center;border-bottom:1px solid var(--line);background:radial-gradient(circle at 15% 20%,rgba(163,23,46,.05),transparent 45%),radial-gradient(circle at 85% 10%,rgba(161,137,63,.07),transparent 40%);}
@@ -23,16 +23,33 @@ header p.sub{color:var(--muted);max-width:560px;margin:0 auto;font-size:15px;}
 .people-count{font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);white-space:nowrap;}
 #search:focus{border-color:var(--malta-red);}
 main{max-width:920px;margin:0 auto;padding:40px 24px 100px;}
-.ministry{margin-bottom:14px;border:1px solid var(--line);background:var(--card);}
+.ministry{margin-bottom:14px;border:1px solid var(--line);background:var(--card);border-left:2px solid transparent;transition:border-left-color .18s ease,box-shadow .18s ease;}
+.ministry:hover{border-left-color:var(--malta-red);box-shadow:0 2px 10px rgba(26,31,28,.05);}
 .ministry-head{display:flex;align-items:center;justify-content:space-between;gap:10px 14px;padding:16px 18px;cursor:pointer;user-select:none;flex-wrap:wrap;}
 .ministry-head:hover{background:#fbfaf5;}
 .ministry-title{display:flex;align-items:center;gap:8px 10px;flex-wrap:wrap;min-width:0;flex:1 1 220px;}
 .abbr{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--malta-red);border:1px solid var(--malta-red);padding:2px 6px;letter-spacing:.05em;flex-shrink:0;}
 .rank-num{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);font-weight:600;flex-shrink:0;min-width:20px;}
 .ministry-title h2{font-family:'Fraunces',serif;font-weight:600;font-size:16px;margin:0;line-height:1.3;min-width:0;}
-.minister-name{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin-top:2px;display:block;text-decoration:none;}
-a.minister-link{color:var(--malta-red);cursor:pointer;}
-a.minister-link:hover{text-decoration:underline;}
+.person-roster{display:flex;flex-direction:column;gap:4px;margin-top:8px;}
+.person-row{display:flex;align-items:baseline;gap:7px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;line-height:1.45;text-decoration:none;flex-wrap:wrap;}
+.person-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;align-self:center;transition:transform .15s ease;}
+.person-role{color:var(--ink);font-weight:600;white-space:nowrap;}
+.person-role::after{content:":";color:var(--line);margin-left:1px;}
+.person-name{font-weight:500;transition:opacity .15s ease;}
+a.person-row{cursor:pointer;}
+a.person-row:hover .person-name{text-decoration:underline;text-decoration-color:currentColor;text-underline-offset:3px;}
+a.person-row:hover .person-dot{transform:scale(1.5);}
+.role-minister .person-dot{background:var(--role-minister);}
+.role-minister .person-name{color:var(--role-minister);}
+.role-ps .person-dot{background:var(--role-ps);}
+.role-ps .person-name{color:var(--role-ps);}
+.role-hos .person-dot{background:var(--role-hos);}
+.role-hos .person-name{color:var(--role-hos);}
+.role-comms .person-dot{background:var(--role-comms);}
+.role-comms .person-name{color:var(--role-comms);}
+.person-row.plain .person-name{color:var(--muted);font-style:italic;}
+.person-row.plain .person-dot{opacity:.45;}
 .pct-badge{font-family:'IBM Plex Mono',monospace;font-size:10.5px;padding:3px 8px;border-radius:2px;white-space:nowrap;letter-spacing:.02em;flex-shrink:0;}
 .pct-zero{background:#f1e3e3;color:var(--malta-red-deep);}
 .pct-low{background:#f3ead6;color:#8a6a1f;}
@@ -42,7 +59,7 @@ a.minister-link:hover{text-decoration:underline;}
 .count{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);white-space:nowrap;}
 .chev{transition:transform .2s;color:var(--muted);font-size:13px;flex-shrink:0;}
 .ministry.open .chev{transform:rotate(90deg);}
-@media (max-width:480px){.ministry-title h2{font-size:14.5px;}.count{display:none;}.ministry-head{padding:13px 14px;}header{padding:48px 16px 32px;}main{padding:28px 14px 80px;}}
+@media (max-width:480px){.ministry-title h2{font-size:14.5px;}.count{display:none;}.ministry-head{padding:13px 14px;}header{padding:48px 16px 32px;}main{padding:28px 14px 80px;}.person-row{font-size:11px;gap:6px;}}
 .entities{display:none;border-top:1px solid var(--line);}
 .ministry.open .entities{display:block;}
 .type-table-wrap{padding:16px 22px 8px;border-bottom:1px solid #eeecdf;}
@@ -197,6 +214,10 @@ function findLinkedIn(chair,personName){
   if(!matched) return undefined;
   return map[matched];
 }
+function personRow(roleClass,label,name,href){
+  const inner = `<span class="person-dot"></span><span class="person-role">${esc(label)}</span><span class="person-name">${esc(name)}</span>`;
+  return href ? `<a class="person-row ${roleClass}" href="${esc(href)}">${inner}</a>` : `<div class="person-row ${roleClass} plain">${inner}</div>`;
+}
 
 function render(data){
   const ministries = data.ministries, chairs = data.chairs;
@@ -293,19 +314,20 @@ function render(data){
       return `<div class="entity" data-search="${esc(searchBits)}"><div class="entity-top"><div class="entity-name">${entityNameHtml}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
-    const ministerHtml = m.minister ? (m.minister_bio ? `<a class="minister-name minister-link" href="${esc(m.minister_bio)}">Minister: ${esc(m.minister)}</a>` : `<div class="minister-name">Minister: ${esc(m.minister)}</div>`) : '';
+    const ministerHtml = m.minister ? personRow('role-minister','Minister', m.minister, m.minister_bio) : '';
     let psHtml = '';
     if(Array.isArray(m.permanent_secretaries) && m.permanent_secretaries.length){
       psHtml = m.permanent_secretaries.map(ps=>{
-        const label = ps.role ? `Permanent Secretary (${esc(ps.role)}): ${esc(ps.name)}` : `Permanent Secretary: ${esc(ps.name)}`;
-        return ps.bio ? `<a class="minister-name minister-link" href="${esc(ps.bio)}">${label}</a>` : `<div class="minister-name">${label}</div>`;
+        const label = ps.role ? `Permanent Secretary (${ps.role})` : 'Permanent Secretary';
+        return personRow('role-ps', label, ps.name, ps.bio);
       }).join('');
     } else if(m.permanent_secretary){
-      psHtml = m.permanent_secretary_bio ? `<a class="minister-name minister-link" href="${esc(m.permanent_secretary_bio)}">Permanent Secretary: ${esc(m.permanent_secretary)}</a>` : `<div class="minister-name">Permanent Secretary: ${esc(m.permanent_secretary)}</div>`;
+      psHtml = personRow('role-ps','Permanent Secretary', m.permanent_secretary, m.permanent_secretary_bio);
     }
-    const hosHtml = m.head_of_secretariat ? (m.head_of_secretariat_bio ? `<a class="minister-name minister-link" href="${esc(m.head_of_secretariat_bio)}">Head of Secretariat: ${esc(m.head_of_secretariat)}</a>` : `<div class="minister-name">Head of Secretariat: ${esc(m.head_of_secretariat)}</div>`) : '';
-    const commsHtml = m.communications_coordinator ? (m.communications_coordinator_bio ? `<a class="minister-name minister-link" href="${esc(m.communications_coordinator_bio)}">Communications Coordinator: ${esc(m.communications_coordinator)}</a>` : `<div class="minister-name">Communications Coordinator: ${esc(m.communications_coordinator)}</div>`) : '';
-    mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${ministerHtml}${psHtml}${hosHtml}${commsHtml}</div></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
+    const hosHtml = m.head_of_secretariat ? personRow('role-hos','Head of Secretariat', m.head_of_secretariat, m.head_of_secretariat_bio) : '';
+    const commsHtml = m.communications_coordinator ? personRow('role-comms','Communications Coordinator', m.communications_coordinator, m.communications_coordinator_bio) : '';
+    const rosterHtml = (ministerHtml||psHtml||hosHtml||commsHtml) ? `<div class="person-roster">${ministerHtml}${psHtml}${hosHtml}${commsHtml}</div>` : '';
+    mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${rosterHtml}</div></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
   });
 
   people.sort((a,b)=>a.name.localeCompare(b.name));
