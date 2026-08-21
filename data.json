@@ -122,7 +122,11 @@
           "role": "People and Standards",
           "bio": "bios/office-of-the-prime-minister-dr-joyce-cassar.html"
         }
-      ]
+      ],
+      "communications_coordinator": "Mr Edward Montebello",
+      "communications_coordinator_bio": "bios/office-of-the-prime-minister-head-of-communications-mr-edward-montebello.html",
+      "head_of_secretariat": "Mr Mark Mallia",
+      "head_of_secretariat_bio": "bios/office-of-the-prime-minister-head-of-secretariat-mr-mark-mallia.html"
     },
     {
       "name": "Ministry for Arts, Culture and National Heritage",
@@ -264,7 +268,9 @@
       ],
       "minister_bio": "bios/ministry-for-arts-culture-and-national-heritage-hon-malcolm-paul-agius-galea.html",
       "permanent_secretary": "Carlos Tabone",
-      "permanent_secretary_bio": "bios/ministry-for-tourism-mr-carlos-tabone.html"
+      "permanent_secretary_bio": "bios/ministry-for-tourism-mr-carlos-tabone.html",
+      "communications_coordinator": "Ms Nicole Farrugia",
+      "communications_coordinator_bio": "bios/ministry-for-arts-culture-and-national-heritage-communications-coordinator-ms-nicole-farrugia.html"
     },
     {
       "name": "Ministry for Inclusion and the Voluntary Sector",
@@ -318,7 +324,9 @@
       ],
       "minister_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-hon-julia-farrugia.html",
       "permanent_secretary": "Stephanie Rocco",
-      "permanent_secretary_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-ms-stephanie-rocco.html"
+      "permanent_secretary_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-ms-stephanie-rocco.html",
+      "communications_coordinator": "Ms Victoria Farrugia",
+      "communications_coordinator_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-communications-coordinator-ms-victoria-farrugia.html"
     },
     {
       "name": "Ministry for Equality and Civil Rights",
@@ -422,7 +430,9 @@
       ],
       "minister_bio": "bios/ministry-for-tourism-hon-jo-etienne-abela.html",
       "permanent_secretary": "Carlos Tabone",
-      "permanent_secretary_bio": "bios/ministry-for-tourism-mr-carlos-tabone.html"
+      "permanent_secretary_bio": "bios/ministry-for-tourism-mr-carlos-tabone.html",
+      "communications_coordinator": "Mr Matthew Vassallo",
+      "communications_coordinator_bio": "bios/ministry-for-tourism-communications-coordinator-mr-matthew-vassallo.html"
     },
     {
       "name": "Ministry for Local Government and Public Works",
@@ -468,7 +478,9 @@
       ],
       "minister_bio": "bios/ministry-for-local-government-and-public-works-hon-alison-zerafa-civelli.html",
       "permanent_secretary": "Emil Vassallo",
-      "permanent_secretary_bio": "bios/ministry-for-local-government-and-public-works-mr-emil-vassallo.html"
+      "permanent_secretary_bio": "bios/ministry-for-local-government-and-public-works-mr-emil-vassallo.html",
+      "communications_coordinator": "Mr Francesco Borg",
+      "communications_coordinator_bio": "bios/ministry-for-local-government-and-public-works-communications-coordinator-mr-francesco-borg.html"
     },
     {
       "name": "Ministry for Accommodation and Lands",
@@ -530,7 +542,9 @@
       ],
       "minister_bio": "bios/ministry-for-accommodation-and-lands-hon-owen-bonnici.html",
       "permanent_secretary": "Ramon Deguara",
-      "permanent_secretary_bio": "bios/malta-freeport-corporation-ramon-deguara.html"
+      "permanent_secretary_bio": "bios/malta-freeport-corporation-ramon-deguara.html",
+      "communications_coordinator": "Ms Bernice Caruana",
+      "communications_coordinator_bio": "bios/ministry-for-accommodation-and-lands-communications-coordinator-ms-bernice-caruana.html"
     },
     {
       "name": "Ministry for Youth, Wellbeing and the Implementation of the Electoral Programme",
@@ -548,7 +562,9 @@
       ],
       "minister_bio": "bios/ministry-for-youth-wellbeing-and-the-implementation-of-the-electoral-programme-hon-omar-farrugia.html",
       "permanent_secretary": "Keith Bartolo",
-      "permanent_secretary_bio": "bios/institute-for-the-public-services-board-keith-bartolo.html"
+      "permanent_secretary_bio": "bios/institute-for-the-public-services-board-keith-bartolo.html",
+      "communications_coordinator": "Mr Gabriel Camilleri",
+      "communications_coordinator_bio": "bios/ministry-for-youth-wellbeing-and-the-implementation-of-the-electoral-programme-communications-coordinator-mr-gabriel-camilleri.html"
     },
     {
       "name": "Ministry for Infrastructure, Planning and Works",
@@ -662,7 +678,9 @@
       ],
       "minister_bio": "bios/ministry-for-infrastructure-planning-and-works-hon-jonathan-attard.html",
       "permanent_secretary": "Ronald Mizzi",
-      "permanent_secretary_bio": "bios/ministry-for-infrastructure-planning-and-works-mr-ronald-mizzi.html"
+      "permanent_secretary_bio": "bios/ministry-for-infrastructure-planning-and-works-mr-ronald-mizzi.html",
+      "communications_coordinator": "Mr Brian Gatt",
+      "communications_coordinator_bio": "bios/ministry-for-infrastructure-planning-and-employment-communications-coordinator-mr-brian-gatt.html"
     },
     {
       "name": "Ministry for the Economy, Technology and Strategic Projects",
@@ -816,7 +834,9 @@
       ],
       "minister_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-hon-silvio-schembri.html",
       "permanent_secretary": "Godwin Mifsud",
-      "permanent_secretary_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-mr-godwin-mifsud.html"
+      "permanent_secretary_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-mr-godwin-mifsud.html",
+      "communications_coordinator": "Mr Gianluca Falzon",
+      "communications_coordinator_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-communications-coordinator-mr-gianluca-falzon.html"
     },
     {
       "name": "Ministry for Education and Sport",
@@ -918,7 +938,9 @@
       ],
       "minister_bio": "bios/ministry-for-education-and-sport-hon-byron-camilleri.html",
       "permanent_secretary": "Matthew Vella",
-      "permanent_secretary_bio": "bios/ministry-for-education-and-sport-mr-matthew-vella.html"
+      "permanent_secretary_bio": "bios/ministry-for-education-and-sport-mr-matthew-vella.html",
+      "communications_coordinator": "Mr Ryan Attard",
+      "communications_coordinator_bio": "bios/ministry-for-education-and-sport-communications-coordinator-mr-ryan-attard.html"
     },
     {
       "name": "Ministry for Social Policy and the Family",
@@ -980,7 +1002,9 @@
       ],
       "minister_bio": "bios/ministry-for-social-policy-and-the-family-hon-michael-falzon.html",
       "permanent_secretary": "Mark Musù",
-      "permanent_secretary_bio": "bios/ministry-for-social-policy-and-the-family-mr-mark-musu.html"
+      "permanent_secretary_bio": "bios/ministry-for-social-policy-and-the-family-mr-mark-musu.html",
+      "communications_coordinator": "Mr Stefan Borg",
+      "communications_coordinator_bio": "bios/ministry-for-social-policy-and-the-family-communications-coordinator-mr-stefan-borg.html"
     },
     {
       "name": "Ministry for Agriculture, Fisheries and Food Supply",
@@ -1042,7 +1066,9 @@
       ],
       "minister_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-hon-anton-refalo.html",
       "permanent_secretary": "Sharlo Camilleri",
-      "permanent_secretary_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-mr-sharlo-camilleri.html"
+      "permanent_secretary_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-mr-sharlo-camilleri.html",
+      "communications_coordinator": "Mr Darren Lynch",
+      "communications_coordinator_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-communications-coordinator-mr-darren-lynch.html"
     },
     {
       "name": "Ministry for Gozo",
@@ -1080,7 +1106,9 @@
       ],
       "minister_bio": "bios/ministry-for-gozo-hon-clint-camilleri.html",
       "permanent_secretary": "Mario Borg",
-      "permanent_secretary_bio": "bios/ministry-for-gozo-mr-mario-borg.html"
+      "permanent_secretary_bio": "bios/ministry-for-gozo-mr-mario-borg.html",
+      "communications_coordinator": "Ms Leanne Bajada",
+      "communications_coordinator_bio": "bios/ministry-for-gozo-communications-coordinator-ms-leanne-bajada.html"
     },
     {
       "name": "Ministry for Home Affairs and Security",
@@ -1190,7 +1218,9 @@
       ],
       "minister_bio": "bios/ministry-for-home-affairs-and-security-hon-glenn-bedingfield.html",
       "permanent_secretary": "Joyce Dimech",
-      "permanent_secretary_bio": "bios/ministry-for-home-affairs-and-security-ms-joyce-dimech.html"
+      "permanent_secretary_bio": "bios/ministry-for-home-affairs-and-security-ms-joyce-dimech.html",
+      "communications_coordinator": "Ms Roberta Fenech",
+      "communications_coordinator_bio": "bios/ministry-for-home-affairs-and-security-communications-coordinator-ms-roberta-fenech.html"
     },
     {
       "name": "Ministry for European Funds, Social Dialogue and Consumer Protection",
@@ -1240,7 +1270,9 @@
       ],
       "minister_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-hon-keith-azzopardi-tanti.html",
       "permanent_secretary": "Jonathan Vassallo",
-      "permanent_secretary_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-mr-jonathan-vassallo.html"
+      "permanent_secretary_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-mr-jonathan-vassallo.html",
+      "communications_coordinator": "Mr Henzley Bezzina",
+      "communications_coordinator_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-communications-coordinator-mr-henzley-bezzina.html"
     },
     {
       "name": "Ministry for Energy, the Environment and the Regeneration of the Grand Harbour",
@@ -1318,7 +1350,9 @@
       ],
       "minister_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-hon-miriam-dalli.html",
       "permanent_secretary": "Joseph F. Caruana",
-      "permanent_secretary_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-mr-joseph-f-caruana.html"
+      "permanent_secretary_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-mr-joseph-f-caruana.html",
+      "communications_coordinator": "Ms Tia Reljic",
+      "communications_coordinator_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-communications-coordinator-ms-tia-reljic.html"
     },
     {
       "name": "Office of the Deputy Prime Minister and Ministry for Health",
@@ -1376,7 +1410,9 @@
       ],
       "minister_bio": "bios/council-for-maltese-living-abroad-hon-ian-borg.html",
       "permanent_secretary": "Dr Renzo De Gabriele",
-      "permanent_secretary_bio": "bios/office-of-the-deputy-prime-minister-and-ministry-for-health-dr-renzo-de-gabriele.html"
+      "permanent_secretary_bio": "bios/office-of-the-deputy-prime-minister-and-ministry-for-health-dr-renzo-de-gabriele.html",
+      "communications_coordinator": "Mr Miguel Abela",
+      "communications_coordinator_bio": "bios/office-of-the-deputy-prime-minister-and-ministry-for-health-communications-coordinator-mr-miguel-abela.html"
     },
     {
       "name": "Ministry for Finance",
@@ -1522,7 +1558,11 @@
       ],
       "minister_bio": "bios/ministry-for-finance-hon-clyde-caruana.html",
       "permanent_secretary": "Paul Zahra",
-      "permanent_secretary_bio": "bios/state-aid-monitoring-board-mr-paul-zahra.html"
+      "permanent_secretary_bio": "bios/state-aid-monitoring-board-mr-paul-zahra.html",
+      "communications_coordinator": "Mr Matthew Cesareo",
+      "communications_coordinator_bio": "bios/ministry-for-finance-communications-coordinator-mr-matthew-cesareo.html",
+      "head_of_secretariat": "Ms Leanne Camilleri",
+      "head_of_secretariat_bio": "bios/ministry-for-finance-head-of-secretariat-ms-leanne-camilleri.html"
     },
     {
       "name": "Ministry for Justice, Research and Innovation",
@@ -1628,7 +1668,9 @@
       ],
       "minister_bio": "bios/ministry-for-justice-research-and-innovation-hon-clifton-grima.html",
       "permanent_secretary": "Johan Galea",
-      "permanent_secretary_bio": "bios/ministry-for-justice-research-and-innovation-mr-johan-galea.html"
+      "permanent_secretary_bio": "bios/ministry-for-justice-research-and-innovation-mr-johan-galea.html",
+      "communications_coordinator": "Ms Maria Cutajar",
+      "communications_coordinator_bio": "bios/ministry-for-justice-research-and-innovation-communications-coordinator-ms-maria-cutajar.html"
     },
     {
       "name": "Ministry for Sustainable Mobility",
@@ -1718,7 +1760,9 @@
       ],
       "minister_bio": "bios/ministry-for-sustainable-mobility-hon-chris-bonett.html",
       "permanent_secretary": "Bjorn Callus",
-      "permanent_secretary_bio": "bios/ministry-for-sustainable-mobility-mr-bjorn-callus.html"
+      "permanent_secretary_bio": "bios/ministry-for-sustainable-mobility-mr-bjorn-callus.html",
+      "communications_coordinator": "Mr Robert Cauchi",
+      "communications_coordinator_bio": "bios/ministry-for-sustainable-mobility-communications-coordinator-mr-robert-cauchi.html"
     },
     {
       "name": "Ministry for Foreign and European Affairs",
@@ -1756,7 +1800,11 @@
       ],
       "minister_bio": "bios/ministry-for-foreign-and-european-affairs-hon-chris-fearne.html",
       "permanent_secretary": "Christopher Cutajar",
-      "permanent_secretary_bio": "bios/ministry-for-foreign-and-european-affairs-mr-christopher-cutajar.html"
+      "permanent_secretary_bio": "bios/ministry-for-foreign-and-european-affairs-mr-christopher-cutajar.html",
+      "head_of_secretariat": "Ms Samantha Zerafa",
+      "head_of_secretariat_bio": "bios/ministry-for-foreign-and-european-affairs-head-of-secretariat-ms-samantha-zerafa.html",
+      "communications_coordinator": "Rudi Camilleri",
+      "communications_coordinator_bio": "bios/ministry-for-foreign-and-european-affairs-communications-coordinator-mr-rudi-camilleri.html"
     }
   ],
   "chairs": {
@@ -10330,7 +10378,7 @@
       }
     }
   },
-  "updated": "2026-08-21 11:35 UTC",
+  "updated": "2026-08-21 19:05 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
