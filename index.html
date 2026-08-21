@@ -30,7 +30,9 @@ main{max-width:920px;margin:0 auto;padding:40px 24px 100px;}
 .abbr{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--malta-red);border:1px solid var(--malta-red);padding:2px 6px;letter-spacing:.05em;flex-shrink:0;}
 .rank-num{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);font-weight:600;flex-shrink:0;min-width:20px;}
 .ministry-title h2{font-family:'Fraunces',serif;font-weight:600;font-size:16px;margin:0;line-height:1.3;min-width:0;}
-.minister-name{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin-top:2px;}
+.minister-name{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);margin-top:2px;display:block;text-decoration:none;}
+a.minister-link{color:var(--malta-red);cursor:pointer;}
+a.minister-link:hover{text-decoration:underline;}
 .pct-badge{font-family:'IBM Plex Mono',monospace;font-size:10.5px;padding:3px 8px;border-radius:2px;white-space:nowrap;letter-spacing:.02em;flex-shrink:0;}
 .pct-zero{background:#f1e3e3;color:var(--malta-red-deep);}
 .pct-low{background:#f3ead6;color:#8a6a1f;}
@@ -291,7 +293,9 @@ function render(data){
       return `<div class="entity" data-search="${esc(searchBits)}"><div class="entity-top"><div class="entity-name">${entityNameHtml}<span class="entity-type">${esc(etype)}</span></div></div>${websiteHtml}${contactHtml}${membersHtml}</div>`;
     }).join('');
 
-    mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${m.minister?`<div class="minister-name">Minister: ${esc(m.minister)}</div>`:''}</div></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
+    const ministerHtml = m.minister ? (m.minister_bio ? `<a class="minister-name minister-link" href="${esc(m.minister_bio)}">Minister: ${esc(m.minister)}</a>` : `<div class="minister-name">Minister: ${esc(m.minister)}</div>`) : '';
+    const psHtml = m.permanent_secretary ? (m.permanent_secretary_bio ? `<a class="minister-name minister-link" href="${esc(m.permanent_secretary_bio)}">Permanent Secretary: ${esc(m.permanent_secretary)}</a>` : `<div class="minister-name">Permanent Secretary: ${esc(m.permanent_secretary)}</div>`) : '';
+    mHtml.push(`<div class="ministry" data-search="${esc(m.name.toLowerCase())}"><div class="ministry-head" onclick="this.parentElement.classList.toggle('open')"><div class="ministry-title"><span class="rank-num">${String(idx+1).padStart(2,'0')}</span><span class="abbr">${esc(m.abbr)}</span><div><h2>${esc(m.name)}</h2>${ministerHtml}${psHtml}</div></div><div class="head-right"><span class="count">${found}/${n} found</span><span class="chev">▸</span></div></div><div class="entities"><div class="type-table-wrap"><table class="type-table"><thead><tr><th>Type</th><th>Count</th></tr></thead><tbody>${typeRows}</tbody></table></div>${entityHtml}</div></div>`);
   });
 
   people.sort((a,b)=>a.name.localeCompare(b.name));
