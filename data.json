@@ -326,7 +326,9 @@
       "permanent_secretary": "Stephanie Rocco",
       "permanent_secretary_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-ms-stephanie-rocco.html",
       "communications_coordinator": "Ms Victoria Farrugia",
-      "communications_coordinator_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-communications-coordinator-ms-victoria-farrugia.html"
+      "communications_coordinator_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-communications-coordinator-ms-victoria-farrugia.html",
+      "head_of_secretariat": "Mr Justin Attard",
+      "head_of_secretariat_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-head-of-secretariat-mr-justin-attard.html"
     },
     {
       "name": "Ministry for Equality and Civil Rights",
@@ -1004,7 +1006,9 @@
       "permanent_secretary": "Mark Musù",
       "permanent_secretary_bio": "bios/ministry-for-social-policy-and-the-family-mr-mark-musu.html",
       "communications_coordinator": "Mr Stefan Borg",
-      "communications_coordinator_bio": "bios/ministry-for-social-policy-and-the-family-communications-coordinator-mr-stefan-borg.html"
+      "communications_coordinator_bio": "bios/ministry-for-social-policy-and-the-family-communications-coordinator-mr-stefan-borg.html",
+      "head_of_secretariat": "Mr Louis Gatt",
+      "head_of_secretariat_bio": "bios/ministry-for-social-policy-and-the-family-head-of-secretariat-mr-louis-gatt.html"
     },
     {
       "name": "Ministry for Agriculture, Fisheries and Food Supply",
@@ -1108,7 +1112,9 @@
       "permanent_secretary": "Mario Borg",
       "permanent_secretary_bio": "bios/ministry-for-gozo-mr-mario-borg.html",
       "communications_coordinator": "Ms Leanne Bajada",
-      "communications_coordinator_bio": "bios/ministry-for-gozo-communications-coordinator-ms-leanne-bajada.html"
+      "communications_coordinator_bio": "bios/ministry-for-gozo-communications-coordinator-ms-leanne-bajada.html",
+      "head_of_secretariat": "Mr Michael Buhagiar",
+      "head_of_secretariat_bio": "bios/ministry-for-gozo-head-of-secretariat-mr-michael-buhagiar.html"
     },
     {
       "name": "Ministry for Home Affairs and Security",
@@ -1220,7 +1226,9 @@
       "permanent_secretary": "Joyce Dimech",
       "permanent_secretary_bio": "bios/ministry-for-home-affairs-and-security-ms-joyce-dimech.html",
       "communications_coordinator": "Ms Roberta Fenech",
-      "communications_coordinator_bio": "bios/ministry-for-home-affairs-and-security-communications-coordinator-ms-roberta-fenech.html"
+      "communications_coordinator_bio": "bios/ministry-for-home-affairs-and-security-communications-coordinator-ms-roberta-fenech.html",
+      "head_of_secretariat": "Ms Lesley Anne Dimech",
+      "head_of_secretariat_bio": "bios/ministry-for-home-affairs-and-security-head-of-secretariat-ms-lesley-anne-dimech.html"
     },
     {
       "name": "Ministry for European Funds, Social Dialogue and Consumer Protection",
@@ -1670,7 +1678,9 @@
       "permanent_secretary": "Johan Galea",
       "permanent_secretary_bio": "bios/ministry-for-justice-research-and-innovation-mr-johan-galea.html",
       "communications_coordinator": "Ms Maria Cutajar",
-      "communications_coordinator_bio": "bios/ministry-for-justice-research-and-innovation-communications-coordinator-ms-maria-cutajar.html"
+      "communications_coordinator_bio": "bios/ministry-for-justice-research-and-innovation-communications-coordinator-ms-maria-cutajar.html",
+      "head_of_secretariat": "Mr Joseph Filletti",
+      "head_of_secretariat_bio": "bios/ministry-for-justice-research-and-innovation-head-of-secretariat-mr-joseph-filletti.html"
     },
     {
       "name": "Ministry for Sustainable Mobility",
@@ -10378,7 +10388,7 @@
       }
     }
   },
-  "updated": "2026-08-21 19:05 UTC",
+  "updated": "2026-08-21 19:12 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
