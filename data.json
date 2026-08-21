@@ -109,6 +109,19 @@
           "Grievances Unit Board",
           "Board"
         ]
+      ],
+      "minister_bio": "bios/office-of-the-prime-minister-hon-robert-abela.html",
+      "permanent_secretaries": [
+        {
+          "name": "Ronald Mizzi",
+          "role": "Vision 2050, Implementation & Coordination",
+          "bio": "bios/office-of-the-prime-minister-mr-ronald-mizzi.html"
+        },
+        {
+          "name": "Joyce Cassar",
+          "role": "People and Standards",
+          "bio": "bios/office-of-the-prime-minister-dr-joyce-cassar.html"
+        }
       ]
     },
     {
@@ -10317,7 +10330,7 @@
       }
     }
   },
-  "updated": "2026-08-21 11:33 UTC",
+  "updated": "2026-08-21 11:35 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
