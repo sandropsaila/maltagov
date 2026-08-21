@@ -248,7 +248,10 @@
           "Editorial Board - PBS Ltd",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-arts-culture-and-national-heritage-hon-malcolm-paul-agius-galea.html",
+      "permanent_secretary": "Carlos Tabone",
+      "permanent_secretary_bio": "bios/ministry-for-tourism-mr-carlos-tabone.html"
     },
     {
       "name": "Ministry for Inclusion and the Voluntary Sector",
@@ -299,7 +302,10 @@
           "Personal Budget Assistance Scheme Board",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-hon-julia-farrugia.html",
+      "permanent_secretary": "Stephanie Rocco",
+      "permanent_secretary_bio": "bios/ministry-for-inclusion-and-the-voluntary-sector-ms-stephanie-rocco.html"
     },
     {
       "name": "Ministry for Equality and Civil Rights",
@@ -350,7 +356,10 @@
           "Integration and Anti-Racism Consultative Council (IARCC)",
           "Council"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-equality-and-civil-rights-hon-rosianne-cutajar.html",
+      "permanent_secretary": "Emanuel Psaila",
+      "permanent_secretary_bio": "bios/ministry-for-equality-and-civil-rights-mr-emanuel-psaila.html"
     },
     {
       "name": "Ministry for Tourism",
@@ -443,7 +452,10 @@
           "Architects Warrant Board",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-local-government-and-public-works-hon-alison-zerafa-civelli.html",
+      "permanent_secretary": "Emil Vassallo",
+      "permanent_secretary_bio": "bios/ministry-for-local-government-and-public-works-mr-emil-vassallo.html"
     },
     {
       "name": "Ministry for Accommodation and Lands",
@@ -502,7 +514,10 @@
           "Revisory Committee (Housing Authority)",
           "Committee"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-accommodation-and-lands-hon-owen-bonnici.html",
+      "permanent_secretary": "Ramon Deguara",
+      "permanent_secretary_bio": "bios/malta-freeport-corporation-ramon-deguara.html"
     },
     {
       "name": "Ministry for Youth, Wellbeing and the Implementation of the Electoral Programme",
@@ -10269,7 +10284,7 @@
       }
     }
   },
-  "updated": "2026-08-21 11:14 UTC",
+  "updated": "2026-08-21 11:21 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
