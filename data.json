@@ -1174,7 +1174,10 @@
           "Local Enforcement Systems Agency",
           "Agency"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-home-affairs-and-security-hon-glenn-bedingfield.html",
+      "permanent_secretary": "Joyce Dimech",
+      "permanent_secretary_bio": "bios/ministry-for-home-affairs-and-security-ms-joyce-dimech.html"
     },
     {
       "name": "Ministry for European Funds, Social Dialogue and Consumer Protection",
@@ -1221,7 +1224,10 @@
           "Low Wage Commission",
           "Commission"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-hon-keith-azzopardi-tanti.html",
+      "permanent_secretary": "Jonathan Vassallo",
+      "permanent_secretary_bio": "bios/ministry-for-european-funds-social-dialogue-and-consumer-protection-mr-jonathan-vassallo.html"
     },
     {
       "name": "Ministry for Energy, the Environment and the Regeneration of the Grand Harbour",
@@ -1296,7 +1302,10 @@
           "WasteServ (Malta) Ltd.",
           "Company"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-hon-miriam-dalli.html",
+      "permanent_secretary": "Joseph F. Caruana",
+      "permanent_secretary_bio": "bios/ministry-for-energy-the-environment-and-the-regeneration-of-the-grand-harbour-mr-joseph-f-caruana.html"
     },
     {
       "name": "Office of the Deputy Prime Minister and Ministry for Health",
@@ -1603,7 +1612,10 @@
           "Commercial Sanctions Tribunal",
           "Tribunal"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-justice-research-and-innovation-hon-clifton-grima.html",
+      "permanent_secretary": "Johan Galea",
+      "permanent_secretary_bio": "bios/ministry-for-justice-research-and-innovation-mr-johan-galea.html"
     },
     {
       "name": "Ministry for Sustainable Mobility",
@@ -1690,7 +1702,10 @@
           "Port Workers Pension and Contingency Fund Committee",
           "Committee"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-sustainable-mobility-hon-chris-bonett.html",
+      "permanent_secretary": "Bjorn Callus",
+      "permanent_secretary_bio": "bios/ministry-for-sustainable-mobility-mr-bjorn-callus.html"
     },
     {
       "name": "Ministry for Foreign and European Affairs",
@@ -10302,7 +10317,7 @@
       }
     }
   },
-  "updated": "2026-08-21 11:27 UTC",
+  "updated": "2026-08-21 11:33 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
