@@ -532,7 +532,10 @@
           "Youth Agency",
           "Agency"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-youth-wellbeing-and-the-implementation-of-the-electoral-programme-hon-omar-farrugia.html",
+      "permanent_secretary": "Keith Bartolo",
+      "permanent_secretary_bio": "bios/institute-for-the-public-services-board-keith-bartolo.html"
     },
     {
       "name": "Ministry for Infrastructure, Planning and Works",
@@ -643,7 +646,10 @@
           "Development Planning Fund (Planning Authority)",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-infrastructure-planning-and-works-hon-jonathan-attard.html",
+      "permanent_secretary": "Ronald Mizzi",
+      "permanent_secretary_bio": "bios/ministry-for-infrastructure-planning-and-works-mr-ronald-mizzi.html"
     },
     {
       "name": "Ministry for the Economy, Technology and Strategic Projects",
@@ -794,7 +800,10 @@
           "Co-Operatives Board",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-hon-silvio-schembri.html",
+      "permanent_secretary": "Godwin Mifsud",
+      "permanent_secretary_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-mr-godwin-mifsud.html"
     },
     {
       "name": "Ministry for Education and Sport",
@@ -955,7 +964,10 @@
           "Adoption Board (+ Board of Appeal)",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-social-policy-and-the-family-hon-michael-falzon.html",
+      "permanent_secretary": "Mark Musù",
+      "permanent_secretary_bio": "bios/ministry-for-social-policy-and-the-family-mr-mark-musu.html"
     },
     {
       "name": "Ministry for Agriculture, Fisheries and Food Supply",
@@ -1014,7 +1026,10 @@
           "Producer Organisations Board",
           "Board"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-hon-anton-refalo.html",
+      "permanent_secretary": "Sharlo Camilleri",
+      "permanent_secretary_bio": "bios/ministry-for-agriculture-fisheries-and-food-supply-mr-sharlo-camilleri.html"
     },
     {
       "name": "Ministry for Gozo",
@@ -1049,7 +1064,10 @@
           "Gozo Cultural Council",
           "Council"
         ]
-      ]
+      ],
+      "minister_bio": "bios/ministry-for-gozo-hon-clint-camilleri.html",
+      "permanent_secretary": "Mario Borg",
+      "permanent_secretary_bio": "bios/ministry-for-gozo-mr-mario-borg.html"
     },
     {
       "name": "Ministry for Home Affairs and Security",
@@ -10284,7 +10302,7 @@
       }
     }
   },
-  "updated": "2026-08-21 11:21 UTC",
+  "updated": "2026-08-21 11:27 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
