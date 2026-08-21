@@ -482,7 +482,9 @@
       "permanent_secretary": "Emil Vassallo",
       "permanent_secretary_bio": "bios/ministry-for-local-government-and-public-works-mr-emil-vassallo.html",
       "communications_coordinator": "Mr Francesco Borg",
-      "communications_coordinator_bio": "bios/ministry-for-local-government-and-public-works-communications-coordinator-mr-francesco-borg.html"
+      "communications_coordinator_bio": "bios/ministry-for-local-government-and-public-works-communications-coordinator-mr-francesco-borg.html",
+      "head_of_secretariat": "Francis Galea",
+      "head_of_secretariat_bio": "bios/ministry-for-local-government-and-public-works-head-of-secretariat-ms-francis-galea.html"
     },
     {
       "name": "Ministry for Accommodation and Lands",
@@ -838,7 +840,9 @@
       "permanent_secretary": "Godwin Mifsud",
       "permanent_secretary_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-mr-godwin-mifsud.html",
       "communications_coordinator": "Mr Gianluca Falzon",
-      "communications_coordinator_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-communications-coordinator-mr-gianluca-falzon.html"
+      "communications_coordinator_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-communications-coordinator-mr-gianluca-falzon.html",
+      "head_of_secretariat": "Roberta Albanese Dalli",
+      "head_of_secretariat_bio": "bios/ministry-for-the-economy-technology-and-strategic-projects-head-of-secretariat-ms-roberta-albanese-dalli.html"
     },
     {
       "name": "Ministry for Education and Sport",
@@ -10390,7 +10394,7 @@
       }
     }
   },
-  "updated": "2026-08-21 19:18 UTC",
+  "updated": "2026-08-21 19:23 UTC",
   "deloitte_progress": {
     "total_bios": 521,
     "checked_names": [
